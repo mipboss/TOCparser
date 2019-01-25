@@ -1,0 +1,1495 @@
+page_0004	હવે તો મોક્ષે જાવું છે, બીજો કોઈ	Have To Mokshe Javu Chhe, Bijo Koi	NNYNNNNN	1
+page_0005	હસતે મુખે ઝેર પીએ, નીલકંઠી ખાનદાન	Haste Mukhe Zer Piye, Nilkanthi Khandan	NNNNNNNN	1
+page_0006	જીહાં અનંત રોગનું મૂળ ઊખડીયું	Jihan Anth Rognu Mul Ukhadiyu	NNNNNNNY	1
+page_0007	આ દાદા તો ફક્ત આંખોથી પી જાવાની	Aa Dada Toh Fakt Aakhothi Pi Javani	NNNNNNNN	1
+page_0009	દાદા ભગવાન આપ અમારા અંતિમ તારણહાર	Dada Bhagwan Aap Amara Antim Taranahar	NNNNNNNY	1
+page_0011	સત્સંગ વિના ખૂટતા નથી	Satasang Vina Khutata Nathi	NNNNNNNY	1
+page_0012	નથી ખ્વાહીશ પૂજાવાની, નથી હ્યાં સ્થાપના	Nathi Kwahish Pujvani, Nathi Hya Sthapna	NNNNNNNY	1
+page_0013	ઉપકાર કરૂણાસાગરનો	Upkar Karunasagarno	NNNNNNNY	1
+page_0014	અમોને મોક્ષ મળતો તો છતાં રોકાઈ ગ્યા	Amone Moksh Malto Toh Chhata Rokai Gaya	NNNNNNNY	1
+page_0015	અધર્મ થાય જો સંજોગવશાત, ધર્મ પણ	Adharma Thay Jo Sanjog-vashat, Dharma Pann	NNYNNNNN	1
+page_0017	દાદા ભગવાનનાં પગલાં થયાં ત્યાં	Dada Bhagwanna Pagala Thaya Tya	YNNNNNNY	1
+page_0018	છેલ્લી ઈચ્છા ..... એક જ ઈચ્છા	Chhelli iIchhha …..Ek J Ichchha	NNNNNNNN	1
+page_0018	હવે એક જ છે ઈચ્છા, જગત કલ્યાણ	Have Ekaj Chhe Echha	NNNNNNNY	1
+page_0023	જેની રે સંતો કોટિ જન્મોની પુન્યૈ જાગે રે	Jeni Re Santo Koti Janmoni Punyey Jage Re	NNNNNNNY	2
+page_0025	મનુષ્યનો દેહ મળિયો છે	Manushyano Deh Maliyo Chhe	NNNNNNNY	2
+page_0027	તારે છુટવું હોય સમશાનથી, તો	Tare Chhutvu Hoy Samashan Thi, To	NNNNNNNY	2
+page_0029	ભૂલો પોતાની જોનારા, જગતમાં થઈ	Bhulo Potani Jonara, Jagatma Thai	NNNNNNNY	2
+page_0030	આપ્ત સ્વજન તો તેને રે કહીયે, જેનાં પર મૂકી	Aapt Swajan Toh Tene Re Kahiye, Jena Par	NNNNNNNY	2
+page_0031	કાનુડો બંસી છેડે રે, સૂણે છે આખું યે	Kanudo Bansi Chhede Re, Sune Chhe Aakhu Ye	NNNNNNNN	2
+page_0032	કષાય - ભાવે સ્થૂળ વાણીથી	Kashay - Bhave Sthul Vanithi	NNNNNNNY	2
+page_0033	તરછોડથી આ દુનિયામાં બંધાય છે	Tarchhodthi Aa Duniyama Bandhay Chhe	NNNNNNNN	2
+page_0034	અમ પથ્થર દીલનાં લોઢાંને	Am Pathar Dilna LodhaNe	NNYNNNNN	2
+page_0035	કોઈના યે દોષો જોવાથી, પોતાને છે નૂકશા ની	Koina Ye Dosho Jovathi, Potane Chhe Nuksha Ni	NNNNNNNY	2
+page_0037	પોતાપણું રાયખું ત્યાં લગણ	Potapanu Raykhyu Tya Lagan	NNNNNNNN	2
+page_0038	જે ઘરમાં સારો છે વ્યવહાર, તે ઝુંપડું	Je Garama Saro Chhe Vyavhar, Te Jupadu	NNNNNNNY	2
+page_0041	દાદાશ્રી ભગવાન કહે	Dadashri Bhagwan Kahe	NNNNNNNY	3
+page_0050	ભક્તિ કરતાં કદીયે હું થાકું નહિં	Bhakti Karta Kadiye Hun Thaku Nahi	NNYNNNNY	3
+page_0050	ભક્તિ કરતાં કદીયે હું થાકું નહિં	Bhakti Karata Kadiye - ADDITION	NNYNNNNY	3
+page_0052	ઝેર તો તમારે પીવાં જ પડશે	Zer To Tamare Piva J Padse	NNNNNNNY	3
+page_0059	મને દાદા ભગવાન મળ્યા પછી	Mane Dada Bhagwan Malya Pachhi	NNNNNNNN	3
+page_0062	બ્રહ્મચર્ય - ગદ્ય	Brahmacharya - Gadya	NNNNNNNN	4
+page_0063	નીરખી કોઈ સુંદર સ્ત્રી, લેશ ન નેત્રે	Nirkhi Koi Sundar Stri, Lesh N Netre	NNNNNNNN	4
+page_0066	એક બ્રહ્મચર્યમાં જ, પાંચે વ્રતો આવી જાય	Ek Brahmcharyama J, Panche Vrato Aavi Jay	NNNNNNNN	4
+page_0068	મોહ સંગે વીકારી બે કોડિયાંનું તોફાન	Moh Sange Vikari Be Kodiyanu Tofan	NNNNNNNN	4
+page_0070	શ્રીમંતાઈ પાપની પુકારે ફાડી છાપરાં	Simantai Papni Pukare Fadi Chhapra	NNNNNNNN	4
+page_0073	વિશ્વ આજે સડી ગયું છે	Vishva Aje Sadi Gayu Chhe	NNNNNNNN	4
+page_0075	અન્ય લિંગીને નિરખી	Anya Lingi-Ne Nirakhi	NNNNNNNN	4
+page_0076	મીઠું મીઠું બોલે છે કપટનું કારખાનું	Mithu Mithu Bole Chhe Kapatanu Karakhanu	NNNNNNNN	4
+page_0077	વિશ્વમાં સુખી થવાનો	Vishama Sukhi Thavano	NNNNNNNN	4
+page_0078	સુખઃદુખ લક્ષ્મીનું આવન-જાવન	Sukh:Dukh Lakshminu Aavan-Javan	NNNNNNNN	4
+page_0083	હે સીમંધર સ્વામી, તુમ શરણોમાં	He Simandhar Swami, Tum Sharanoma	NNNNNNYN	5
+page_0086	દેહધારી અરિહંત સીમંધર સ્વામી	Dehdhari Arihant Simandhar Swami	NNNNNNYN	5
+page_0086	દેહધારી અરિહંત સીમંધર સ્વામી	Dehdhari Arihant Simandhar Swami	NNNNNNNN	72
+page_0088	વંદન હો જીનરાજ અમારા	Vandan Ho Jinaraj Amara	NNNNNNYN	5
+page_0088	વંદન હો જિનરાજ અમારા	Vandan Ho Jinaraj Amara	NNNNNNYN	6
+page_0089	પ્રત્યક્ષ દાદા ભગવાનની સાક્ષીએ, સીમંધર સ્વામીને	Pratyaksh Dada Bhagwanni Sakshiye, Simandhar Swamine	NNNNNNYN	5
+page_0090	સ્વામી સીમંધર ભગવાન, તુમરો સત્ પુણ્યંકર	Swami Simandhar Bhagwan, Tumro Sat Punyankar	NNNNNNYN	CD-05
+page_0092	સ્વામી સીમંધર અરિહંત, હરદમ ઉપકારી	Swami Simandhar Arihant, Hardam Upkari Chetan	NNNNNNYN	CD-05
+page_0092	સ્વામી સીમંધર અરિહંત, હરદમ ઉપકારી	Swami Simandhar Arihant, Hardam Upkari Chetan	NNNNNNYN	41
+page_0093	જય, જય, જય સીમંધર સ્વામી	Jay Jay Jay Simandhar Swami	NNNNNNYN	5
+page_0095	મહાવિદેહક્ષેત્રમાં સીમંધર સ્વામી	Mahavideh Kshetrama Simandhar (Good)	NNNNNNYN	6
+page_0095	મહાવિદેહક્ષેત્રમાં સીમંધર સ્વામી	Mahavideh Kshetrama Simandhar Swami	NNNNNNYN	5
+page_0097	આરતી ઉતારું શ્રી જિનવરની	Aarti - Aarti Utaru Shri Jinvarni	NNNNNNYN	5
+page_0098	સીમંધર સ્વામીનો ઝળહળ દીવો	Simandhar Swamino Jalahal Divo	NNNNNNYN	5
+page_0098	આરતી - શ્રી સીમંધર સ્વામી દીવો	Aarti - Shree Simandhar Swami Divo	NNNNNNYN	5
+page_0099	શ્રી સીમંધર સ્વામી પ્રાર્થના	Shri Simandhar Swamine Prarthna	NNNNNNYN	5
+page_0101	અહો! સીમંધર સ્વામી	Aho Simandhar Swami	NNNNNNYN	5
+page_0112	વર્તમાને જિનેશ્વર સીમંધર સ્વામી	Paramsat (Vartmane Jineshwar)	NNNNNNYN	5
+page_0112	વર્તમાને જિનેશ્વર સીમંધર સ્વામી	Vartamane Jineshwar Simandhar Swami	NNNNNNYN	5
+page_0117	નમો અરિહંતાણં, વર્તમાન તીર્થંકર	Namo Aarihantam, Vartman Tirthankar	NNNNNNNN	6
+page_0118	ઋષભ, અજિત, પારસ, મહાવીર	Rushabh, Ajit, Paras, Mahavir - Stuti	NNNNNNNY	6
+page_0118	ઋષભ, અજિત, પારસ, મહાવીર	Mahavidehe Prarthna - Stuti	NNNNNNYN	6
+page_0121	નવ અંગોની પૂજા, હેતુ	Nav Angoni Puja, Hetu	NNNNNNNN	6
+page_0123	ત્રિમંદિરની સાલગીરી	Trimandirni Salagiri, Ubhare Anand	NNNNYNNN	6
+page_0124	સ્વામી સીમંધર ભગવાન, મેરો કેવલજ્ઞાન	Swami Simandhar Bhagavan, Mero Kevalgnan	NNNNNNYN	CD-06
+page_0089	પ્રત્યક્ષ દાદા ભગવાનની સાક્ષીએ, સીમંધર સ્વામીને	Pratyaksh Dada Bhagwanni Sakshiye, Simandhar Swamine	NNNNNNYN	6
+page_0127	આરતી - શ્રી સીમંધર સ્વામી - જય સીમંધર સ્વામી	Aarti - Simandhar Swami - Jay Simandhar Swami	NNNNNNNN	6
+page_0127	શ્રી સીમંધર સ્વામી આરતી	Shri Simandhar Swamini Aarti	NNNNNNNN	6
+page_0128	વંદન હો જિનરાજ અમારા	Vandan Ho Jinaraj Amara	NNNNNNYN	6
+page_0131	આંખડી બીડું ને ભાળું સીમંધર સ્વામી	Akhandi Bidu Ne Bhalu Simandhar Swami	NNNNNNYN	7
+page_0132	ઝળહળતા દીવડાથી દેરાસર શોભજો	Zalhalta Diwada Thi Derasar Shobhjo	NYNNNNYN	7
+page_0133	અમી ભરેલી નજરે ઠારો	Ami Bhareli Najare Tharo	NNNNNNYN	7
+page_0135	ત્રિશલામાતા પારણું	Trishna Mata Paranu	NNNNNNNY	7
+page_0137	યમુના જળમાં કેસર ઘોળી	Yamuna Jalama Kesar gholi	NNNNNNNN	7
+page_0138	આ દુનિયામાં સર્વે જીવને સુખ ને	Aa Duniyama Sarve Jivne Sukh Ne	NNYNNNNN	7
+page_0138	આ દુનિયામાં સર્વે જીવને સુખ ને	Aa Duniyama Sarve Jivne Sukh Ne	NNNNNNNN	68
+page_0139	ઝળહળ જ્યોતિ સ્વરૂપ તું	Zalhal Jyoti Swarup Tu	NNNNNNNN	7
+page_0141	આરતી - જય આદીશ્વર જય ભગવાન	Aarti - Jay Aadishwar Jay Bhagavan	NNNNNNNN	7
+page_0141	જય આદીશ્વર જય ભગવાન	Jay Adishvar Jay Bhagavan	NNNNNNNN	7
+page_0147	અજરામર વીરડો જ્ઞાનફળાં	Ajaramar Virdo Gnanfanhi	NNNNNNNN	8
+page_0148	કોણ જાણે! કેમ હવે મોક્ષ વર્તાય છે	Kon Jane! Kem Haave Moksh Vartay Che	NNNNNNNY	8
+page_0151	સરપ ને મીત્ર સંબોધી બધું ઓકાવી	Sarap Ne Mitra Sambodhi Bandhu Okavi	NNNNNNNY	8
+page_0152	કથણી સાથે વર્તન બંને હોય	Kathani Sathe Vartan Banne Hoy	NNNNNNNY	8
+page_0154	ભવડો ભાવ કરાવે બેઠો	Bhavdo Bhav Karave Betho	NNNNNNNY	8
+page_0156	ભરત ખંડમાં જ્યાં જાશો, ત્યાં સંભળાશે પોકાર	Bharat Khandma Jya Jasho, Tya Sambhalashe Pokar	NNNNNNNN	8
+page_0158	તપ કરવાનાં પણ ખરાં, આપણે ઘેર બેઠાં	Tap Karavana Pan Khara, Apne Gher Betha	NNNNNNNY	8
+page_0160	છોડી દીયો પૂર્વગ્રહ માન્યતા	Chhodi Diyo Purvagraha Manyata	NNNNNNNN	8
+page_0161	કષાયી વાણી ને વર્તન મોટી હીંસા	Kashayi Vani Ne Vartan Moti Hinsa	NNNNNNNY	8
+page_0162	સતજુગમાં ઝાઝુ કરી, સૂરતાલ હોય	Satajugma jhajhu Kari, Suratal Hoye	NNNNNNNY	8
+page_0163	ઊપજાવે સંયમ પરિણામ	Upajave Saiyam Parinam	NNNNNNNY	8
+page_0167	માત્ર જીવોનું દ્રષ્ટિ બિંદુ	Matra Jivonu Drashti Bindu	NNNNNNNY	9
+page_0168	અંદર જે ખૂંચે છે, તે વાતોનું ખપે છે	Andar Je Khuche Chhe, Te Vatonu Khape Chhe	NNNNNNNY	9
+page_0170	તમારીજ હોય જ્યાં ફરિયાદ, તે રકમું	Tamarij Hoy Jya Fariyad, Te Rakmu	NNNNNNNN	9
+page_0171	કોઈને દુઃખ દેવાનો, થયો જે 'ભાવ'	Koine Dukh Devano, Thayo Je 'Bhav'	NNNNNNNY	9
+page_0171	કોઈને દુઃખી કરવાનો ઊઠ્યો જે ભાવ ત્યાં છે	Koine Dukh Devano, Thayo Je 'Bhav'	NNNNNNNY	CD-09
+page_0172	સમજ હંમેશાં શમાવી દેશે	Samaj Hamesha Shamavi Deshe	NNNNNNNY	9
+page_0173	હું શોધું છું, ક્યાં સાંપડશે?	Hu Shodhu Chhu, Kya Sampadshe?	NNNNNNNN	9
+page_0174	આત્મ સ્વરૂપે જે સ્પંદ વહ્યાં	Aatam Swarupe Je Spandh Vahaya	NNNNNNNN	9
+page_0175	સતસંગ છે પુણ્યૈ સંચાલિત	Satsang Chhe Punyai Sanchalit	NNNNNNNY	9
+page_0176	કાચનાં વાસણ જેવું છે માનવીનું મનડું	Kachna Vasan Jevu Chhe Manvinu Manndu	NNNNNNNY	9
+page_0176	કાચનાં વાસણ જેવું છે માનવીનું મનડું	Kachna Vasan Jevu Chhe Manvinu Manndu	NNNNNNNY	9
+page_0177	સંસાર માત્ર વીશેષ ભાવ છે, પોતાનો	Sansar Matra Vishesh Bhav Chhe, Potana	NNNNNNNN	9
+page_0178	રાગ યા દ્વેષાધીન સ્મૃતિ	Rag Ya Dweshdhin Smruti	NNNNNNNN	9
+page_0179	વિગત પૂરણ વીતરાગી સ્વયં મારૂતી	Vigat Puran Vitragi Swayam Maruti	NNNNNNNN	9
+page_0183	જાતે ન બોલ્યું કોઈ કાળે 'હું પ્રગટ ભગવાન'	Jaate Na Bolyu Koi Kaale 'Hun Pragat Bhagawan'	NNNNNNNY	10
+page_0184	નિરંજન જાદુ દીઠે, દોડ્યો અંજાઈ પૂંઠે	Niranjan Jadu Dithe, Dodyo Aanjai Punthe	NNNNNNNY	10
+page_0186	વીનંતી હાથ જોડી કહું, ન કરશો કોઈની	Vinanti Haath Jodi Kahu, N Karsho Koini	NNNNNNNY	10
+page_0187	દેશના ઊપકારીઓને શૂળી - ગોળી રે લોલ	Deshna Upkarione Shuli - Goli Re Lol	NNNNNNNN	10
+page_0189	દેવા બીજાને ઊપદેશ, સહુથી સુંદર છે આ દેશ	Deva Bijane Updesh, Sahuthi Sundar Chhe Aadesh	NNNNNNNN	10
+page_0190	કુદરતના મહેમાન જીવણાં કાળક્રમે	Kudratna Maheman Jivna Kalkrame	NNYNNNNN	10
+page_0193	કોઈ કોઈનું નથી રે, કોઈ કોઈનું	Koi Koinu Nathi Re (Chorus)	NNNNNNNN	10
+page_0194	ધર્માચાર્યો, ઊપદેશકનાં પ્રવચન શબ્દ	Dharmocharya, Updeshakna Pravachan Shabd	NNNNNNNN	10
+page_0195	લાખની મૂડી તોડી, કરવાને બાર હજાર	Lakhani Mudi Todi, Karavane Bar Hajar	NNNNNNNN	10
+page_0198	વીર સ્તુતી કરૂં છું લગાડશો નહીં પ્રભુ માઠું	Veer Stuti Karu Chu Lagadsho Nahi Prabhu Mathu	NNNNNNNY	10
+page_0201	એક પરગટ સ્વયંભૂ થડ ઊગિયું	Aek Pargat Swayambhu Thad Ugiyu	NNNNYNNY	11
+page_0202	ગંગા વહેતી ગંગોત્રીથી, નીચાં નમીને	Ganga Vaheti Gangotrithi, Nicha Namine	NNNNNNNY	11
+page_0203	વદે સૂણ, મંદીરે મૂર્તી, કીશન મહાવીર	Vade-Sun, Mandire Murti, Kishan Mahavir	NNNNNNNN	11
+page_0205	ન કર અપ્રાપ્તની  ચિંતા	N Kar Apraptni Chinta	NNNNNNNN	11
+page_0206	પ્રતિબિંબને માની સાચું	Pratibimbne Mani Sachu	NNNNNNNY	11
+page_0208	સતના શરણમાં જ રહેવું	Satana Shraranama J Rahevu	NNNNNNNY	11
+page_0209	ગુરૂ તે કોને કહેવાય	Guru The Kone Kahevaay	NNNYNNNN	11
+page_0210	આ ભજનમાળનું સામાયિક ગહન	Aa Bhajanmalnu Samayik Gahan	NNNNNNNY	11
+page_0211	સંયોગ આવીને કહી જાય છે કે ઠોકર વાગી	Sanyog Aavine Kahi Jay Chche Ke Thokar Vagi	NNNNNNNN	11
+page_0213	પૂર્વે પ્રયોગેલ શરીરની હોડલી	Purve Prayogel Sharirani Hodli	NNNNNNNN	11
+page_0217	મન વચ કાયા વહો ઉપકારે	Man Vach Kaya Vaho Upkare	NNNNNNNY	12
+page_0219	અમરપદ મોક્ષની આગળ, અગર હોતે	Amar-padd Mokshni Aagal, Agar Hote	NNNNNNNN	12
+page_0220	દુખડાં ઉપકારી થાય	Dukhda Upkari Thay	NNNNNNNY	12
+page_0221	કોઈ પણ વાંધો ઉઠાવે	Koi Pann Vandho Uthave	NNNNNNNN	12
+page_0222	સૂતાં સૂતાં અંધારામાં જોજે મૃત્યુ ન થઈ જાય	Suta Suta Andharama Joje Mrutyu Na Thai Jaye	NNYNNNNN	12
+page_0222	સૂતાં સૂતાં અંધારામાં જોજે મૃત્યુ ન થઈ જાય	Suta Suta Andharama Joje Mrutyu Na Thai Jaye	NNNNNNNN	69
+page_0229	બંધન, બંધન, રાગે-દ્વેષે	Bandhan, Bandhan, Raage-Dweshe	NNYNNNNY	12
+page_0230	મધરાત અજ્ઞ અનાદિથી મછરાં ઊડે	Madharat Agn Anadithi Machra Ude	NNNNNNNN	12
+page_0231	અહંકાર-મમતાનો જ્યાં મોક્ષ	Ahankar-Mamtano Jyan Moksh	NNNNNNNN	12
+page_0233	અરૂપીની શક્તિ અનંત, આત્મા તત્વોને	Arupini Shakti Anant, Atma Tatvone	NNYNNNNN	12
+page_0235	દાદા ભગવાન જગતને સદબુદ્ધિ આપજો	Dada Bhagwan Jagatne Satbudhi Aapjo	NNNNNNNN	12
+page_0236	હરિવર મુજને હરી ગયો	Harivar Mujne Hari Gayo (Raag Bairvi)	NNNNNNNN	12
+page_0241	સહુ સંતોનાં તરતાં તપબળ	Sahu Santona Tarta Tapbal	NNNNNNNY	13
+page_0241	સહુ સંતોનાં તરતાં તપબળ	Sahu Santona Tarta Tapbal	NNNNNNNY	68
+page_0243	અનંત ચોવીસીને વટાવી	Anant Chovisi-ne Vatavi	NNYNNNNY	13
+page_0244	લખાયું છે પૂરવ શાસ્ત્રે, પૂંજા થાશે અસંયતી	Lakhayu Chhe Purva Shastre, Puja Thashe Asamyati	NNNNNNNN	13
+page_0245	નજર નૂરાની, નીહાલ કારી	Najar Nurani, Nihal Kari	NNNNNNNN	13
+page_0246	શ્રુતવાણી સતસંગ	Shrutvani Satsang	NNNNNNNN	13
+page_0247	અનંતા જ્ઞેયોને જોઈ, જાણ્યો શુદ્ધ 'તે'	Ananta Gneyo-ne Joine, Janyo Shuddha 'Te'	NNNNNNNN	13
+page_0249	આત્માનું મૂળ સ્વરૂપ અખંડ સમાધિ	Aatmanu Mul Swarup Akhand Samadhi	NNNNNNNN	13
+page_0250	દાદાજી' સહુનાં	Dadaji' Sahuna	NNNNNNNY	13
+page_0251	ગુનેગારો ને સજ્જનની	Gunegaro Ne Sajjanni	NNNNNNNN	13
+page_0252	અનંત અવતારનાં મરણાં ટાળે શુદ્ધ	Anant Avatarna Marana tale Shudhah	NNNNNNNN	13
+page_0253	પોતે કંકુથી છાપેલી કંકોતરી, ગત અજ્ઞાને	Pote Kankuthi Chhapeli Kankotri, Gatt Agnane	NNNNNNNN	13
+page_0254	અહંકારનાં પીતાનું નામ અજ્ઞાન છે	Ahankarna Pitanu Naam Agnan Chhe	NNNNNNNN	13
+page_0255	અહંકાર! શૂન્ય થઈ, દેહ સાથે મોક્ષ	Ahankar! Shunyay Thayi, Deh Saathe Moksh	NNNNNNNN	13
+page_0259	મૂળ મારગ સાંભળો જીનનો રે	Mul Marg Sambhlo Jinano Re	NNNNNNNY	14
+page_0260	પ્રસંગોપાત દેખાશે	Prasangopat Dekhashe	NNNNNNNN	14
+page_0261	ફરજીયાત કર્મના ફળ ભોગવવાં	Farajiyat Karmana Fal Bhogavava	NNNNNNNN	14
+page_0262	સામાયિકમાં ચિત્તના ગ્રાફે	Samayikma Chittna Graphe	NNNNNNNY	14
+page_0264	સરસ્વતી માતાજીને નમસ્કાર કરું છું	Sarswati Matajine Namaskar Karu Chhu	NNNNNNNY	14
+page_0264	સરસ્વતી માતાજીને નમસ્કાર કરું છું	Sarswati Matajine Namaskar Karu Chhu	NNNNNNNN	41
+page_0266	પ્રકૃતિને સુખરૂપ કરવા, માતાજીની	Prakrutine Sukhrukh Karva, Matajini	NYNNNNNN	14
+page_0268	કોમી એખલાસનો સંધિ-કાળ સમંવય	Komi Ekhlasno Sandhi-Kal Sammvya	NNNNNNNN	14
+page_0269	માત-પિતા પરથમ પૂજે, ભાવથી	Maat-Pita Paratham Puje	NNNNNNNN	14
+page_0270	સર્વે ધર્મનો મૂળ પાયો	Sarve Dharmno Mul Payo	NNNNNNNN	14
+page_0272	ભક્તિ-ભાવના તન-મન સાથે	Bhakti-Bhavna Tann-Mann Sathe	NNNNNNNY	14
+page_0273	ભોજનાલય, શૌચાલય પૂરણ, ગલન ને શુદ્ધાત્મા	Bhojanalay, Shauchalay Puran, Galan Ne Shudhatma	NNNNNNNY	14
+page_0277	હાલક-ડોલક નૌકામાં	Halak-Dolak Naukama	NNNNNNNN	15
+page_0281	હવે છબછબિયાં નથી	Have Chhabchhabiya Nathi	NNNNNNNY	15
+page_0283	સ્વયં-રમણ સમંદરના કોયડાના ખેલ જો	Swayam-Raman Samandarna Koydana Khel Jo	NNNNNNNY	15
+page_0283	સ્વયં-રમણ સમંદરના કોયડાના ખેલ જો	Swayam-Raman Samandarna Koydana Khel Jo	NNNNNNNN	70
+page_0285	બીજે ક્યાંય ગમે નહીં તો આત્મામાં ગમાડ	Bije Kyay Gameh Nahi Toh Atmama Gamad	NNNNNNNY	15
+page_0287	સમજણ ભૂલ વગરની થશે	Samajan Bhul Vagarni Thashe	NNNNNNNN	15
+page_0289	જેવું જુએ તેવું શીખે પુદગલ સ્વભાવથી	Jevu Jue Tevu Shikhe Pudagal Swabhavathi	NNNNNNNN	15
+page_0291	નીત નવું શોધે છે, માનવનું મનડું, ઠરી ઠામ	Nit Navu Shodhe Chhe, Manavnu Manadu, Thari Tham	NNNNNNNN	15
+page_0293	અણું પણ છુટ્ટું એકજ હોય તો તેમાં	Anu Pan Chuttu Ekaj Hoy To Tema	NNNNNNNN	15
+page_0295	આર્તધ્યાન, રૌદ્રધ્યાન, જગત ઉપાદાન	Aartdhayan Raudradhayan Jagat Upadan	NNNNNNNN	15
+page_0296	ઝૂમક ઝૂમ ગાવો ધૂન	Zumak Zum Gao Dhum	NNNNNNNY	15
+page_0296	झूमक झूम गावो धून, जगत कल्याण	Zumak Zum Gao Dhum	NNNNNNNN	24
+page_0301	કોઈ જક્કે ચઢે ત્યારે છોડી દઈએ	Koi Jakke Chade Tyare Chhodi Dayiye	NNNNNNNY	16
+page_0301	કોઈ જક્કે ચઢે ત્યારે છોડી દઈએ	Koi Jakke Chade Tyare Chhodi Dayiye	NNNNNNNN	70
+page_0302	જેનું નિદિધ્યાસન કરે, તેવો આત્મા થાય	Jenu Nididhyasan Kare, Tevo Atma Thay	NNNNNNNY	16
+page_0303	કારણ-કાર્યનું રૂપાંતર	Karan-Karyanu Rupantar	NNNNNNNN	16
+page_0305	છુપા રાખવા પડે છે જે કોઈ કામ	Chhupa Rakhava Pade Chhe Je Koi Kaam	NNNNNNNN	16
+page_0307	સંજોગાધીન છે માનવ ભમ્મરડો	SanjogiDhin Chche Manav Bhammardo	NNNNNNNN	16
+page_0309	બહુરૂપ શબ્દ-પ્રકાર પુદગલના ખાંચા	Bahurup Shabd-Prakar Pudagalana Khacha	NNNNNNNN	16
+page_0311	સ્થિર ચિત્તે ખોલી જો, અંતરનું	Sthir Chite Kholi Jo, Antarnu	NNNNNNNN	16
+page_0313	અંતર શાંતી કદી જાય નહીં	Antar Shanti Kadi Jay Nahi	NNYNNNNN	16
+page_0313	અંતર શાંતી કદી જાય નહીં	Antar Shanti Kadi Jay Nahi	NNNNNNNN	70
+page_0314	મનવા, આપણાં જ ઘરમાંથી	Manva, Aapna J Gharamathi	NNNNNNNY	16
+page_0315	નિવેડો લાવી દ્યો દાદા	Nivedo Lavi Dyo Dada	NNNNNNNY	16
+page_0316	મનના રોગો પીડે	Manna Rogo Pide	NNNNNNNN	16
+page_0317	સ્વામી સીમંધર, વિનંતી સુણજો	Swami Simandhar, Vinanti Sunjo	NNNNNNYN	16
+page_0321	દાદા ભગવાનનું તપોબળ	Dada Bhagwannu Tapobal	NNNNNNNN	17
+page_0321	સંત પુરૂષોનું યોગબળ	Sant Purushonu Yogbal	NNNNNNNN	17
+page_0321	સર્વ મંગલ માંગલીક	Sarv Mangal Manglik	NNNNNNNN	17
+page_0322	કાળની બલીહારી, શ્રુતજ્ઞાની મનોહારી	Kalni Balihari, Shrutgnani Manohari	NNNNNNNN	17
+page_0323	અંબાલાલ મૂળજીભાઈ મહીં દાદા ભગવાન	Ambalal Muljibhai Mahi Dada Bhagawan	NNNNNNNN	17
+page_0324	પોતાની મેળે તરનારાં	Potani Mele Taranara	NNNNNNNN	17
+page_0325	લોકોના ઊંઘતા અંતઃસ્કરણને	Lokona Ungata Anth:Skaranne	NNNNNNNN	17
+page_0326	કોઈ બાહ્ય-ચીજ વીના ઠારે છે જે આત્મા	Koi Bahy-Chij Vina Thare Che Je Atma	NNNNNNNN	17
+page_0328	સદા પ્રેમીઓ તો પ્રેમમાં બને છે	Sada Premio To Premama Bane Chhe	NNNNNNNN	17
+page_0330	પુસ્તકો જ વાંચીને બન્યા છે જે	Pustako J Vachine Banya Chhe Je	NNNNNNNN	17
+page_0331	સાત સાત સમંદર પ્રતીષ્ઠીત-પીંડમાં જ્ઞાની	Saat Saat Simandhar Pratishthit-Pindma Gnani	NNNNNNNN	17
+page_0332	જ્યાં સુધી આપણામાં, રહ્યો છે અહંકાર	Jya Sudhi Apnama, Rahyo Chhe Ahankar	NNNNNNNN	17
+page_0333	મમત-સમંદર કીચડ પેટાળ	Mamat-Samandar Kichad Petaal	NNNNNNNN	17
+page_0337	જેનાં વાણી વર્તન ને વિનય છે મનોહર	Jena Vani Vartan Ne Vinay Chhe Manohar	NNNNNNNY	18
+page_0338	જેને કોઈ અપેક્ષા જ નહીં	Jene Koi Apeksha J Nahi	NNNNNNNN	18
+page_0339	ભેળાં થઈને વીખરાઈ જવું	Bhela Thaine Vikharay Javu	NNYNNNNN	18
+page_0340	અન-અવગાહક અંતર્યામી	An-Avgahak Antaryami	NNNNNNNY	18
+page_0342	ચાર પ્રકારનાં 'ધ્યાન' છે વિશ્વમાં	Char Prakarna 'Dhayan' chhe Vishvama	NNNNNNNN	18
+page_0343	કરમ બંધાય છે ત્યારે, ખબર પડતી નથી કોઈને	Karam Bandhay Chhe Tyare, Khabar Padti Nathi Koine	NNNNNNNY	18
+page_0344	પાણી તેવી વાણી આહાર તેવું મન-તન	Pani Tevi Vani Aahar Tevu Mann-Tann	NNNNNNNN	18
+page_0346	કર્યું, કાર્વ્યું, અનુમોદ્યું	Karyu, Kavyu, Anumohdhyu	NNNNNNNY	18
+page_0348	હે નિરાગી નિર્વિકારી	He Niragi Nirvikari	NNNNNNNN	18
+page_0350	તડકાં તપે ને બાળે લૂ વૈશાખમાં	Tadka Tape Ne Bole Lu Vaishakhma	NNNNNNNY	18
+page_0355	નીજ સ્વભાવસે સદ્‍ગુરૂ, અગુરૂ લઘુ	Nij Swabhavse Sadguru	NNNNNNNN	19
+page_0356	સોનું મઢ્યા હીરા જડીત, દરવાજા તોતિંગ	Sonu Madhya Hira Jadit, Darwaja Totingh	NNNNYNNN	19
+page_0359	દાદાનાં ગુણલાં ગાશે, તેને મહા નિર્જરા થાશે	Dadana Gunala Gashe, Tene Maha Nirjra Thashe	NNNNNNNY	19
+page_0360	દીવસે ન આવ્યાં, રાતે તો આવો	Divase N Aavya, Raate To Aavo	NNNNNYNN	19
+page_0361	શાસ્ત્રોમાં વર્ણન છે જેનું 'ઘોડો' વાહન	Shastroma Varnan Chhe Jenu 'Ghodo' Vahn	NNNNNNNY	19
+page_0362	અદભૂત અદભૂત 'આ' અવતાર	Adabhut Adabhut Aa Avatar	NNNNNNNY	19
+page_0363	આવો પધારો રૂદિયામાં	Aavo Padharo Rudiyama	NNNNNNNN	19
+page_0364	તમે કહો 'જ્ઞાન' તેમાં કક્કોયે હું જાણું નહીં	Tame Kaho 'Gnan' Tema Kakkoye Hun Janu Nahi	NNNNNNNY	19
+page_0366	સાતત્ય હોય, તોજ ઊપદેશ આપજો	Satya Hoye, Toj Updesh Aapjo	NNNNNNNY	19
+page_0368	ગમે નહીં (૨), કાંઈ ગમે નહીં, દાદા ભગવાન વીના	Gameh Nahi (2), Kai Gameh Nahi, Dada Bhagawan Vina	NNNNNYNN	19
+page_0370	જય સચ્ચિદાનંદ જગત કલ્યાણ હો	Jay Sachchidanand Jagat Kalyan Ho	NNNNNNNY	19
+page_0372	પ્રત્યક્ષ દાદા ભગવાનની સાક્ષીએ, એજ વાક્ય સૂચવે છે કે	Pratyaksh Dada Bhagwanni Sakshiye, Ej Vakya Suchave Chhe	NNNNNNNY	19
+page_0377	ચંદન ઓરસીએ ઘસી આયખાંની અગરૂં	Chandan Ohrasiye Ghasi Aaykhani Angru	NNNNNNNY	20
+page_0378	જ્ઞાની પુરૂષનાં દર્શનથી, પાપો ભસ્મીભૂત	Gnani Purushna Darshanathi, Papo Basmibhut	NNNNNNNY	20
+page_0380	દાદા ભગવાનની એવી નામના, એતો	Dada Bhagwanni Evi Namana Eto	NNNNNNNY	20
+page_0381	કાજળમાંથી પૂનમ પ્રગટાવે, એ સંગમેશ્વરને	Kajalmathi Punam Pragtave, Eh Sangmeshwarne	NNNNNNNY	20
+page_0383	કીર્તન તમારાં કુંજતાં	Kirtan Tamara Kunjata	NNNNNNNN	20
+page_0384	જય સચ્ચિદાનંદ (૨), અમને ભેટ્યાં શ્રી દાદા	Jay Sachchidanand (2), Amne Bhetya Shri Dada	NNNNNNNY	20
+page_0385	પૂજનલોકી ભરતખંડે લોકા લોક-પારની	Pujanloki Bharatkhande Loka Lok-Parni	NNNNNNNN	20
+page_0386	ભીષણ રાત્રિ ઘોર અંધારે આતમ (અંધારા યુગો)	Bhishan Ratri Ne Ghor Andhare	NNNNNNNY	20
+page_0386	જય સચ્ચિદાનંદ..ભીષણ રાત્રિ(અંધારા યુગો)	Jay Sachchidanand (2) - Bhishan Ratri Ne Ghor	NNNNNNNY	20
+page_0388	મૂર્તા-મૂર્તા પ્રગટ પરમાત્મા	Murta-murta Pragat Paramatma	NNNNNNNY	20
+page_0388	મૂર્તા-મૂર્તા પ્રગટ પરમાત્મા	Murta-murta Pragat Paramatma	NNNNNNNN	41
+page_0393	જ્ઞાની પુરુષ પોતે જીવતું છે ઉપનીષદ	Gnani Purush Pote Jivtu Chhe Upnishad	NNNNNNNY	21
+page_0394	પરગટ પ્રભુને પાયે પડું છું, તારણહાર	Pargat Prabhune Paye Padu Chhu, Taranhar	NNNNNNNY	21
+page_0395	એક નાનું સરખું ગામ છે તરસાળી	Ek Nanu Sarkhu Gaam Chhe Tarasali	NYNNYNNN	21
+page_0396	સદા શ્રી સુહાગણ	Sada Shri Suhagan	NNNNNYNY	21
+page_0397	જાગો, જાગો, જાગો રે, પૂંજો કચરો કાઢો	Jago, Jago, Jago Re, Punjo Kachro Kadho	NNNNNNNY	21
+page_0898	જે વાણી મનમાં ઘૂંટાણી, અને જો બહાર	Je Vani Manma Ghutani Ane Jo Bahar	NNNNNNNN	49
+page_0399	વાતો દિલની કરવી છે	Vato Dilani Karavi Chhe	NNNNNNNN	21
+page_0400	દીવડો રે મારા આતમ રામનો	Divdo Re Mara Aatamramno	NYNNNNNN	21
+page_0401	પારસને સ્પર્શે કંચન થયા	Parasane Sparshe Kanchan Thaya	NNNNNNNY	21
+page_0402	સુન સખી મોરી આ દાદાની	Sun Sakhi Mori Aa Dadani	NNNNNNNY	21
+page_0405	હેપી બર્થડે ટુ યુ, જ્ઞાની	Happy Birthday To You, Gnani	NNNNYNNN	21
+page_0409	શ્રી મુખે સરસ્વતી વહી, મોક્ષ-મૂળ	Shri Mukhe Sarswati Vahi, Moksh-Mul	NNNNNNNY	22
+page_0411	જેની માત્ર સ્મૃતિથી જ સભર થાય આત્મા	Jeni Matra Smrutithi J Sabhar Thay Atma	NNNNNNNY	22
+page_0413	દાદાનાં જ્ઞાન થકી દેખાઈએ	Dadana Gnan Thaki Dekhaiye	NNNNNNNN	22
+page_0414	ગા, ગા કે 'દાદા'-ગીત	Ga, Ga Ke 'Dada'-Geet	NNNNNNNY	22
+page_0414	ગા, ગા કે 'દાદા'-ગીત	Ga, Ga Ke 'Dada'-Geet	NNNNNNNN	24
+page_0416	હે કરૂણા સાગર, હે તરણ તારણ	He Karuna Sagar, He Taran Taaran	NNNNNNNY	22
+page_0417	પ્રગટ પ્રભુનું સ્વાગત કરું છું	Pragat Prabhunu Swagat Karu Chu	NNNNNNNY	22
+page_0418	દાદાજી' રે! અનાદિનાં અપ્પારવી આપ રે	Dadaji' Re! Anadina Apparvi Aap Re	NNNNNNNY	22
+page_0419	પરમ પ્યાર પચી જાય છે	Param Pyar Pachi Jay Chhe	NNNNNNNY	22
+page_0420	શમણાંઓ વહી ગયાં	Shamanao Vahi Gaya	NNNNNYNN	22
+page_0422	ગાળો દઈનેયે દાદા, ગાંગડુને તારો દાદા	Gaalo Dayiney Dada, Gangdune Taro Dada	NNNNNNNY	22
+page_0424	કળીકાળની છે અચરજ, પૈસા પૂજાય	Kalikalni Chhe Acharaj, Paisa Pujya	NNNNNNNY	22
+page_0427	ઊઠો, જાગો, દોડો, પકડો અક્રમગાડી	Utho, Jago, Daudo, Pakdo Akramgadi	NNNNNNNY	22
+page_0431	સત-પુરુષની ચરણ-રજનું મહાતમ	Sat-Purushani Charan-Rajanu Mahatam	YNNNYNNN	23
+page_0433	કંઠે બીરાજો હે દાદા	Kanthe Birajo Hey Dada	NNNNNNNY	CD-23
+page_0434	દુનિયા સાથે કેવળજ્ઞાની રહેતાં પ્રેમ સ્વરૂપે	Duniya Sathe Kevalgnani Raheta Prem Swarupe	NNNNNNNN	23
+page_0436	અમે કેવાં પુણ્યશાળી, ભગવાન	Ame Keva Punyashali, Bhagawan	NNNNNNNY	23
+page_0437	દાદા અમારા પરમેશ્વર ને દાદા અમારા	Dada Amara Parmeshwar Ne	NNNNNNNY	23
+page_0438	નિંદે યા તો પૂંજે	Ninde Ya To Puje	NNNNNNNY	23
+page_0438	નિંદે યા તો પૂંજે	Ninde Ya To Puje	NNNNNNNN	67
+page_0440	ભલે પધાર્યા કળીયુગમાં પણ	Bhale Padharya Kalayugma	NYNNYNNY	23
+page_0442	ભવસાગરના તારકને તારૂં સોંપી દે સુકાન	Bhavasagarna Tarakane Taru Saupi De Sukan	NNNNNNNY	23
+page_0444	આપણે દાદા ભગવાન વિના બીજું	Aapne Dada Bhagawan Vina Biju	NNNNNNNY	23
+page_0446	જરીક અમથાં જ પરિચયથી જ્યાં ભાસી	Jarik Amtha J Parichayathi Jya Bhasi	NNNNNNNY	23
+page_0447	પોતે જ પોતાને ઓળખી શકે ન ખુદ	Pote J Potane Olkhi Shake N Khud	NNNNNNNN	23
+page_0448	કિસ્મતકા રંગ છે ન્યારા	Kismatka Rang Chhe Nyara	NNNNNNNN	23
+page_0478	દિલમંદિર નિવાસી તુમકો	Dilmandir Nivasi Tumko	NNNNNYNN	23
+page_0484	યે વિશ્વમેં સુખ ઓર શાંતિ હો	Ye Vishvamai Sukh Aur Shanti Ho	NNYNNNNN	24
+page_0484	યે વિશ્વમેં સુખ ઓર શાંતિ હો	Ye Vishvamai Sukh Aur Shanti Ho	NNNNNNNN	36
+page_0484	ये विश्वमें सुख और शांति हो	Ye Vishvamai Sukh Aur Shanti Ho	NNNNNNNN	44
+page_0485	દાદા ભગવાનકો સાક્ષીમેં રખતે	Dada Bhagwanko Sakshi Mai Rakhate	NNNNNNNN	24
+page_0488	જીસને રાગ-દ્વેષ કામાદીક	Jisne Rag-dvesh Kamadik	NNNNNNNN	24
+page_0490	विश्वकी ये भव्यता तेरी है, तेरी तरफ प्रशंसा	Vishvaki Yeh Bhavyata Teri Hai, Teri Taraf Prashansha	NNNNNNNN	24
+page_0491	કિસી કે કામ જો આયે	Kisi Ke Kaam Jo Aaye	NNNNNNNN	24
+page_0492	તેરી આંખોકા દીવાના	Mastak Par Aakash Uthaye (Teri Aakhoka)	NNNNNNNN	24
+page_0492	તેરી આંખોકા દીવાના	Teri Aankonka Diwana	NNNNNNNN	24
+page_0492	તુમ નીકલે વ્યવહારે	Tum Nikale Vyavhare	NNNNNNNN	24
+page_0492	વ્યવહારે હે મંગલમ્ (તેરી આંખોકા દીવાના)	Vyavhare Hey Mangalam (Teri Ankhoka)	NNNNNNNN	24
+page_0493	યા અલ્લાહ પરવર દીગાર	Ya Alla Paravar Digar	NNNNNNNN	24
+page_0497	આ 'છે' 'તે' વૈષ્ણવ સ્વજન જે નરસિંહ	Aa Chhe Te Vaishnav Swajan Je Narsiha	NNNNNNNN	25
+page_0498	આવ્યો કલ્કિ તારણહાર રે	Aavyo Kalki Taranhar Re	NYNNYNNN	25
+page_0499	આ દુનિયાથી છૂટી દાદા સીધું જ મોક્ષે	Aa Duniyathi Chuti Dada Siddhu J Mokshe	NNNNNNNN	25
+page_0500	અંધારી રાતડી જેણે ચીરી, તેનીજ ઉજવાય	Andhari Raatdi Jene Chiri, Tenij Ujvay	NNNNYNNN	25
+page_0501	દાદાને મળવાથી પાપો ભસ્મ જ થાય	Dadane Malavathi Papo Bhasma J Thay	NNNNNNNN	25
+page_0502	ઊંધું યા તો સીધું બોલો નામ 'દાદા'	Undhu Ya To Sidhu Bolo Naam 'Dada'	NNNNNNNY	25
+page_0503	અમારાં જ્ઞાનવાક્યોના	Amara Gnan-vakyona	NNNNNNNN	25
+page_0504	દાદા ભગવાનને નમસ્કાર કરું છું	Dada Bhagwanne Namaskar Karu Chhu	NNNNNNNY	25
+page_0506	અમારી એક ધ્રુવ ઈચ્છા	Amari Ek Dhuv ichha	NNNNNNNN	25
+page_0508	દાદાનું ગીત મારે ગાવું છે	Dadanu Geet Mahre Gavu Chhe	NNNNNNNY	25
+page_0509	દાદા ભગવાન (૩) બોલો .... સચ્ચિદાનંદ	Dada Bhagwan (3) Bolo …. Sachidanand	NNNNNNNN	25
+page_0511	હસતો રમતો થાય	Hasato Ramto Thay	NYNNNNNN	25
+page_0515	આ' નીયમન ચક્રનો ધ્રુવ કાંટો, ભગવાન	Aa Niyaman Chakrano Dhruv Kanto, Bhagawan	NNNNNNNY	26
+page_0516	અમૃત-વાણીની મીજબાની માણું, પિરસ્યું પ્રભુએ	Amrut-VaniNi Mijabani Manu, Pirasyu Prabhu-Eh	NNNNNNNY	26
+page_0517	દસ લાખ વર્ષે પ્રગટ આવે છે તે 'વ્યવસ્થિત'	Das Lakh Varshe Pragat Ave Chhe Te Vyavasthit	NNNNYNNN	26
+page_0519	સર્વેનાં મનનાં પર્યાયો વાંચી, દાદા બને છે	Sarvena Manana Paryayo Vachi, Dada Bane Chhe	NNNNNNNY	26
+page_1005	અમારી ગુરુપૂનમ કાયમી સ્વ-દીપ	Amari Gurupunam Kaymi Sva-Deep	NNNYNNNN	58
+page_0521	દાદા શરણું આપોને, આ દુનિયાથી છૂટવા માટે	Dada Sharnu Aapone, Aa Duniyathi Chuttva Mate	NNNNNNNY	26
+page_0522	સહુને મહાન પરાણે થાવું, ગુણ વીણ પણ	Sahune Mahan Parane Thavu, Gun Vin Pan	NNNNNNNN	26
+page_0523	વારસ અહો! દાદાનાં, અક્રમ ઝંડો ફરકાવજો	Varas Aho Dada Na, Akram Zando Farkavo	NNNNNNNY	26
+page_0524	હું બાવો, ને મંગળદાસ	Hu Bavo, Ne Mangaldas	NNNNNNNN	26
+page_0525	દાદા ભગવાન વ્હાલા એવા, ભરતને	Dada Bhagwan Vahela Eva, Bharatane	NNNNNNNN	26
+page_0527	સંસાર એક માયાની જાળ છે, સાચા દાદાજી	Sansar Ek Mayani Jal Chhe, Sacha Dadaji	NNNNNNNY	26
+page_0528	આ ...વો (૨), નાટક જોવા આવો	Aa Vo Natak Jova Aavo	NNNNNNNN	26
+page_0533	ધન્ય હો આજનો, પરમાનંદ	Dhanya Ho Aajno Parmanand	NNNNNNNY	27
+page_0533	જય સચ્ચિદાનંદ, બોલો.. ધન્ય હો આજનો	Jay Sachchidanand, Bolo Jay …. Dhanya Ho	NNNNNNNY	27
+page_0534	અમારી જ્ઞાન શીખર ટોચ	Amari Gnan Shikhar Toch	NNNNNNNN	27
+page_0536	દાદાજી રે દાદાજી સૌને લાગે વ્હાલાજી	Dadaji Re Dadaji Saune Lage Vahalaji	NNNNNNNN	27
+page_0538	જે દિવસે 'જયકાર' ગૂંજશે	Je Divase 'Jaykar' Gunjshe	NNNNYNNN	27
+page_0540	સર્વે સત્તાધીશ અમને 'વીતરાગ' બનાવજો	Sarve Sattadhish Amne 'Vitrag' Banavjo	NNNNNNNN	27
+page_0541	શબ્દે સ્વરા સંસ્કાર, મોક્ષેશ્વરા નીજ ધારા	Shabde Swara Sanskar, Moksheshwara Nij Dhara	NNNNNNNN	27
+page_0542	પરમ પવિત્રા પુરુષ પુરાણાં, અખિલેશ્વર	Param Pavitra Purush Purana, Akhileshwar	NNNNNNNN	27
+page_0543	દાદાની જોડ જગે નહીં જડે રે લોલ	Dadani Jodd Jage Nahi	NYNNNYNN	27
+page_0545	વિશ્વ-કલ્યાણ કાજ, સાત્વિક-શહીદનો	Visha-Kalyan Kaj, Satvik-Shahidno	NNNNNNNN	27
+page_0546	હે પવન પવિત્રા	He Pavan Pavitra	NNNNNNNY	27
+page_0552	હે જી! આજે આતમનો ભાળ્યો રે ઉજાશ	He Ji! Aaje Aatamano Bhabyo Re Ujash	NNNNNNNY	28
+page_0553	નામ રૂપી પરપોટો, દાદાજીને વશ વર્તો	Nam Rupi Parapoto, Dadajine Vash Varto	NNNNNNNN	28
+page_0555	મારાં સપનાં શણગાર્યાં જેણે	Mara Sapana Shanagarya Jene	NNNNNNNN	28
+page_0556	અપૂર્વ સ્વર-શ્રુતી સ્ફૂરણ-ધારા, ફૂટ્યાં ફૂવારા	Aapurva Svar-Shruti Sfuran-Dhara futtya fuvara	NNNNNNNN	28
+page_0557	અંતર સંયમ, નીરમલ હીરદય દાદા એવાં	Antar Saiyam, Nirmal hirday Dada Ehva	NNNNNNNY	28
+page_0558	સંગમેશ્વર, સચ્ચિદાનંદ, શુદ્ધ આનંદ	Sangameshwar, Sachchidanand, Shuddh Anand	NNNNNNNN	28
+page_0559	દાદા ભગવાન મૂર્તામૂર્ત પ્રણામ	Dada Bhagwan Murtamurt Pranam	NNNNNNNN	28
+page_0560	અમે કહોવાઈ શેષ, તમે સત-અવશેષ	Ame Kahovayi Shesh, Tame Sat-Avashesh	NNNNNNNN	28
+page_0561	હે દાદા અ-કર્તા કિરતાર	He Dada A-Karta Kirtar	NNNNNNNN	28
+page_0563	ભાદ્રણ ગોંમનો રે ડંકો વાગ્યો	Bhadaran Gomano Re Danko Vagyo	NNNNYNNN	28
+page_0565	આ ....ખો દા'ડો તમારી યાદમાં	Aa Kho Dado Tamari Yaadma	NNNNNYNN	28
+page_0567	ભાદરવાના ભીંડા જ્યારે, બહુ જોરમાં આવે રે	Bhadaravana Bhinda Jyare, Bahu Jorma Ave Re	NNNNNNNN	28
+page_0571	દાદા, દાદા બોલું ને નીજાત્મા જ મહેંકે	Dada, Dada Bolu Ne Nijatma J Maheke	NNNNNNNY	29
+page_0573	દાદા ભગવાન વિના કશું જ ખપે ન હો	Dada Bhagwan Vina Kashu J Khape N Ho	NNNNNNNY	29
+page_0574	દીવડો, ' દાદા'એ પ્રગટાયો (છેલ્લી નવી કડી સાથે)	Aakhiye Duniya - Divado Dadaae	NNNNNNNN	29
+page_0574	દીવડો, ' દાદા'એ પ્રગટાયો (છેલ્લી નવી કડી સાથે)	Divdo, ' Dada'E Pragtayo	NYNNNNNN	29
+page_0575	જગતભરની વિસ્મૃતિ, એકજ આપ સ્મૃતિ	Jagatbharni Vismruti, Ekaj Aap Smruti	NNNNNYNY	29
+page_0577	ચીંતામણી 'આ' રત્ન પ્રકાશમાન	Chintamani 'Aa' Ratna Prakashman	NNNNNNNY	29
+page_0579	વર્ષે દાદા કીરપા કરૂણાધાર જો	Varshe Dada Kirapa Karunadhar Jo	NNNNNNNY	29
+page_0581	વારસ અહો! દાદાનાં, શૂરવીરતા	Varas Aho Dada Na Shurvirta	NNNNNNNN	29
+page_0582	હે આતમ સ્વ-કલ્યાણ	He Aatam Swa-kalyan	NNNNNNNY	29
+page_0583	વરસી વસુંધરા ગરવી ગુજરાતમાં	Varshi Vasundhara Garvi Gujaratama	NNNNYNNY	29
+page_0584	લાગે છે 'દાદા' આવી ગયા છે	Laage Chhe 'Dada' Aavi Gaya Chhe	NNNNYNNN	29
+page_0586	અહીં 'આ' સંભારું ને પૂગી જાય તેમને	Ahi "Aa" Sambharun Ne Pugi Jay Tamne	NNNNNNNN	29
+page_0591	સર્વસ્વ અમારૂં અર્પણ છે, ભગવાન તમારા	Sarvasva Amaru Arpan Chhe, Bhagwan Tamara	NNNNNNNY	30
+page_0591	સર્વસ્વ અમારૂં અર્પણ છે, ભગવાન તમારા	Sarvasva Amaru Arpan Chhe, Bhagwan Tamara	NNNNNNNN	37
+page_0592	નગર, ગલી ને શેરી-ચૌટે ગુંજન એકજ નામ	Nagar, Gali Ne Sheri-Chaute Gunjan Ekaj Naam	NNNNNNNN	30
+page_0594	કોટ ટોપી વાલે, દાદાજી હમારે, હમ હૈ તુમ્હારે	kot Topi Vale, Dadaji Hamare, Hum Hai Tumhare	NNNNNNNY	30
+page_0594	કોટ ટોપી વાલે, દાદાજી હમારે, હમ હૈ તુમ્હારે	kot Topi Vale, Dadaji Hamare, Hum Hai Tumhare	NNNNNNNN	40
+page_0595	નીચે નમીને નમસ્કાર કરું છું, મારા ટોપીવાળા	Niche Namine Namaskar Karu Chhu, Mara Topiwala	NNNYNNNN	30
+page_0596	અંબે માતાના લાલાને બાંધું રાખડી રે	Ambe matana Lalane Bandhu Rakhdi Re	NYNNNNNN	30
+page_0597	અસીં પગે લગોતા રે, દાદા ભગવાન કે રે	Asee Paghe Lagota Re, Dada Bhagawan Ke Re	NNNNNNNN	30
+page_0598	ઢમ, ઢમ, ઢમ, ઢમ ઢોલકાં વાગે	Dham, Dham, Dham, Dham Dholka Vage	NYNYNNNN	30
+page_0601	શુદ્ધાત્મા'નાં સ્વ-પર દર્શન માણેકઠારી નિત્યે	Shudhatma'na Sva-Par Darshan Manekthari Nithye	NNNYNNNN	30
+page_0602	ભારત ભોમે, પ્રગટ આત્મ વ્યક્તા દાદા ભગવાન	Bharat Bhome, Pragat Aatma Vyakta Dada Bhagwan	NNNNNNNY	30
+page_0603	દાદા ભગવાન પાસે જાદુ-અભેદ એવાં	Dada Bhagwan Paase Jhadu Abhed Eva	NNNNNNNY	30
+page_0604	દાદા ભગવાનકો સાક્ષીમેં રખકે, સીમંધર સ્વામી કો	Dada Bhagwanko Sakshi Mai Rakhte	NNNNNNNN	CD-30
+page_0607	જીવનમૂક્તાસ્ત્કમ (સ્તુતિ)	Jivanmuktashtkam (Stuti)	NNNNNNNN	31
+page_0607	સમૃદ્ધં સૌભાગ્યમ્‌ (જીવનમૂક્તાસ્ત્કમ - સ્તુતિ)	Samruddham Saubhagyam (Jivanmuktashtkam)	NNNNNNNN	31
+page_0607	સ્તુતિ - જીવનમૂક્તાસ્ત્કમ	Stuti - Jivanmuktashtkam	NNNNNNNN	31
+page_0611	હું દાદા ભગવાનને રે, વંદન કરું છું રે	Hun Dada Bhagwanne Re, Vandan Karu Chhu Re	NNNNNNNY	31
+page_0612	નજરું મીલવશો ખોવાઈ જાશો	Najaru Milavasho Khovai Jasho	NNNNNNNN	31
+page_0613	સૌને લાગે મ્હારા છે	Saune Lage Mahra Chhe	NNNNNNNN	31
+page_0615	જય સચ્ચિદાનંદ, મૂળ આદિ જીણંદ	Jay Sachchidanand, Mul Aadi Jinand	NNNNNNNN	31
+page_0616	અપને હ્રીદય કે કીંવાડ ખોલો	Apne Radaye Ke Kinvad Kholo	NNNNNNNY	31
+page_0618	અમી-ઝરણાં ચૌદ-લોકી, પ્રકાશક	Ami-Jarna Chaud-Loki Prakash	NNNNNNYY	31
+page_0619	ઓગણીસો આઠથી અઠ્ઠયાસીની શરૂઆત	Oganiso Aaththi Aththyasini Sharuwat	NNNNNYNN	31
+page_0621	અવતારોના જન્મ પૂર્વે પરાત્પર હતા જે	Avatarona Janma Purve Paraptar Hata Je	NNYNNNNN	31
+page_0622	જગત કલ્યાણને કાજે, અમે ધરીય ઓ  છે દાદા ભેખ	Jagat Kalyane Kaje, Ame Dhariyh O Chhe Dada Bhekh	NNNNYNNY	31
+page_0623	શુદ્ધાત્મા જોઈને, શુદ્ધાત્મા થાવાની દાદા	Shudhatma Joine, Shudhatma Thavani Dada	NNNNNNNY	31
+page_0624	અનુપમ મૂર્તિ ઘડે દાદા ભગવાન	Anupam Murti Ghade Dada Bhagawan	NNNNNNNY	31
+page_0627	મંદિર હે મુક્તિ સુખા	Mandir He Mukti Sukha	NNNNNNNY	32
+page_0628	મંગલ-મય તુજ નામ, અભેદ ચેતન ધામ	Mangal-May Tuj Naam, Abhed Chetan Dham	NNNYNNNY	32
+page_0630	કેવળ પ્રેમની જીવતી-મૂર્તી, જ્ઞાનીપુરૂષની	Keval Premni Jivti-Murti, Gnanipurushni	NNNNNYNN	32
+page_0632	પ્રગટ પુરૂષ મહા મુક્તાત્મા	Pragat Purush Maha Muktatma	NNNNNNNY	32
+page_0634	વળતરની ઈચ્છા વીના, લૂંટાવે મોક્ષજ	Valtarni Echha Vina, Lutave Mokshaj	NNNNNNNY	32
+page_0635	ચોવીશ તીર્થંકરનાં ભેગાં સ્વરૂપ હે દાદા	Chovis Tirthankarna Bhega Swaroop Hai Dada	NNNNNNNY	32
+page_0638	વ્હાલમ તારી ખોટ પુરાતી નથી	Vhalam Tari Khot Purati Nathi	NNNNNYNN	32
+page_0639	નિખાલ્લસ હાસ્ય જે હ્રુદિયે, વિના	Nikhalash Hashya Je Hrudiye, Vina	NNNYNNNY	32
+page_0641	અક્રમ 'અંબાલાલનું', પામ્યો જ્ઞાન-અનંત	Akram 'Ambalal Nu', Pamyo Gnan-Anant	NNNNNNNN	32
+page_0647	આવ્યાં આવ્યાં આજ રે, અવસર	Aavya Aavya Aaj Re, Avasar	NNNNNNNY	33
+page_0648	જુઓ, સતસંગનું મહાતમ સમજાય છે	Juo, Satsangnu Mahatam Samjaay Chhe	NYNNNNNY	33
+page_0649	જ્ઞાન પાંચ આજ્ઞામાં, આજ્ઞા પાંચ જ્ઞાન-દીક્ષા	Gnan Panch Aagnama, Aagna Panch Gnan-Diksha	NNNNNNNN	33
+page_0651	આ શ્રીમુખમાંથી નીકળેલાં	Aa Shrimukhamathi Niklela	NNNNNNNY	33
+page_0653	જે સુત્રો, આપ્ત-શ્રીમુખે, ઝર્યા (ગઝલ)	Je Sutro, Apt-Shrimukhe, jarya (gazal)	NNNNNNNN	33
+page_0654	યાદ રહેશે દાદાજી સૌને યાદ રહેશે	Yad Raheshe Dadaji Saune Yad Rehshe	NNNNNYNN	33
+page_0656	એકજ ધર્મ છે અવનીમાં, 'દાદા' હો મન-મંદિરમાં	Ekaj Dharma Chhe Aavnima, 'Dada' Ho Maan-Mandirma	NNNYNNNN	33
+page_0656	એકજ ધર્મ છે અવનીમાં, 'દાદા' હો મન-મંદિરમાં	Ekaj Dharma Chhe Aavnima, 'Dada' Ho Maan-Mandirma	NNNYNNNN	50
+page_0658	દાદા ભગવાન કેરી અનુપમ દેશના	Dada Bhagwan Keri Anupam Deshna	NNNNNNNY	33
+page_0660	દાદા દૂર છતાં પાસે લાગે છે	Dada Dur Chhata Pase Lage Chhe	NNNNNNNY	33
+page_0661	દાદાનાં દર્શન પામશે, તેનો સફળ થશે	Dadana Darshan Pamshe, Teno Safal Thashe	NYNNNNNY	33
+page_0662	દાદાની પુણ્યૈ જોવા ઊમટશે માનવ મેળા	Dadani Punye Jova Umatshe Manav Mela	NNNNYNNN	33
+page_0667	દાદા ભગવાન છે (૨), વીતરાગી વેલનું	Dada Bhagwan Che (2), Vitaragi Velnu	NNNNNNNY	34
+page_0671	ભવ્યો યા અભવ્યો પ્રત્યે	Bhavyo Ya Abhavyo Pratye	NNNNNNNN	34
+page_0672	જે આપ્તસુત્રો, નીકળ્યાં શ્રીમુખે, ઝર્યાં	Je Aaptsutro, Nikalya Shrimukhe, jarya	NNNNNNNN	34
+page_0674	આયો (૩) આયો રે, ક્ષીણ-મોહ-જીનેશ્વર આયો	Aayo (3) Aayo Re, Kshin-Moh-Jineshwar Aayo	NNNNNNNN	34
+page_0675	દાદાના દરબારે, હસ્તે મોક્ષ મણાશે	Dadana Darbare, Haste Moksh Manashe	NNNNNNNN	34
+page_0676	દાદાશ્રીનું નામ જ લઈને	Dadashrinu Naam J Laine	NNNNNNNN	34
+page_0677	મોક્ષ મળે છે 'નિયમ'થી	Moksh Male Chhe 'Niyam'thi	NNNNNNNY	34
+page_0677	મોક્ષ મળે છે 'નિયમ'થી	Moksh Male Chhe 'Niyam'thi	NNNNNNNN	68
+page_0680	દાદા ભગવાન મુક્ત પુરુષ	Dada Bhagwan Mukt Purush	NNNYNNNN	34
+page_0680	કેવળ સત્‌ગુરૂ બ્રહ્મા વિષ્ણુ	Keval Satt Guru Brahma Vishnu	NNNYNNNN	34
+page_0682	મઘમઘતા મન-વનમાં નિત્યાકુરી મોગરા	Maghamaghata Man-Vanama Nityakuri Mogara	NNNNNNNN	34
+page_0683	અભયદાન મહાદાન છે, વર્તે 'અક્રમ'	Abhaydan Mahadan - Dada Bhagawanna (Sutro)	NNNNNNNN	34
+page_0685	મન, વચ, કાયાથી તદ્દન જુદો એવો	Man, Vach, Kayathi Taddan Juddo Ehvo	NNNNNNNN	34
+page_0687	એ. એમ. પટેલ રૂપી મંદિર, જે	A. M. Patel Rupi mandir, Je	NNNNNNNY	34
+page_0687	એ. એમ. પટેલ રૂપી મંદિર, જે	A. M. Patel Rupi mandir, Je	NNNNNNNN	80
+page_0692	તારાં દર્શનનાં દીવાનાં, તારી મસ્તીમાં મસ્તાના	Taran Darshan Na Diwana, Tari Mastima Mastana	NNNYNNNN	35
+page_0693	ચાતકને મેઘની પ્રીત પુરાતન	Chatakne Meighani Preet Puratan	NNNNNNNN	35
+page_0694	આડો માલ ભર્યો છે અંદર	Aado Mal Bharyo Chhe Andar	NNNNNNNN	35
+page_0696	ઝડપીલો ઘોડો અટકે છે, ત્યાં અટકણ જો	Zadapilo Ghodo Atke Chhe, Tya Atkan Jo	NNNNNNNN	35
+page_0698	સચ્ચિદાનંદ (૨), 'દાદા'-મુખથી ઝરતા મંત્રે	Sachchidanand (2), 'Dada'-Mukhathi jharta Mantre	NNNNNNNN	35
+page_0699	જુગનું કી જરૂર નહીં	Jugnu Ki Jarur Nahi	NNNNNNNN	35
+page_0701	નહિં છોડું, દાદાજી તમને	Nahi Chhodu, Dadaji Tamane	NYNNNNNY	35
+page_0703	ભેળી જમાતું અવળે હવળી, ઊંધા રસ્તા બતલાવે	Bheli Jamatu Avale Havali, Undha Rasta Batlave	NNNNNNNY	35
+page_0705	હું તારી મહીં બેસી ગ્યો છું	Hu Tari Mahi Baisi Gyo Chhu	NNNNNNNY	35
+page_0706	જન્મ પહેલાં ચાલતો ને મૂઆ પીછે ચાલશે	Janma Pehla Chalto Ne Mua Pichhe Chalshe	NNNNNNNN	35
+page_0709	દાદા ભગવાનનું સહેજ સમરણ	Dada Bhagwannu Sahej Samaran	NNNNNNNY	35
+page_0711	તરણ-તારણહાર, અમૂર્ત ભગવાન	Taran-Taaranhar, Amurt Bhagawan	NNNNNNNN	35
+page_0712	હે 'દાદાશ્રી' પરમ કૃપાળુ	He 'Dadashri' Param Krupalu	NNNNNNNN	35
+page_0715	દાદા ભગવાન (૨), હે અક્રમ માર્ગનાં વિજ્ઞાન	Dada Bhagwan (2), He Akram Margna Vignan	NNNNNNNN	36
+page_0716	અંતીમ-હેતુ-સિદ્ધક-વાણી હોય જ	Antim-Hetu-Sidhdhrak-Vani Hoy J	NNNNNNNN	36
+page_0717	પ્રત્યક્ષ દાદા ભગવાનની સાક્ષીએ તિર્થંકર સાહેબોને	Pratyaksh Dada Bhagwanni … Tirthankar Sahebone	NNNNNNNN	36
+page_0719	જ્યાં સુધી દાદા જાતે, હોય ત્યાં સુધી છે	Jya Sudhi Dada Jaate, Hoy Tya Sudhi Chhe	NNNYNYNN	36
+page_0720	ભારત ભૌમિક સુ-દર્શનનું	Bharat Bhaumik Su-Darashananu	NNNNNNNN	36
+page_0721	ગુરૂપૂર્ણિમા છે આત્માની	Gurupurnima Chhe Aatmani	NNNYNNNN	36
+page_0722	દાદાઈ યુગનિર્માણ, સહે ન ભ્રષ્ટાચાર	Dadayi Yugnirman, Sahe N Brashtachar	NNNNNNNN	36
+page_0723	ફરફર, ફરફર ધ્વજ ફરકે છે	Farfar, Farfar Dwaj Farke Chhe	NNNNYNNN	36
+page_0724	અ-ઘટ સ્નેહ દે, શાંતિ દે	A-ghat Sneh De, Shanti De	NNNNNNNN	36
+page_0725	જગતને લાગે જે પ્રતિકૂળ, અમોને	Jagatne Lage Je Pratikul, Amone	NNNNNNNN	36
+page_0726	કોઈનીયે સાથે મતભેદ પડે ત્યારે	Koiniye Sathe Mattbhed Pade Tyare	NNNNNNNN	36
+page_0728	જિયો અજન્મા સમયસાર રે	Jiyo Ajanma Samaysar Re	NYNNYNNN	36
+page_0733	અંધારા કોટિ વર્ષના	Andhara Koti Varshna Pal Sathma	NNNNNNNN	37
+page_0733	દેવોને આવાહન - અંધારા કોટિ વર્ષના	Devo ne Aavahan - Andhara Koti Varshna	NNNNNNNN	37
+page_0733	સર્વસ્વ અમારૂં અર્પણ છે, ભગવાન તમારા	Sarvsva Amaru Arpan Chhe	NNNNNNNN	37
+page_0734	પ્રાતઃવિધિ	Prath-Vidhi	NNNNNNNN	37
+page_0734	શ્રી પ્રાતઃવિધિ	Shri Prapt:Vidhi	NNNNNNNN	37
+page_0735	નમસ્કાર વિધિ	Namaskar Vidhi	NNNNNNNN	37
+page_0737	નવ કલમો	Nav Kalamo	NNNNNNNN	37
+page_0740	શુદ્ધાત્મા પ્રત્યે પ્રાર્થના	Shudhatma Pratye Prarthna	NNNNNNNN	37
+page_0741	પ્રતિક્રમણ વિધિ	Pratikraman Vidhi	NNNNNNNN	37
+page_0741	શ્રી પ્રતિક્રમણ વિધિ	Shri Pratikraman Vidhi	NNNNNNNN	37
+page_0742	સંત પુરૂષોનું યોગબળ	Sant Purushonu Yogbal	NNNNNNNN	37
+page_0742	સર્વ મંગલ માંગલીક	Sarv Mangal Manglik	NNNNNNNN	37
+page_0743	દાદા શરણં ગચ્છામિ	Dada Sharanam Gachchhami	NNNNNNNN	37
+page_0734	દાદા શરણં ગચ્છામિ (ૐ હ્રીં)	Dada Sharanam Gachchhami (OM Rheem)	NNNNNNNN	37
+page_0734	ૐ હ્રીં દાદા શરણં ગચ્છામિ	Om Rheem Dada Sharanm Gachchhami	NNNNNNNN	37
+page_0127	શ્રી સીમંધર સ્વામી આરતી	Shri Simandhar Swami Aarti	NNNNNNNN	37
+page_0098	શ્રી સીમંધર સ્વામીનો દીવો	Shri Simandhar Swami no Divo	NNNNNNNN	37
+page_0127	સીમંધર સ્વામી આરતી	Simandhar Swami Aarti	NNNNNNNN	37
+page_0098	સીમંધર સ્વામીનો દીવો	Simandhar Swami no Divo	NNNNNNNN	37
+page_0744	કૃષ્ણ ભગવાનની આરતી	Krushna Bhagwanni Aarti	NNNNNNNN	37
+page_0744	શ્રી કૃષ્ણ ભગવાનની આરતી	Shri Krushna Bhagwanni Aarti	NNNNNNNN	37
+page_0745	આરતી - શિવ ભગવાન	Aarti - Shiv Bhagavan	NNNNNNNN	37
+page_0745	શિવ ભગવાન આરતી	Shiv Bhagwanni Aarti	NNNNNNNN	37
+page_0745	શ્રી શિવ ભગવાન આરતી	Shri Shiv Bhagwanni Aarti	NNNNNNNN	37
+page_0746	આરતી - દીવો ૧ - મૂળ દીવાથી પ્રગટો	Aarti - Divo-1 Mul Divathi Pragato Dipakmal	NNNNNNNN	37
+page_0746	દાદા દીવોઃ ૧ - મૂળ દીવાથી પ્રગટો	Dada Divo: 1 Mul Divathi Pragato Dipakmal	NNNNNNNN	37
+page_0747	આરતી - દીવો ૨ - દીવો કરીએ ભગવન	Aarti - Divo-2 Divo kariae bhagwn	NNNNNNNN	37
+page_0744	આરતી - કૃષ્ણ ભગવાન	Aarti - Krishna Bhagavan	NNNNNNNN	37
+page_0746	આરતી - મૂળ દીવાથી પ્રગટો દીપકમાળ	Aarati - Mul Divathi Pragato Dipakmar	NNNNNNNN	37
+page_0747	આરતી - દીવો કરીએ ભગવન	Aarati - Divo Kariye Bhagawan	NNNNNNNN	37
+page_0747	દાદા દીવોઃ ૨	Dada' Divo : 2	NNNNNNNN	37
+page_0748	આરતી - જય દાદા ભગવાન	Aarti - Dada Bhagavan - Jay Dada Bhagavan	NNNNNNNN	37
+page_0748	દાદા આરતી - જય દાદા ભગવાન	Dada Arti - Jay Dada Bhagawan	NNNNNNNN	37
+page_0748	જય દાદા ભગવાન	Jay Dada Bhagawan	NNNNNNNN	37
+page_0748	શ્રી દાદા ભગવાનની આરતી	Shri Dada Bhagwanni Aarti	NNNNNNNN	37
+page_0749	પ્રગટ દાદા સ્તુતિ - જ્ઞાનાંજન હે પરમાનંદમ	Pragat Dada Stuti - Gnananjan He	NNNNNNNN	37
+page_0749	જ્ઞાનાંજન હે પરમાનંદમ - સ્તુતિ	Gnananjan Heh Parmanandam	NNNNNNNN	37
+page_0750	રાજીપો	Rajipo	NNNNNNNN	37
+page_0750	સર્વ દેવ લોકનો રાજીપો	Sarv Dev Lokno Rajipo	NNNNNNNN	37
+page_0749	સ્તુતિ - જ્ઞાનાંજન હે પરમાનંદમ	Stuti - Gnananjan Hey Parmanandam	NNNNNNNN	37
+page_0753	મારગ ખુલી રહ્યા જો વીરના	Marag Khuli Rahya Jo Virna	NNNNNNNY	38
+page_0755	આબે ઝમઝમ	Aabe Zam Zam	NNNNNNNN	38
+page_0756	કેસરિયા વીરનાં યા હોમ	Kesariya Veerna Ya Home	NNNNNNNY	38
+page_0757	ઝેર પચાવી, કરુણા છાંટી	Zer Pachavi Karuna Chaati	NNNNNNNY	38
+page_0758	દર્શનથી થાય શાંતિ અપાર	Darshan Thi Thay Shanti Apar	NNNNNNNN	38
+page_0760	મારું બોલ્યું ગોખી લાવ્યાં તે ભાસે કાગા	Maru Bolyu Gokhi Lavya Te Bhase Kaga	NNNNNNNN	38
+page_0761	તમે આવી ગયાં પછી એવું લાગે છે	Tame Avi Gaya Pachi Evu Lage Chhe	NNNNYNNN	38
+page_0763	મળશે ભગવાન ત્યારે 'આમ કૈશ ને તેમ	Malshe Bhagwan Tyare 'Am Kaish Ne Tem	NNNNNNNN	38
+page_0765	દાદા' જ દર્શન ઉઘાડશે રે	Dada'J Darshan Ughadshe Re	NYNNNNNN	38
+page_0766	જય બોલો રે બોલો રે જય દાદા ભગવાન	Jay Bolo Re Bolo Re	NNNNNNNN	38
+page_0768	મન સમંદર પડઘા	Man Samandar Padagha	NNNNNNNN	38
+page_0771	નવનિધિ ને અષ્ટલક્ષ્મી	Navnidhi Ne Ashtalakshmi	NNNNNNNY	39
+page_0772	રોજ્જેય પથ્થર મારે છે કો'ક	Rojjey Pathar Mare Chhe Ko'K	NNNNNNNN	39
+page_0773	મૂળ મારગ સાંભળો વીશ્વનાં રે	Mul Marg Sambhlo Vishvana Re	NNNNNNNN	39
+page_0775	ચંદુ કહે લલ્લુને 'બુધે નાર પાંસરી'	Chandru Kahe Lallune 'Budhe Nar Pansri'	NNNNNNNN	39
+page_0776	કા....ગળ લઈને બેઠી છું	Ka….Gal Laine Bethi Chhu	NNNNNNNN	39
+page_0777	ગુરુપૂનમ 'દાદા'ને નામ	Gurupunam 'Dada'Ne Naam	NNNYNNNN	39
+page_0779	રાણીના સ્થાને માયા-દાસી બેઠી જ્યાં	Ranina Sthane Maya-Dasi Baithi Jya	NNNNNNNN	39
+page_0781	અલી હો .... રે, છનો છપનો	Ali Ho …. Re, Chhano Chhapno	NNNNNNNN	39
+page_0783	ઓ ઈશ્વર ભજીયે તને	Ao ishwar Bhajiye Tane	NNYNNNNN	39
+page_0785	આજનો લહાવો લીજીએ રે, કાલ કોણે	Aajno Lahavo Lijiae Re Kaal Kone	NYNNNNNN	39
+page_0790	ચાંદની દૂઝતી રે, ચાંદો નીરખે રે	Chandni Dujati Re, Chando Nirkhe Re	NNNNNNNN	39
+page_0791	મંગલ મંદિર ખોલો	Mangal Mandir Kholo	NNYNNNNN	39
+page_0795	અનુભવ કહતા હૈ હમકો, ખુદ ઓની ગલતી	Anubhav Kehta Hai Hamko	NNNNNNNY	40
+page_0795	અનુભવ કહતા હૈ હમકો, ખુદ ઓની ગલતી	Anubhav Kehta Hai Hamko, Khud Aoni Galti	NNNNNNNN	40
+page_0797	મૈ 'દાદા' કા વારસ હૂં	Mai 'Dada' Ka Varas Hun	NNNYNNNN	40
+page_0798	અપને દિલ કો સાફ બનાકર મીટાદો	Apne Dil Ko Saaf Banakar Mitado	NNNNNNNN	24
+page_0799	આમચી તુમચી ગોષ્ટી	Aamchi Tumchi Goshti	NNNNNNNN	40
+page_0800	આપ્તપુત્રોની, યુવાનીનું શૂર	Aaptputroni Yuvaninu Shur	NNNNNNNN	40
+page_0801	હે સાંઈબાબા, શાંતિ વિધાતા	He Saibaba, Shanti-Vidhata	NNNNNNNN	40
+page_0801	હે સાંઈબાબા, શાંતિ વિધાતા	He Saibaba, Shanti-Vidhata	NNNNNNNN	45
+page_0802	ગુરૂપૂર્ણિમા છે આજે, મુરલી મધુરી	Gurupurnima Chhe Aaje, Murli Madhuri	NNNYNNNN	40
+page_0804	આજ નાનેરું લાગતું આભ રે	Aaj Naneru Lagtu Aabh Re	NNNYNNNN	40
+page_0805	સપનામાં જાગ્યો તેને લાગ્યો ઉજાગરો	Sapanama Jagyo Tene Lagyo	NNNNNNNN	40
+page_0806	ભગવાન શું હશે? ક્યાં હશે? કેવો હશે?	Bhagwan Shu Hashe? Kya Hashe? Kevo Hashe?	NNYNNNNN	40
+page_0807	મન, વચ, કાયા તાનાલાપ	Man, Vach, Kaya Tanalap	NNNNNNNN	40
+page_0811	પ્રથમ મુલાકાત પ્રથમ પરિચય	Pratham Mulakat Pratham Parichay	NNNNNNNY	41
+page_0812	દાદાજી' ના નામનો રે સંગસત લાગ્યો	Dadaji Na Namno Re Sangsat Lagyo	NYNNNNNN	60
+page_0814	અમને કંઈ જ નડે નહીં, એવો અહમ	Amane Kai Ja Nade Nahi, Evo Aham	NNNNNNNN	41
+page_0815	અનેક જન્મોની પૂણ્યૈથી મળીયા આ	Anek Janamo-ni Punye-Thi Maliya Aa	NNNNNNNN	41
+page_0816	અમથી અમથી જે ખટકી જાતી શૂળ	Amthi Amthi Je Khatki Jati Shun	NNNNNNNN	41
+page_0818	દાદા', નમસ્કાર-વંદન	Dada', Namashkar-Vandan	NNNNNNNN	41
+page_0822	દાદા સત્સંગ - દાદા મળ્યા પછી	Dada Satang - Dada Malya Pachi	NNNNNNNN	42
+page_0823	આજનો લહાવો લીજીએ રે, સદા વર્તમાને	Aajno Lahavo Lijiae Re, Sada Vartamane	NYNNNNNN	42
+page_0826	કલ્યાણ કરતો જાય	Kalyan Karto Jay	NYNNNNNN	42
+page_0826	કલ્યાણ કરતો જાય	Kalyan Karto Jay	NYNNNNNN	42
+page_0828	હે દાદાજી! તમને	He Dadaji! Tamane	NNNNNNNN	42
+page_0830	સૌ પ્રેમી (પ્રતિક્રમણ)	Sau Prani (pratikraman)	NNNNNNNN	42
+page_0844	અમર અંબાલાલનાં, દાદા ભગવાનનાં	Amr Ambalalna,  Dada Bhagawanana	NNNNNNNY	44
+page_0845	જન્મ દીવસની ઉજવણી, આત્માનંદની	Janma Divasni Ujavni, Atmanandni	NNNNYNNN	44
+page_0847	કેમ રે વીસારી? વ્હાલા, કેમ રે	Kem Re Visari? Vahla, Kem Re	NNNNNNNN	44
+page_0849	સ્વ-શુભં, સાત્વિકં સ્વ-શિવં, ત્વં	Sva-Shubham, Satvikank Sva-Shivam, Tvam	NNNNNNNN	44
+page_0850	નવલ-ધવલ ફણગા ફૂટે, અપૂર્વી 'આ'	Naval-Dhaval Fanaga Fute, Apurvi 'Aa'	NNNNNNNN	44
+page_0851	અરહં અરહં હરિ રામ ક્રીષ્ણા શિવ	Arham Arham Hari Ram Krishna Shiv	NNNNNNNN	44
+page_0852	જાણે જગત દાદાને એ જ ધૂન કવિને	Jane Jagat Dadane E J	NNNNNNNN	44
+page_0857	આરતી છે વિરતી	Aarti - Aarti Chhe Virti	NNNNNNNN	45
+page_0858	મંગલ મૂર્તિ ધી ગણપતિજી	Mangal Murti Dhi Ganpatiji	NNNNNNNN	45
+page_0860	ગુરૂપૂર્ણિમા છે રામ, તારૂં કાઢી લેજે	Gurupurnima Chhe Ram, Taru Kadhi Leje	NNNYNNNN	45
+page_0861	આ અજબ ગજબની પૂર્ણિમા	Aa Ajab Gajabni Purnima	NNNYNNNN	CD-45
+page_0862	બાયડીને સીધી કરવા	Bayadine Sidhi Karava	NNNNNNNN	45
+page_0862	જે ઘર માંદી બાયડી, રેંગા રડતલ છોકરાં	Je Ghar Mandi Bayadi	NNNNNNNN	45
+page_0865	નિર્વિકલ્પ વીતરાગ સ્વ-ધર્મ સનાતન	Nirvikalp Vitrag Swa-Dharma Sanatan	NNNNNNNN	45
+page_0866	પોતાની જાતમાં, પાર વગરનું સુખ	Potani Jatama, Par Vagaranu Sukh	NNNNNNNN	45
+page_0867	નીષ્પક્ષવાણી વીરડો પ્રત્યક્ષ	Nishpaksh Vani Virado Pratyek	NNNNNNNN	45
+page_0871	ઝેર તો તમારે પીવાં જ પડશે	Zer To Tamare Piva J Padse	NNNNNNNY	46
+page_0872	શુદ્ધાત્માનાં મુક્તિધામે કંચન-મેધ	Shudhatmana Muktidhame Kanchan-Megh	NNNNYNNN	46
+page_0876	જેનો કોઈ શિષ્ય નથી	Jeno Koi Shishya Nathi	NNNYNNNN	46
+page_0877	ઝમઝમના ઝરણે, આબે હયાત	Zamzamna Zarne, Abe Hayat	NNNYNNNN	46
+page_0878	મરવા માટે જે જન્મે છે	Marva Maate Je Janme Chhe	NNYNNNNN	46
+page_0887	નહિં ભૂલું, દાદાજી તમને	Nahi Bhulu, Dadaji Tamane	NYNNNYNY	48
+page_0889	મહાવીરના વીર સૈનીકનું, ભેળું થયું છે સંમેલન	Mahavirana Vir Sainikanu, Bhelu Thayu Chhe	NNNNNNNN	48
+page_0890	આલોચના, સમાલોચના	Aalochna Smalochna Vicharana	NNYNNNNN	48
+page_0890	આલોચના, સમાલોચના	Aalochna Smalochna Vicharana	NNYNNNNN	48
+page_0895	મંગલમ્‌ ભગવાન વિરો	Mangalam Bhagwan Viro	NNNNNNNN	49
+page_0896	મહાવીરના નિર્વાણ પછી કળીકાળ વર્ષો	Mahavirna Nirvan Pachi Kalikal Varsho	NNNNNNNN	49
+page_0898	જે વાણી મનમાં ઘૂટાણી, અને જો બહાર	Je Vani Manma Ghutani, Ane Jo Bahar	NNNNNNNN	49
+page_0903	આવી બિરાજો 'દાદાજી'	Aavi Birajo 'Dadaji'	NNNNYNNN	50
+page_0906	આવો પધારો 'દાદાજી', દર્શન મારૂં	Aavo Padharo Dadaji, Darshan Maru	NNNNNNNN	50
+page_0913	ઓહો! સ્વામી સીમંધર	Oho! Swami Simandhar	NNNNNNYN	51
+page_0916	આવી રે, આવી રે, દાદા જનમ ખુશાલી	Aavi Re, Aavi Re, Dada Janam Khushali	NNNNYNNN	51
+page_0918	આ સાલગીરી	Aa Salgiri	NNNNYNNN	51
+page_0919	જનમ ખૂશાલી, દીલ ખૂશકારી	Janam Khushali, Dil Khushakari	NNNNYNNN	51
+page_0921	લોકે અલોક્ય સ્વર્ગંગ દ્રષ્ટિત્મા	Loke Alokya Sarvang Drashtitma	NNNYNNNN	51
+page_0922	અવસરિયા અજવાળો રે	Avasariya Ajavalo Re	NYNNYNNN	51
+page_0924	અસીમ જય જયકર જીવતર	Aseem Jay Jaykar Jivtar	NNNNYNNN	51
+page_0926	કાર્તિક સુદ ચૌદશ મધરાત્રી, પરમ મહોત્સવ	Kartik Sudh Chaudash Madhratri, Param Mahotsav	NNNNYNNN	51
+page_0929	અક્રમ વિજ્ઞાની અ-ગુરૂ પ્રણામ	Akram Vignani A-Guru Pranam	NNNYNNNN	51
+page_0930	નાદી-નિધન શ્રી સદોત્સવ	Nadi-Nidhan Shri Sadotsav	NNNNNNNN	51
+page_0932	જીવી જાણ્યો છે અસંગ જ અમ્મરોછ્‌છવ	Jivi Janyo Chhe Asangaj	NNNNYNNN	51
+page_0937	રહસ્ય ભરેલી સમસ્યા જગત છે	Rahasya Bhareli Samsya Jagat Chhe	NNNNNNNY	52
+page_0939	અગર હોતે કદી વાચા, પશુ પંખી યા	Agar Hote Kadi Vacha, Pashu Pankhi Ya	NNNNNNNN	52
+page_0941	સર્વજ્ઞની બલીહારી રે	Sarvagnani Balihari Re	NNNNNNNY	52
+page_0942	અરિ, હરો ભ્રમ, મૂઢ-જીવનાં, હરિ, કરો	Ari, Haro Bhram, Mudh-Jivna, Hari, Karo	NNNNNNNN	52
+page_0944	પુણ્યવાન મહાત્માના શક્તિ-તપથી	Punyavan Mahatmana Shakti-Tapathi	NNNNNNNN	52
+page_0945	દાદા, દાદા બોલતાં ન થાકું, અખંડ કીર્તન	Dada, Dada Bolta N Thaku, Akhand Kirtan	NNNNNNNY	52
+page_0948	લૌકિક મોતી નીરખી, નૈણાં ઠરે છે	Laukik Moti Nirkhi, Naina Thare Chhe	NNNNNNNN	52
+page_0949	સીમંધરા, શ્રી સીમંધરા	Simandhara, Shri Simandhara	NNNNNNYN	52
+page_0951	દાદા વીનાની, વાતું નકામી	Dada Vinani, Vatu Nakkami	NNNNNNNN	52
+page_0952	દાદા ભગવાન! ઓહોહો!	Dada Bhagwan! OHoHo!	NNNNNNNN	52
+page_0955	અગિયારમું આશ્ચર્ય પ્રગટ થશે જ્યાં	Agiyaarmu Aashcharya Pragat Thashe Jya	NNNNNNNN	53
+page_0965	શ્રીમદ્‍નું આત્મસિદ્ધિ શાસ્ત્ર	Shrimadnu Aatmasiddhi Shastra	NNNNNNNN	55
+page_0969	અમારી શુદ્ધ ભાવેચ્છા, જગત કલ્યાણ કરવાની	Amari Shudhdha bhavechcha, Jagat Kalyan Karvani	NNNYNNNN	56
+page_0970	દબેલ મનનો ભડકતો અગ્નિ	Dabel Manno Bhadakato Agni	NNNNNNNN	56
+page_0972	કળજગમાં વીપરીત લોકે, ઘરની જ	Kaljagma Viparit Loke, Gharni J	NNNNNNNY	56
+page_0974	જ્ઞાન-જ્ઞાન અલૌકિક	Gnan-Gnan Aloukik	NNNNNNNN	56
+page_0976	દરશન દેજો અમને આશાપુરા મા	Darshan Dejo Amne Ashapura Ma	NYNNNNNN	56
+page_0978	કવીની કરજો કવ્વાલી થબાકાં સંગ દઈ	Kavini Karjo Kawali Thabakan Sang Dai	NNNNNNNY	56
+page_0980	ધર્મનો આધાર 'સ્વયં-જ્ઞાની' થશે જ્યાં	Dharmono Aadhar 'Svayam-gnani' Thashe Jya	NNNNNNNN	56
+page_0981	દાદા ભગવાનના વિરહોમાં ઝૂરતાં પ્રત્યેક શ્વાસે	Dada Bhagwanna Virahoma Zurta Pratyek Swashe	NNNNNYNN	56
+page_0987	કોની આ કરામત છે? મૌલવી મુંઝાય	Kona Aa Karamat Che? Maulvi Munjay	NNNNNNNN	57
+page_0991	જય હો સ્વામી સીમંધર	Jay Ho Swami Simandhar	NNNNNNYN	57
+page_0995	દાદા ભગવાન વીના કંઈજ ગમે નહીં	Dada Bhagwan Vina Kai J Game Nahi	NNNNNYNN	58
+page_0997	સ્વામી સીમંધર વાત્સલ્ય	Swami Simandhar Vatsalya	NYNNNNYN	58
+page_0999	આધિ, વ્યાધિ, ને ઊપાધિની શૂળ	Aadhi Vyadhi Ne Upadhini Shul	NNNNNNNN	58
+page_1003	જ્ઞાની પુરૂષના કર્મ દીવ્ય પ્રત્યેક	Gnani Purush Karma Divya Pratyek	NNNNNNNN	58
+page_1005	અમારી ગુરૂપૂનમ કાયમી સ્વ-દીપ	Amari Gurupunam Kaymi Sva-Deep	NNNYNNNN	58
+page_1007	હાં રે હોજી દાદાજી, તમારા વિના	Ha Re Hoji Dadaji, Tamara Vina	NNNNNYNN	58
+page_1010	ઐ અર્ચના આનંદ હ્રદયે	Aey Aarchna Anand Radaye	NNNNNYNY	58
+page_1012	અજનમા જનમોચ્છવ, પરમશાંત સુધાશ્રવ	Ajanma Janmochchhav, Paramshant Sudhashrav	NNNNYNNN	58
+page_1013	દાદાકા સુદર્શન દુનિયા કો દીખા દેંગે	Dada Sudarshan Se, Nij Chetan	NNNNNNNY	58
+page_1017	તિર્થંકર વિહરમાન, સત્ સત્‌ કોટી પ્રણામ	Tirthankar Viharmaan	NNNNNNYN	59
+page_1018	જય હો, જય હો સંજીવનેશ્વર	Jay Ho, Jay Ho Sanjivneshwar	NNNNNNYN	59
+page_1019	દાદા, માર્ગ ભૂલ્યાં બાળકોનાં દુઃખ	Dada, Marge Bhulya Balkona Dukh	NNNNNNNN	59
+page_1021	કાયા ફૂલની રે,	Kaya Fulni Re	NNNNNNNY	59
+page_1022	ઐશ્વર્ય ઊભરે	Aishwarya Ubh Re	NNNNNNYN	59
+page_1023	કુદરતે અમને	Kudrate Amne	NNNNNNNN	59
+page_1024	ગગન ગાજે, ગોખ ગાજે	Gagan gaaje, Gokh gaaje	NNNYNNNN	59
+page_1025	ત્રિયોગે ઊંઘતા	Triyoge Unghata	NNNNNNNN	59
+page_1029	મારૂં સ્વરૂપ મુજને	Maru Swarup Mujne	NNNNNNNY	60
+page_1030	તીર્થંકરના દિલમંદિરે ભંડારેલી	Tirthankar Na Dilmandire Bhandareli	NNNNNNNN	60
+page_1032	આલોચના, સમાલોચના, વિચારણા કરીને	Aalochna Smalochna Vicharana	NNNNNNNN	60
+page_1033	સજે પરમેશ્વર જો બ્રહ્માંડી પ્રમુખ	Saje Parmeshwar Jo Brahmandi Pramukh	NNNNNNNN	60
+page_1034	દાદાજી' ના નામનો રે સંગસત લાગ્યો	Dadaji Na Namno Re Sangsat Lagyo	NYNNNNNN	60
+page_1036	દીવસે દીવસે શાંતિ વધે તે રસ્તો	Divase Divase Shanti Vadhe Te Rasto Batao	NNNNNNNN	60
+page_1037	નિવેડો લાવી દ્યો દાદા, જગતમાં	Nivedo Lavi Dyo Dada	NNNNNNNN	60
+page_1038	પંચ પરિવર્તન	Panch Parivartan	NNNNNNNN	60
+page_1041	अंधियारां कोटी युग का	Andiyara Koti Yug Ka	NNNNNNNN	61
+page_1042	सर्वस्व मेरापन अर्पण है, भगवान तुम्हारा	Sarvasva Merapan Aarpan Hai, Bhagwan Tumhare	NNNNNNNN	61
+page_1035	વાણી ઝરતાં ફૂલની ગુંથાય એવી માળ	Vani Zarata fulani Gunthaye Ehvi Maal	NNNNNNNY	60
+page_1043	અંતર આસનમાં સ્થાપી, પ્રેમલ	Antar Aasanma Sthapi, Premaal	NNNNNNNY	61
+page_1044	નજરુંની સામે નૈ, તો યે મનની	Najaruni Same Nai, Toye Manani	NNNNNNNN	61
+page_1045	વધઘટવાળી આસક્તિને	Vadh-Ghatvali Ashaktine	NNNNNNNN	61
+page_1047	પ્રકરતિ દેખાડે છે 'હીસાબી' જો ધીરધાર	Prakrati Dekhade Chhe 'Hisabi' Jo Dhirdhar	NNNNNNNN	61
+page_1048	આ મારૂં શરીર	Aa Mahru Sharir	NNNNNNNN	61
+page_1049	સંસર્ણામાર્ગે, ઝરતાં સરકતા	Sansarna Marge, Zharta Sarakta	NNNNNNNN	61
+page_1049	સંસર્ણામાર્ગે, ઝરતાં સરકતા	Sansarna Marge, Zharta Sarakta	NNNNNNNN	65
+page_1051	અલી હો .... રે, .... મનો સ્પંદનામાં જ્ઞાન જ્ઞાન	Ali Ho …. Re, …. Mano Spandanama Gnan Gnan	NNNNNNNN	61
+page_1055	જેની સ્મૃતિથી ઊરનું એકાંત થાય સમૃદ્ધ	Jeni Smrutithi Urnu Ekant Thay Samrudh	NNNNNNNY	62
+page_1057	અસંગાનુભૂતિ વર્તક	AsanganuBhuti Vartak	NNNNNNNN	62
+page_1058	દેહ ધરીને આવ્યા સાક્ષાત 'આ' પરમાત્મા	Deh Dharine Aavya Shakshat 'Aa' Parmatma	NNNNYNNN	62
+page_1059	તારે છુટવું હોય સંસારથી તો	Tare Chhutvu Hoy Sansar Thi, Tho	NNNNNNNY	62
+page_1060	વર્તાવે આતમ જ્ઞાન	Vartave Atam Gnan	NNNNNNNN	62
+page_1061	મિલણો લાગે મીઠો-મીઠો	Milano Lage Mitho-Mitho	NNNNNNNN	62
+page_1062	શ્રી સ્ત્વં અષ્ઠા પ્રતિહાર્ય	Shri' Stvam Ashta Pratiharya	NNNNNNNN	62
+page_1064	શ્રી સર્વા-ત્રિ અતિશય	Shri Sarva-Tri Atishay	NNNNNNNN	62
+page_1067	અય શ્વેતાંગી આભના ફરીસ્તા	Aya Swetangi Aabhana Farishta	NNNNNNYY	63
+page_1068	સ્વામી સીમંધર ઝીલો સલામ	Swami Simandhar Zhilo Salam	NNNNNNYN	63
+page_1069	બુદ્ધિ ઊભી થાતાં, અંદર ચાલે ચક્કર	Buddhi Ubhi Thata	NNNNNNNN	63
+page_1070	દાદાની વાતું સુણી, જે જીવ હરખાશે, ગુણ-સુણ્યાં	Dadani Vatu Suni, Je Jiv Harkhashe, Gun-Sunya	YNNNNNNY	63
+page_1071	ભવ-ભટકું ભ્રાંતિ જણ્યું	Bhav-Bhataku Bhranti janyu	NNNNNNNY	63
+page_1072	ચળકતાં કાચને વીણ્યાં, ને હીરા	Chalakta Kachne Vinya, Ne Hira	NNNNNNNY	63
+page_1073	લાગી 'આ' લગન, મુગ્ધ-મન મગન	Laagi 'Aa' Lagan, Mughdha-Man Magan	NNNNNNNY	63
+page_1074	નીત્ય ઋતુ-બસંતી દીવ્ય - નૃત્ય	Nitya Rutu-Basanti Divya - Nrutya	NNNNNNNN	63
+page_1075	પ્રાકૃત વસ્તી પ્રસવધર્મી	Prakrut Vasti Prasvadharmi	NNNNNNNN	63
+page_1076	મન ગુંજઃ 'મધુ-બન' અંતર કોયલ	Man Gunj: 'Madhu-Ban' Antar Koyal	NNNNNNNN	63
+page_1079	દાદાના દરબારે, હસ્તે મોક્ષ મણાશે	Dada'na Darbare, Gurupunam	NNNYNNNN	64
+page_1080	લખ રે ચોરાશીની ભૂલ-ભૂલામણીના ફેરા	Lakh Re Chorashini Bhul-Bhulamanina Fera	NNNNNNNY	64
+page_1081	અ-યોગી સ્તવન	A-yogi Stavan	NNNYNNNN	64
+page_1082	ધર્મ ધજા ફરકંત	Dharmadhaja Farkant	NNNNYNNN	64
+page_1083	બર્થ-રીબર્થ	Birth-Rebirth	NNNNNNNN	64
+page_1084	ત્રિમંદીર પર સાલગીરી	Tri-mandir Par Salagiri	NNNNYNNN	64
+page_1085	જનમના ઉત્સવ	Jan Mana Utasav	NNNNYNNN	64
+page_1086	વીકલ્પે મોહો	Vikalpe Moho	NNNYNNNN	64
+page_1087	દુનિયા હૈં અધ્ધર, ભ્રમકર	Duniya Hai Adhdhar, Bhramakar	NNNNNNNN	64
+page_1091	આત્માના અન્વય ગુણો	Aatmana Aanvay Gunno	NNNNNNNN	65
+page_1093	હે દાદા આપનાં સ્મરણો	He 'Dada'! Aapna Smarano	NNNNNYNN	65
+page_1095	પુણ્યૈ લોગોત્તમ કેવું છે?	Punye Logottam Kevu Chhe?	NNNNNNNN	65
+page_1096	દીવો જલે છે બાહીરનો, દીવો ઝઘાવો	Divo Jale Chhe Bahirno, Divo jhaghavo	NNNNNNNN	65
+page_1097	ધેર ઈઝ નો ક્રીએટર	There is no Creater	NNNNNNNN	65
+page_1098	પછી પડખું ફરીને સૂઈ ગયા	Pachhi Padakhu Farine	NNNNNYNN	65
+page_1100	ઈકઠ્ઠે મીલકર	Ikaththe Milakar	NNNNYNNN	65
+page_1101	કોડાકોડી વર્ષો બાદ જાગૃતિ રે	Kotakodi Varsho Baad Jagruti Re	NNNNNNNN	65
+page_1102	તેજ તત્વકા સામૂહિક પિંડ	Tej Tatva Ka Samuhik Pind	NNNNNNNN	65
+page_1105	તપ્ત ધરા પર પહેલી વર્ષાનાં	Tapt Dhara Par Paheli Varsha Na	NNNNNNNY	66
+page_1106	મંદિર કુદરતી રચના રે	Mandir Kudrati Rachna Re	NNNNNNNY	66
+page_1107	દાદા વર્તે સ્વ-સમય, જીનેશ્વરા મોહ	Dada Varte Sva-Samay, jineshwara Moh	NNNNNNNN	66
+page_1108	આપ્તપિતાનાં સિદ્ધાંત સૂત્રો	Aaptpitana Sidhdhant Sutro	NNNNNNNN	66
+page_1111	તનસે, મનસે, દીલસે ત્રિવિધે	Tanse, Manse, Dilse Trividh	NNNNNNNY	66
+page_1113	સૌ ધર્મોના એકમ વિધાયક	Sau Dharmona Ekya Vidhayak	NNNNNNNN	66
+page_1114	હું શુદ્ધાત્મા અક્રિય છું	Hu Shudhatma Akriya Chhu	NNNNNNNN	66
+page_1115	આકાર સ્વભાવી પુદગલની શક્તિ	Aakar Swabhavi Pudagalni Shakti	NNNNNNNN	66
+page_1117	ભૂમિકા ભજવી ભૂમિ ઉપર	Bhumika Bajvi Bhumi Uppar	NNNNNNNY	66
+page_1120	આ આત્માએ ક્યારેય કદી	Aa Aatmaae Kyarey Kadi Nathi	NNNNNNNN	59
+page_1121	કૃષ્ણ ભગવાન ઉવાચ, મૂર્ત-પ્રગટ	Krushna Bhagawan Uvach, Murt-Pragat	NNNNNNNN	67
+page_1122	રમત વખતે કાર્ય કર તું, કાર્ય સમયે	Ramat Vakhate Karya Kar 'Tu' Karya Samaye	NNNNNNNN	67
+page_1123	ભીતરમાં ભારીને દ્વેષજ, જે ચીજો 'ત્યાગી'	Bhitarma Bharine Dweshaj, Je Chijo 'Tyagi'	NNNNNNNY	67
+page_1124	જગત ભોગવતું કોઈ નથી ફક્ત અપમાનના ડરથી	Jagat Bhogavtu Koi Nathi Fakta Apamanana Darathi	NNNNNNNN	67
+page_1125	હમારી પ્યાસી અતૃપ્તિ	Hamari Pyasi Atrupti	NNNNNNNN	67
+page_1126	જગતની આદતો કેવી? ન જોવાનું	Jagatni Aadato Kevi? Na Jovanu	NNNNNNNN	67
+page_1127	પલ-વિપલની પ્રતિષ્ઠા પધરાવીને પાણીમાં	Pal-Vipalni Pratishtha Padharavine Panima	NNNNNNNN	67
+page_1128	જન્મ શતાબ્દિ આનંદા	Janma-Shatabdi Ananda	NNNNYNNN	67
+page_1129	લીધાં અક્રમ-જ્ઞાનીનાં અનન્ય શરણાં	Lidha Akram-Gnanina Ananya Sharna	NNNNNNNY	67
+page_1133	જીવનની તત્વ-લક્ષી ગઝલ, અનાદીથી	Jivanni tatva-Lakshi Gazal, Anadithi	NNNNNNNN	68
+page_1134	ગુરૂમુખી શીષ્ય લ્હાણ	Gurumukhi Shishya lLan	NNNYNNNN	68
+page_1135	અવસ્થા પુરગલી પર્યાય, વિભાવે	Avastha Pudagali Paryay, Vibhave	NNNNNNNN	68
+page_1136	ગજબ આશ્ચર્યકારી મોક્ષદાની પૂછે નૈ અધિકાર	Gajab Aashcharyakari Mokshdani Puche Ne Adhikar	NNNNNNNY	68
+page_1137	ઉધારી હપ્તાના ધંધા, ભયંકર ખોટ	Udhari Haftana Dhandha, Bhayankar Khott	NNNNNNNN	68
+page_1138	વિચારો કરીને ગાંઠો પડે છે	Vicharo Karine Gantho Pade Chhe	NNNNNNNN	68
+page_1143	આ જીવનનો રસ્તો	Aa Jivanno Rasto	NNYNNNNN	69
+page_1145	દર્શનમાં ચોખ્ખું દેખાય એવું	Darshanma Chokkhu Dekhay Evu	NNNNNNNY	69
+page_1149	ઋષિ, મુનિ, સંતે જાગૃત	Rushi, Muni, Sante Jagrut	NNNNYNNN	70
+page_1150	જગત ઊભું અહમ-ઘાટે, જીવીચ્છે અહમનું	Jagat Ubhu Aham-Ghate, Jeevichchhe Ahamnu	NNNNNNNN	70
+page_1152	આપણી લાયકી બતાવવાને, પેસવું નહીં જ્યાં	Aapni Layki Batav-vane Pesvu Nahi Jya	NNNNNNNN	70
+page_1153	આશા છે અમ્મર ભર્યો	Asha Chhe Ammar Bharyo	NNNNNNNN	70
+page_1154	જયકાર થાય ને 'દાદા' દેખાય	Jaykar Thay Ne 'Dada' Dekhay	NNNNNYNN	70
+page_1155	સમર્પણ જ્ઞાનપૂર્વકનું અહો સર્વોચ્ચ	Samarpan Gnanpurvaknu Aho Sarvochch	NNNNNNNN	70
+page_1157	સત્‌ પોતે છે ત્રિકાળી માત્ર	Sat Pote Chhe Trikali Matra	NNNNNNNY	70
+page_1158	આત્માના વિભાવ વિકલ્પે	Aatmane Vibhav Vikalpe	NNNNNNNN	70
+page_1163	દાદા આપે છે કેવળજ્ઞાનજ, પણ પુરેપુરું પચતું	Dada Ape Chhe Kevalgnanaj, Pan Purepuru Pachtu	NNNNNNNN	71
+page_1164	ટિલાં-ટપકાં-ધજા વગર, પૂજનીય	Tila-Tapka-Dhaja Vagar, Pujniya Asaiyat	NNNNNNNN	71
+page_1165	મહામૂલું છે માનવ જીવન, વ્યર્થ ન કંઈ	Mahamulu Chhe Manav Jivan, Vyarth N Kai	NNNNNNNY	71
+page_1166	દિવ્ય ચક્ષુ ઉપયોગે બેઉ પાંખીયાથી	Divya Chakshu Upyoge Beo Pakhiyathi	NNNYNNNN	71
+page_1167	અખૂટા-મૃત સુરાહી, મહેફિલમાં	Akhuta-Mrut Surahi, Mehfima	NNNNNNNN	71
+page_1168	સાક્ષાત પ્રત્યક પરમ જ્યોતિ સ્વરૂપ	Sakshat Pratyak Param Jyoti Swarup	NNNNNNNN	71
+page_1169	વેડફાઈ જાય એવા શબ્દ નહીં બોલવા	Vedafayi Jay Eva Shabdo Nahi Bolva	NNNNNNNN	71
+page_1170	આખું વાતાવર્ણ રંગી શકે આપની સુવાસ	Aakhu Vatavaran Rangi Shaake Aapni Suvas	NNNNYNNN	71
+page_1171	કોઈ અંગ શરીરકા કાટે, તો જૈસા દુઃખ હોતા હૈ	Koi Ang Sharirka Kate, Toh Jaisa Dukh Hota Hai	NNNNNNNN	71
+page_1172	તમે કર્યો પ્રેમ તેથી અમે ખીલી જઈશું	Tame Karyo Prem Tethi Ame Khili Jaisu	NNNNNNNN	71
+page_1173	જગત-કલ્યાણકારી ભાવના જન શ્રુત	Jagat-Kalyankari Bhavna Jan Shrut	NNNNNNNN	71
+page_1174	અમે આપ્તપુત્રોએ, ઠાર્યું મન	Ame Aaptputro-Eh, Tharyu Mann	NNNNNNNN	71
+page_1179	રીલેટીવ સર્વે સંબંધો નથી કાયમના કોઈ સગા	Relative Sarve Sambhadho Nathi Kayamna Koi Saga	NNNNNNNN	72
+page_1180	ભવ ને ભટકણનો વિશ્રામ	Bhav Ne Bhatakamanno Vishram	NNNNNNNN	72
+page_1181	દાદા'! તમારી વાણી ત્રિકાળી	Dada'! Tamari Vani Trikali	NNNNNNNN	72
+page_1182	માર ખાય ને ભૂલી જાય, એનું નામ	Mar Khay Ne Bhuli Jay, Enu Nam	NNNNNNNN	72
+page_1183	દુકાની જગત વહેવારી સગા સૌ	Dukani Jagat Vahevari Saga Sau	NNNNNNNN	72
+page_1184	ચંદન ચોંટાડે હરકોઈ, મન પર દ્રષ્ટિ સ્થિર	Chandan Chotade Harkoi, Mann Par Dhrashti Sthir	NNNNNNNN	72
+page_1185	ખૂલ્લી સડક પરમાર્થની 'અક્રમ' માર્ગ	Khulli Sadak Paramarthni 'Akram' Marg	NNNNNNNN	72
+page_1186	અખીયન સામે દેખું સીમંધર	Akhiyan Saame Dekhu Simandhar	NNNNNNYN	72
+page_1187	ત્રિકાળે ઉપકારી શ્રી સત સીમંધર	Tri-kale Upkari Shri Satt Arehantanam	NNNNNNYN	72
+page_1188	અમૂલ બાંધો, અ-તૂટ સાંધો	Amul Bandho, A-tut Sandho	NNNNNNNN	72
+page_1191	જગત-માન્ય 'ભગવાન' એજ શક્તિ 'વ્યવસ્થિત'	Jagat-Manya 'Bhagawan' Ehj Shakti 'Vyavasthit'	NNNNNNNN	73
+page_1192	અજ્ઞાને બંધેલા ચીતરેલા ચોપડા, ગત-જન્મો	Agnane Bandhela Chitrela Chopda, Gat-Janmo	NNNNNNNN	73
+page_1193	પાંચ ઈન્દ્રીથી અનુભવાતું શરીર	Panch Indrithi Anubhavatu Sharir	NNNNNNNN	73
+page_1195	જ્ઞાન-જ્ઞાન વિધ્યાધર મીન મેખ 'સર્વજ્ઞ'	Gnan-Gnan Vidhyadhar Min Mekh 'Sarvgna'	NNNNNNNN	73
+page_1196	મીઠી વસ્તુ ન વાગોળે	Mithi Vastu N Vagole	NNNNNNNN	73
+page_1198	મન મોજાંમાં ઘૂઘવતો સમંદર અંદર - ભરત સંઘવી	Man Mojama Ghughavto	NNNNNNNN	73
+page_1199	સગું વ્હાલું કોઈ સાચું છે નહીં, માત્ર-સંબંધો	Sangu Vahalu Koi Sachu Chhe Nahi, Matra-Sambandho	NNNNNNNN	73
+page_1201	પરમ સન્મુખે કેવળબીજ, નીરંતર ભરતી	Param Sanmukhe Kevalbij, Nirantar Bharti	NNNYNNNN	73
+page_1202	દાદા'! તુમ્હારે પાવન પથ પર	Dada'! Tumhare Pavan Path Par	NNNNNNNY	73
+page_1204	ૐ હ્રીં અર્હંમ નમઃ વાસુ શીવમ સચ્ચિદાનંદ	Om Rheem Arham Namah: Vasu Shivam Sachidanand	NNNNNNNN	73
+page_1204	સીમંધર સીમંધર નમો અરિહંતાણં	Simandhar Simandhar Namo Arihantanam	NNNNNNYN	73
+page_1207	જ્ઞાની પુરૂષનાં ગુણલાં, જોવાથી જ	Gnani Purushna Gunla, Jovathi J	NNNNNNNY	74
+page_1208	જગતમાં સર્વ હીસાબે, છે કાયમ હાની-વૃદ્ધિ	Jagatma Sarva Hisaabe, Chhe Kayam Hani-Vrudri	NNNNNNNN	74
+page_1209	સહજાત્મ-સ્વરૂપી, સ્વયં બુદ્ધ મૂર્તામૂર્ત	SahaJatma-Swarupi, Swayam Buddh Murtamurt	NNNNNNNN	74
+page_1210	જે અવળું સવળું થાય છે, એ પહેલાંનાં છે	Je Avalu Savlu Thay Chhe, Eh Pahelana Chhe	NNNNNNNN	74
+page_1211	આખું જગત પડઘા રૂપ, સામ સામું અથડાય	Aakhu Jagat Padgha Roop Saam Saamu Athaday	NNNNNNNN	74
+page_1212	ભલે ને દેહ જ્યાં હોય ત્યાં, અમારો	Bhale Ne Deh Jya Hoy Tya, Amaro	NNNNNNNN	74
+page_1213	ભૂતકાળ વહી ગયો	Bhutkal Vahi Gayo	NNNNNNNN	74
+page_1213	શબ્દ, બ્રહ્મ, કલા, નાદ 'પ્રત્યક્ષ' ઉપાસ્ય	Shabdha, Brahm, Kala, Naad 'Pratyaksh' Upasya	NNNNNNNN	74
+page_1215	ભીતર, બાહરની નબળૈથી, જગત આખું વીલાપે	Bhitar, Baharni Nabalaithi, Jagat Aakhu Vilape	NNNNNNNY	74
+page_1216	આ' દર્શન ઠારે અમ અંતર, ને હસતાં	Aa Darshan Thare Am Antar, Ne Hasta	NNNNNNNN	74
+page_1219	અવતારોની શોધખોળ, જ્ઞાન-પૂર્ણ	Avataroni ShodhKhol, Gnan-Puran	NNNNNNNN	74
+page_1220	દુનીયા છે દો-રંગી ત્રિયોગે, ડાહ્યાં	Duniya Chhe Do-Rangi Triyoge, Dahya	NNNNNNNN	75
+page_1222	કંઠે ભરીયાં પુસ્તક ભણતર, પણ પાયા	Kanthe Bariya Pustak Bantar, Pan Paya	NNNNNNNN	75
+page_1224	કરાર-કુદરત, નીયમ-બંધી, નીમીત્ત	Karar-Kudrat, Niyam-Bandhi, Nimitt	NNNNNNNN	75
+page_1225	સ્વતઃ સિદ્ધ, ભુવનેશ્વર, અને પરમાર્થ	Svat: Sidhdha, Bhuvaneshvar, Ane Parmarth	NNNNNNNY	75
+page_1225	સ્વતઃ સિદ્ધ, ભુવનેશ્વર, અને પરમાર્થ	Svat: Sidhdha, Bhuvaneshvar, Ane Parmarth	NNNNNNNN	81
+page_1226	ગુરૂ-ગોવીંદ દોનું આપ, હો વંદન	Guru-Govind Donu Aap, Ho Vandan	NNNYNNNN	75
+page_1227	જગત ઢૂંઢે અનુકૂળતા, જે સંયોગે મળે	Jagat Dhundhe Anukulta, Je Sanyoge Male	NNNNNNNN	75
+page_1228	હે ઘટમાં ઘૂંટાય ઘેરૂં નામ	Hey Ghatma Ghutay Gehru Nam	NNNNNNNN	75
+page_1229	અનાદિથી ઝળેલું મન ચહે છે કાયમી ઠંડક	Anadi Thi Zalelu Man Chahe Chhe Kayami Thandak	NNNNNNNN	75
+page_1232	ઝંડા ઊંચા રહે હમારા	Zanda Ucha Rahe Hamara	NNNNNNNN	42
+page_1233	ભાખ્યું જે કૃપાળુ દેવે, સ્વયંભૂ 'આ'	Bhakhyu Je Krupalu Deve, Swayambhu 'Aa'	NNNNNNNY	76
+page_1234	ગોલ્ડન જ્યુબીલી	Golden Jubilee	NNNYNNNN	76
+page_1235	ખૂદાઈ મંત્રને પઢતાં મળ્યો છે હાથ મૂળ-મુદ્દો	Khudayi Mantrane Padhtaan Malyo Chhe Haath Mul-Muddo	NNNNNNNN	76
+page_1235	ખૂદાઈ મંત્રને પઢતાં મળ્યો છે હાથ મૂળ-મુદ્દો	Khudayi Mantrane Padhtaan Malyo Chhe Haath Mul-Muddo	NNNNNNNN	81
+page_1236	જંગલમાં ફૂલ જુએ, માણસ દેખાય નહીં	Junglema Phul Jue, Manas Dekhaay Nahi	NNNNNNNN	76
+page_1238	સરવાળા ને બાદબાકી પુદગલ, પુરણ	Sarvala Ne Badbaki Pudgal, Puran-	NNNNNNNN	76
+page_1239	ગાંડા યા દોઢાં-ડાહ્યાં પણ માને છે પોતાને શાણાં	Ganda Ya Dodha-Dahya Pann Mane Chhe Potana	NNNNNNNN	76
+page_1241	ઓહમ હજરત યા અલ્લી, સોહમ	Oham Hajarat Ya Alli, Soham	NNNNNNNN	76
+page_1242	તું મને ભગવાન એ માર્ગે ચઢાવી દે	Tu Mane Bhagawan E Marge Chadhavi De	NNNNNNNN	76
+page_1243	જય સચ્ચિદાનંદ અભેદા, ગૂંજે સ્વર બ્રહ્માંડમાં	Jay Sachchidanand Abheda Gunje Svar Brahmandma	NNNNNNNN	76
+page_1244	મન વચ કાયા તાનાલાપ	Man Vach Kaya Tanalaap	NNNNNNNN	76
+page_1247	અકરમ માર્ગે મોક્ષજ અનુભવ થાય	Akram Marge Mokshaj Anubhav Thay	NNNNNNNY	77
+page_1248	વિકલ્પાભાસ 'હું' ભ્રાંતિ	Vikalpabhas 'Hun' Bhranti	NNNNNNNN	77
+page_1250	અજનમા જનમોચ્છવ, પરમશાંત સુધાશ્રવ	Ajanma Janamno Amrotsav - 2010 Gurupurnima	NNNNYNNN	77
+page_1251	તું કંઈ પણ કરીશ, તે અહંકાર છે	Tu Kai Pann Karish, Te Ahankar Chhe	NNNNNNNN	77
+page_1252	ઘણાં પ્રકારે રમણતા, પુદગલ વસ્તી માંય	Ghana Prakare Ramanta, Pudgal Vasti Maay	NNNNNNNY	77
+page_1254	શબ્દ, સ્વર, ભક્તિ, આત્મ, પરદા રાખ્યે	Shabde, Swara, Bhakti Aatam Parda Rakhye	NNNNNNNN	77
+page_1255	તારા દીધેલા દીપક લઈને 'હું' નીસરીયો	Tara Didhela Deepak Laine 'Hun' Nisariyo Chhu	NNNNNNNN	77
+page_1256	મહા - આશ્ચર્યકારી, એકત્વ-અરમાન	Maha - Aashcharyakari, Ekatva-Arman	NNNNNNNN	77
+page_1257	વખારો દુઃખની બોલી, અમારી	Vakharo Dukhni Boli, Amari	NNNNNNNN	77
+page_1258	ચિઠ્ઠી, ન કોઈ સંદેશ	Chiththi  Na Koi Sandeshh	NNNNNYNN	77
+page_1261	બીજાનાં દોષ જોવાથી, વધે છે વેર	Bijana Dosh Jobathi Vadhe Chhe Ver Ajampo	NNNNNNNY	78
+page_1262	કર્મોનાં સ્થાનો ભારી-ઊંડાં, જ્યાં દૂબો ત્યાં	Karmona Sthano Bhari-Unda, Jya Dubo Tya	NNNNNNNY	78
+page_1264	અહંકાર જ્યાં ઘવાય, ત્યાં જ આંધળો	Ahankar Jya Ghavay, Tyan J Aandhlo Bane	NNNNNNNN	78
+page_1265	પાટીદાર પરમાત્મા વીતરાગ ક્ષત્રિય	Patidar Paramatma Vitrag Kshatriya	NNNNNNNY	78
+page_1265	પાટીદાર પરમાત્મા વીતરાગ ક્ષત્રિય	Patidar Paramatma Vitrag Kshatriya	NNNNNNNN	80
+page_1266	જન્મો અને મોત-ભસ્મી	Janmo Ane Mot-Bhasmi - 2009 Gurupurnima	NNNYNNNN	78
+page_1267	હે 'દાદા'નાં ગાનારાં	He Dadana Ganara	NNNNNNNN	78
+page_1269	લૌકિક દ્રષ્ટિએ અલૌકિકનું મૂલ્યાંકન?	Laukik Drashtiye Aloaukiknu Mulyankan?	NNNNNNNN	78
+page_1271	ગુરૂ-લઘુ સંયોગ-વીયોગી જગત	Guru-Laghu Saiyog-Viyogi Jagat	NNNNNNNN	78
+page_1272	શંકા પડી કે તુર્ત ઉભી થાય ભૂતાવળ	Shanka Padi Ke Turrt Ubhi Thay Bhutaval	NNNNNNNN	78
+page_1273	જે આપ્તસુત્રો ટચુકડાં પણ હોય	Je Aaptsutro tachukada Pann Hoy	NNNNNNNN	78
+page_1274	જાણ્યો નથી જગત 'ક્રમે' અક્રમિક	Janyo Nathi Jagat-Krame, Akramik Moksh-Marg	NNNNNNNN	78
+page_1275	વાણીનાં સંયોગ, પર ને પરાધીન	Vanina Sahiyog Par Ne Paradhin	NNNNNNNN	78
+page_1281	આડો માલ પડ્યો છે માંહી, તેને ખાતર પાણી મળે	Aado Mal Padyo Chhe Mahi Tene	NNNNNNNN	79
+page_1283	આતમ ધ્યાને રામ ને ભજતાં, જો	Aatam Dyane Ramne Bhajta	NNYNNNNY	79
+page_1285	આંખ માથે પડદો પાડી જ્ઞાનવાણી સુણવી	Aankh Maathe Padado Padi Gnanvani	NNNNNNNN	79
+page_1287	ધર્મનું રક્ષણ કરવાનું, પક્ષોમાં નહીં પડવાનું	Dharmanu Rakshan Karvanu, Pakshoma Nahi Padvanu	NNNNNNNN	79
+page_1289	દુર્લભ 'મોક્ષદાની' નિર્મૂઝ, માર્ગી-સુલભ	Durlabh 'Mokshdani', Nirmruz Marg-Sulabh	NNNNNNNN	79
+page_1290	હું તું તે કર્તા નથી કોઈ જગ ઊભું છે હીસાબે રે	Hun Tu Te Karta Nathi Koi Jag Ubhu Chhe Hisabe	NNNNNNNN	79
+page_1292	જેનો જન્મસ્વભાવ છે, તે ન કદી બદલાય	Jeno Janma Swabhav Chhe, te Kadi Badalay	NNNNNNNN	79
+page_1294	પુદગલ પરમાણુંની પરાઈ છે ચાવી	Pudagal Paramanuni Parai Chhe Chali	NNNNNNNN	79
+page_1296	સહી કરી દીધાં વીના કોઈ કામ જગતમાં	Sahi Kari Didhi Vina Koi Kam Jagatma	NNNNNNNN	79
+page_1297	'વ્યવસ્થિત' શક્તિ હિસાબે કઢીને ભેગું થાશે દહીં	Vyavasthit' Shakti Hisabe Kadhine Bhegu Thashe Dahi	NNNNNNNN	79
+page_1301	ક્રમને મારગ કઠીનતા	Kramne Marag Kathinta	NNNNNNNN	80
+page_1302	દાદા ભગવંતની ચાદર ઓઢેલી પ્રગટ	Dada Bhagwantni Chadar Ohdheli Pragat	NNNNNNNN	80
+page_1303	દિવ્યાતિ દિવ્યમ સીલ્વર જ્યુબીલી	Divyati Divyam Silver Jubilee	NNNNYNNN	80
+page_1304	અજ્ઞાની આલમમાં, મૂર્તા-મૂર્ત મશલચી	Agnani Aalam-ma, Murta-Murt Mashalchi	NNNNNNNN	80
+page_1305	જાડી વાતોમાં દ્રવ્યાનુયોગ	Jadi Vatoma Dravyanuyog	NNNNNNNY	80
+page_1306	બૌ બૌ જન્મોથી કુટેલું અજ્ઞાન	Bau Bau Janmothi Kutelu Agnan	NNNNNNNN	80
+page_1308	શુદ્ધ પ્રેમી નીર્વ્યાજ સનાતન, મૈત્રી	Shudhdh Premi Nirvyaj Sanatan, Maitri	NNNNNNNN	80
+page_1310	સવળો આવે જગત ક્રમ	Savalo Aave Jagat Kram	NNNNNNNN	80
+page_1313	વીકારી ચીત્ત છે કુસંગ, જ્યાં માથું થઈ	Vikari Chitt Chhe Kusang, Jya Mathu Thai	NNNNNNNN	81
+page_1314	સ્વ-સમય શુદ્ધ પરમાર્થ ગીતા	Sva-Samay Shuddha Parmarth Gita	NNNNNNNN	81
+page_1315	પથ્થરને પીગળાવી દ્યે, શ્રુતવાણી	Patharne Pigalavi De, Shrutvani	NNNNNNNN	81
+page_1317	સર્વ ધર્મ સંઘનાદ વિજય વર્તો	Sarv Dharm Sanganand Vijay Varto	NNNNNNNN	81
+page_1318	દાદાજીનો શુદ્ધ સંદેશ ફેલાવે	Dadajino Shuddh Sandesh Fhelave	NNNNNNNN	81
+page_1320	જગત સાપેક્ષ હોવાથી જ્યહોં આસક્તિ	Jagat Sapeksha Hovathi Jyaho Aasakti	NNNNNNNN	81
+page_1323	કલ્કી અવતાર આલમે	Kalki Avatar Aalme	NNNNYNNN	11
+page_1324	ઝંડા ઊંચા રહે હમારા	Zanda Ucha Rahe Hamara	NNNNNNNN	42
+page_1327	હે! કરૂણા-સાગર પ્રભુ, 'લક્ષ' પ્રકાશ	He Karuna-Sagar Prabhu Laksha	NNNYNNNY	82
+page_1328	મફતિયું મેળવવા માટે કંઈપણ કરવું	Mafatiyu Meravava Mate Kaipan Karavu	NNNNNNNN	82
+page_1329	નથી દેખી શકતાં આપણે જે 'હું' તણી દીવાલ	Nathi Dekhi Shakata Aapane Je Hu	NNNNNNNN	82
+page_1331	ચોપાટ ચાર ખૂણાં, મન, બુદ્ધિ, ચિત્ત, અહંકાર	Chopat Char Khuna - Man, Buddhi, Chitt, Ahankar	NNNNNNNN	82
+page_1333	ચોપડા વીના તો કોઈથી કોઈનું નામ ના દેવાય	Chopada Vina Koithi Koinu Nam Na Devay	NNNNNNNN	82
+page_1335	આખાં બ્રહ્માંડનાં માલિક સદેહે	Aakha Brahmandna Malik Sadehe	NNNNYNNY	82
+page_1336	જેમ એક ને એકનો સરવાળો	Jem Aek Ne Aekno Saravalo	NNNNNNNN	82
+page_1337	બધી જ્ઞાનેદ્રી, કર્મેન્દ્રી સ્વભાવે ગુણધર્મો	Badhi Gnanedri Karmendri Svabhave	NNNNNNNN	82
+page_1339	પ્રાતઃકાળથી શું કરે છે? મારૂં પુદગલ	Pratah Kalthi Shu Karechhe? Maru Pudagal	NNNNNNNN	82
+page_1341	સનાતન વસ્તુ બે મળતાં, ગ્રહે	Sanatan Vastu Be Malata Grahe	NNNNNNNN	82
+page_1343	વીંધાઈ ગયાં જે વાંસ, બની ગીતા	Vindhai Gaya Je Vans Bani Geeta	NNNNNNNN	82
+page_1347	વચન બળનું જીવતું જાગતું વરદાન છું	Vachan Balnu Jivatu Jagatu Varadan	NNNNNNNN	83
+page_1348	નિશ્ચય મારગ પ્રગટ છે અગ્ની, અવળું દીઠું કે	Nishchay Marag Pragat Chhe Agni Aavaru	NNNNNNNN	83
+page_1350	ગાંડો અહંકાર વીફરે છે ત્યારે	Gando Ahankar Vifare Chhe Tyare	NNNNNNNY	83
+page_1352	મમતા કષાયે, મહા દુઃખદાયી	Mamata Kashaye Maha Dukhdayi	NNNNNNNY	83
+page_1354	ત્રિકાળ સત્ય 'આ' 'છે', 'તે' એક છે	Trikaal Satya Aa Chhe Te Aek Chhe	NNNNNNNN	83
+page_1355	સર્વકાળે હીતકારી જ્ઞાન વાણી દેશના	Sarvakale Hitakari Gnan Vani Deshana	NNNNNNNN	83
+page_1356	તીર્થંકર બોલ્યા છે તે એક હજાર આઠ	Tirthankar Bolya Chhe Te Aek Hajar	NNNNNNNN	83
+page_1357	સ્થૂળ આયનો અનૂપી શોધખોળ છે મીત્રો	Sthul Aayano Anupi Shodhkhol Chhe	NNNNNNNN	83
+page_1358	જેની ઉપર ચીઢ ચડે છે, ત્યાં જ ભયસ્થાન	Jeni Upar Chidha Chade Chhe Tyanj	NNNNNNNN	83
+page_1360	આખીયે દુનીયાની 'માયા' માં ગૂંચો	Aakhiye Duniyani Mayama Guncho	NNNNNNNN	83
+page_1367	આ સરઘસ છે દાદાનાં આપ્તપુ્ત્રોનું	Aa Saraghas Chhe Dadana Aaptaputronu	NNNNNNNY	84
+page_1368	આત્માના વિભાવ વિકલ્પે	Aatmana Vibhav Vikalpe	NNNNNNNN	84
+page_1369	અધરં મધુરં, વદનં મધુરં, નયનં મધુરં	Adharam Madhuram Vadanam Madhuram	NNNNNNNN	84
+page_1373	અનાદિથી ખડાં છે વૈર, બીજ	Anadithi  Khada Chhe Vair Bij	NNNNNNNN	84
+page_1375	દર્શનાવરણ ને મોહીની ચડી જો	Darshanavaran Ne Mohini Chadi Jo	NNNNNNNN	84
+page_1376	કાળી ચૌદશ ને તેમાં વળી રવિવાર, જ્ઞાનીપુરૂષ	Kali Chaudas Ne Tema Vari Ravivar	YNNNNNNY	84
+page_0089	પ્રત્યક્ષ દાદા ભગવાનની સાક્ષીએ, સીમંધર સ્વામીને	Pratyaksh Dada Bhagwanni Sakshiye, Simandhar Swamine	NNNNNNYN	84
+page_1379	ધંધો એવો શોધવો જેમાં હોય નહીં હરીફાઈ	Dhandho Aevo Shodhavo Jema Hoy Nahi	NNNNNNNY	85
+page_1381	હું પદની કેદ - મમત, મારું નામ	Hu Padni Ked-Mamat Maru Nam	NNNNNNNN	85
+page_1383	અંધારાની ભૂલ છાવરે કપટ, પોતાની એકુંય	Andharani Bhul Chhavare Kapat	NNNNNNNN	85
+page_1385	મૂર્તા-મૂર્ત નૌકાર જય દાદા ભગવાન	Murta-Murt Naukar Jay Dada Bhagavan	NNNNNNNN	85
+page_1386	ટોળું આપ્તપુત્રોનું, ઘૂમી રહ્યું	Toru Aaptaputronu Ghumi Rahyu Gamogam	NNNNNNNN	85
+page_1387	જગતનાં સર્વ મોહ જીતી ગયાં તે વીતરાગ થયાં	Jagatna Sarva Moh Jiti Gaya Te Vitarag Thaya	NNNNNNNN	85
+page_1389	જ્યાં 'ભય' પામે છે બાળક-સ્ત્રી, નક્કી	Jya Bhay Pamechhe Balak Stri Nakki	NNNNNNNN	85
+page_1391	નથી જેને આદિ, યા તો નથી અંત, એવી	Nathi Jene Aadi Ya To Nathi Ant	NNNNNNNN	85
+page_1392	આજ પોકારો દીલથી દાદાને	Aaj Pokaro Dilthi Dadane	NNNYNNNN	85
+page_1395	સ્વરૂપનું 'જ્ઞાન' થાય પછી જ નીકળે	Swarupnu Gnan Thay Pachhij Nikale	NNNNNNNN	86
+page_1396	નીર્ભય - સંરક્ષક જોઈ દીલનાં કમાડો ખૂલે	Nirbhay - Sanrakshak Joi Dilna Kamado	NNNNNNNN	86
+page_1397	સ્વસ્તિકી હૂંફ આશ્વાસન, સિદ્ધાસન	Swastiki Hunf Aashvashan Siddhasan	NNNNNNNN	86
+page_1398	આદિ પુરુષ નિજ રસ જ્ઞાનાંજન	Aadi Purush Nij Rasa Gnananjan	NNNNNNNN	86
+page_1399	અક્ષય સમૃદ્ધ સ્વયં રસાનંદ, કીર્તન નવધા	Akshay Samruddha Swayam Rasanand	NNNNNNNN	86
+page_1400	દાદા'! અમેરિકા જઈને	Dada Americama Jaine	NNNNNNNN	86
+page_1401	જેવી જેની વૃત્તિ જ્યાં ચોંટ છે ત્યાંજ ચીટકતી	Jevi Jeni Vrutti Jyan Chont Chhe Tyanj	NNNNNNNN	86
+page_1402	હજ્જારો વર્ષથી સજ્જન થયાં હડધૂત કળીયુગે	Hajaro Varshthi Sajjan Thaya Hadadhut	NNNNNNNN	86
+page_1403	દર્શન દ્યો એકવાર	Darshan Dayo Ekvar	NNNNNNNN	86
+page_1404	ગાયક, નિર્બંધન દુનિયાનાં	Gayak Nirbandhan Duniyana	NNNNNNNN	86
+page_1406	સ્વરૂપ કિર્તન ભક્તિ - સમજ	Swarup Kirtan Bhakti - Explanation	NNNNNNNN	86
+page_1409	હે પ્રભુ! હું તને શું કહું? હૈયું ન રહેતું	He Prabhu Hu Tane Shu Kahu	NNNNNNNY	87
+page_1410	ધર્મ, અર્થ ને કામ મોક્ષ, મનુષભવનું - સપ્તપદી	Dharma Arth Ne Kam Moksh	NNNNNNNN	87
+page_1412	લોટકી આપી ને માટલાં માંગશે	Lotaki Aapine Matala Magashe	NNNNNNNN	87
+page_1413	મીકેનીકલ છે, માનવ સ્વભાવે, ભાવ	Mechanical Chhe Manav Swabhave	NNNNNNNN	87
+page_1415	પ્રથમ 'પદ'થી આજ તક, કૃપાથી હું	Pratham Padthi Aaj Tak Krupa	NNNNNNNN	87
+page_1417	આખાં આ સંસારનો (હે પ્રભુ શું કહું?)	Aakha Aa Sansarno Ahankar	NNNNNNNN	87
+page_1418	સન્મુખ દાદા ન્હોયે ત્યારે	Sanmukh Dada Nohye Tyare	NNNYNNNN	87
+page_1419	અનુભવ અત્તરની સુરભી	Anubhavta Attarni Surabhi Dhab	NNNNNNNN	87
+page_1421	આતમા એકવાર પોતે જાણવો જોઈએ	Aatama Aekvar Pote Janavo Joia	NNNNNNNN	87
+page_1422	ચેતન-પુદગલ, મિશ્રિત કાયા	Chetan Pudagal Mishrit Kaya	NNNNNNNY	87
+page_1423	શુધાત્મા જોવા છે એવો	Suddhatma Jova Chhe Aevo	NNNNNNNN	87
+page_1425	જગતની ભાષે, અહીંનું અહીંયાં, દૂધનું	Jagatni Bhashe Ahinu Ahiya	NNNNNNNN	87
+page_1431	ગુન્હાતીત ભાવ ભારેલા, ધુંવાડે	Gunhatit Bhav Bharela Dhuvade	NNNNNNNN	88
+page_1433	બીજાનાં દોષ દેખ્યાંથી, સકળ સંસાર	Bijana Dosh Dekhyathi Sakal Sa	NNNNNNNN	88
+page_1434	જેવી અંદર 'બિલીફ' તેવું બહારે	Jevi Andar Bilif Tevu Bahre Va	NNNNNNNN	88
+page_1435	ખીલ્લે બંધી ગાયને કોઈ 'દિ ના મરાય	Khille Bandhi Gay Ne Koi Di Na	NNNNNNNN	88
+page_1436	છ તત્વોની ભાગીદારી, પતી-પત્ની સંગ બારજ પૂરા	Chh Tatvoni Bhagidari Pati-Pat	NNNNNNNN	88
+page_1438	જગત રૂપ કોયડા સર્વે, 'ડખા'થી આવેલી	Jagat Roop Koyada Sarve	NNNNNNNN	88
+page_1439	અવસ્તુની સ્મૃતિ, નોંધે 'જ્ઞાન' ઊપર ડાઘ પડે	Avastuni Smruti Nodhe Gnan	NNNNNNNN	88
+page_1440	જિંદગી જિવાય છે સહારે-સહારે	Jindgi Jivay Chhe Sahare-Sahar	NNNNNNNN	88
+page_1441	જ્ઞાનોદય પરિત્યાગ, વરતે છે વીતરાગ	Gnanoday Parityag Varte Chhe V	NNNNNNNN	88
+page_1442	કોઈને કોઈનું ઊપરીપણું ફાવતું જ નૈય	Koine Koinu Uparipanu Favatu j	NNNNNNNN	88
+page_1444	રામાપીર રામાપીર - જય જય હિન્દ	Ramapir Ramapir - Jay Jay Hind	NNNNNNNN	88
+page_1449	નીંદા ન કરશો કોઈની રે, જાણી, જ્ઞાની તનું ફરમાન રે	Ninda Na Karso Koinee Re	NNNNNNNN	89
+page_1450	લોક જૂએ છે બ્હારનાં વ્યસન અને આદત	Lok Juve Chhe Bharna Vyasan	NNNNNNNN	89
+page_1452	માર ખાય, તો છૂટાય, નીકળી જાય	Mar Khay to Chhutay Nikali Jay	NNNNNNNN	89
+page_1453	મારા રૂદીયે ઘૂંટાયું અનાદિથી જે	Mara Rudiye Ghutayu Anadithi	NNNNNNNN	89
+page_1454	મુરખ શ્રેષ્ઠોનું અપલખણ, અદેખાં-બુદ્ધિ-ઈર્ષ્યાગ્નિ	Murakh Shresthonu Apalakhan	NNNNNNNN	89
+page_1456	મન, વાણી, કાયાને જે સમજે	Man Vani Kayane Je Samaje	NNNNNNNN	89
+page_1457	નરસિંહ, મીરાં, અખો, તુલસી, કબીર	Narasih Mira Akho Tulsi Kabir	NNNNNNNY	89
+page_1459	સર્વ જીવોપર અનુકંપાને, અહમ ન દુભવે	Sarve Jivo Par Anukampa Ne Aha	NNNNNNNN	89
+page_1460	જેની છાયામાં ઠરતાં તન-મન	Jeni Chhayama Tharata Tan-Man	NNNNNNNN	89
+page_1462	ધન, મદ, જોબન ટકવાના નથી, તેની આખો	Dhan Mad Joban Takavan Nathi	NNNNNNNN	89
+page_1464	કુબુદ્ધિ પાપ બાંધે છે, જે ફફડાવે છે કોઈને	Kubuddhi Pap Bandhe Chhe Je	NNNNNNNN	89
+page_1465	સ્વ-રામ સાગર, અભેદ એકતાર	Swa-Ram Sagar Abhed Aektar	NNNNNNNN	89
+page_1466	અરિહંત અરિહંત જીનેશ્વરા	Arihant Arihant Jineswara, Shr	NNNNNNYN	89
+page_1515	છાતીફાટ રડો કુટો ક્યાંયેના શોધાય	Chhatifat Rado Kuto Kyanye Na Shodhay	NNNNNYNN	92
+page_1469	નથી જ્યાં પોતે કાંઈ કર્યું, 'અહંકાર' મેં	Nathi Jyan Pote Kani Karyu	NNNNNNNN	CD-90
+page_1471	કવીનું દીવાના પન, કેફ વીના ચડ્યું	Kavinu Divanapan Kef Vina Chadyu	NNNNNNNN	CD-90
+page_1473	વ્યક્તાત્મા પરમાત્મા અભેદ ગુરૂ	Vyaktatma Parmatma Abhed Guru	NNNNNNNN	CD-90
+page_1474	આત્મા પ્રાપ્ત થયા સિવાય, બીજું જગત	Aatma Prapt Thaya Sivay Biju	NNNNNNNN	CD-90
+page_1476	નથી કોઈ વીશ્વમાં જનમ્યો, બગાડી	Nathi Koi Vishavma Janmyo Bagadi	NNNNNNNN	CD-90
+page_1478	સ્વ-તંત્રે સ્વયં-સુખી સ્વાયત્ત પરિણામ	Swa-Tantre Swayam-Sukhi Swayatt	NNNNNNNN	CD-90
+page_1479	મંગલમય ક્ષીણ મોહ-જીનેશ્વર	Mangalmau Kshin Moh-Jineshwar	NNNNNNNN	CD-90
+page_1481	દુનિયાનો કર્તા કોઈ છે નૈ	Duniyano Karta Koi Chhe Nai	NNNNNNNN	90
+page_1483	દિવસ વિતાવ્યાં વ્યાકુળતામાં રાત્યું કાઢી રોઈ	Divas Vitavyan Vyakurtama Ratyu	NNNNNNNN	CD-90
+page_1484	વિ-કલપોનાં વહેતાં વારી	Vikalpona Vaheta Vari	NNNNNNNN	CD-90
+page_1485	હું પદી ભાદરવે ભીંડા જો ઊગીયાં	Hu Padi Bhadarave Bhinda Jo	NNNNNNNN	CD-90
+page_1487	છોટી મોટી ખડકી ને ભાદરણ ગામ	Chhoti Moti Khadaki Ne Bhadarana Gam	NNNNNNNN	90
+page_1488	પરમ કૃપાળુ દાદા ભગવાન	Param Krupalu Dada Bhagavan	NNNNNNNN	90
+MS01-020	જે કહ્યું'તું પૂર્વે તે યથાર્થ અ-પ્રયાસ	Je Kahyutu Purve Te Yatharth Aprayas	NNNNNNNN	nan
+MS01-025	ભૂમિકા કૃપાળુ દૈવી, શાસ્ત્રનું ભવિષ્ય	Bhumika Krupalu Daivi Shastranu	NNNNNNNN	nan
+MS01-031	લિફ્ટ મોક્ષ અપવાદ, અક્રમિક રાજમાર્ગ	Lift Moksha Apavad Akramik Rajmarg	NNNNNNNN	nan
+page_1219	અવતારોની શોધખોળ, જ્ઞાન-પૂર્ણ	Avataroni Shodhkhol Gnan-Purn	NNNNNNNN	75
+MS01-037	સ્થિર-અચળ-હિમાલયમાં, ધ્રુવ-સિંધુ	Sthir-Achal-Himalayma Dhruv-Sindhu	NNNNNNNN	nan
+MS01-041	આતશે-હુતાશનીથી જલ્યાં જીવનો	Aatashe-Hutashanithi Jalya Jivno	NNNNNNNN	nan
+MS01-073	જેનાં ચલણ નો'તાં ભાઈ ઘરમાં	Jena Chalan Nota Bhai Gharama	NNNNNNNN	nan
+MS01-079	દંભ રાખી ફરે છે, માનવી રઘવાયો	Dambh Rakhi Farechhe Manavi	NNNNNNNN	nan
+MS01-084	હે પરમ જ્યોતિ સ્વરૂપ મૂર્ત-મોક્ષ સિદ્ધ	He Param Jyoti Swarup Murt-Moksh	NNNNNNNN	nan
+MS01-089	સૂર્ય ઉપર છવાયેલાં વાદળાંઓ ઘટાટોપ	Surya Upar Chhavayela Vadarao	NNNNNNNN	nan
+MS01-090	જેમ છે તેમ જગત, રચનારો બાપ નથી	Jem Chhe Tem Jagat Rachanaro Bap	NNNNNNNN	nan
+page_1538	જેને જગત ફેંકી દીયે, શલ્ય તુચ્છકારથી	Jene Jagat Fenki Diye Shalya Tucchkarthi	NNNNNNNN	93
+MS01-097	અવસ્થામાં 'હું-પદ' 'મમત' અનાદિ	Avasthama Hu-Pad Mamat Anadi	NNNNNNNN	nan
+MS01-103	ભૂતકાળે પામી છૂટ્યાં, મૌન થઈને	Bhutakale Pami ChhuTya Maun	NNNNNNNN	nan
+MS02-011	ઊકલ્યો ન કોઈથી જગત કોયડો	Ukalyo na koithi jagat koydo	NNNNNNNN	nan
+MS02-012	સાધક બાધકને ખોટી જડી પાવલી	sadhak badhakne khoti jadi pavli	NNNNNNNN	nan
+MS02-014	ડામરનું પીપડું સ્ટ્રોંગ એસીડે ધૂઓ	Damarnu pipdu strong acide dhuo	NNNNNNNN	nan
+MS02-019	જગત અજ્ઞાનમાં, મનોરંજન ઘણાં	Jagat agyan ma, manoranjan ghana	NNNNNNNN	nan
+MS02-021	કારણ હોય તો કાર્ય બને છે	Karan hoy to karya bane chhe	NNNNNNNN	nan
+MS02-023	અણઊકલી અબુધ મતિ	Anukali abudh mati	NNNNNNNN	nan
+MS02-024	એક તેજપુંજનો ધોધ ત્રાટક્યો	Aek tejpunj no dhodh tratkyo	NNNNNNNN	nan
+MS02-025	ઐશ્વર્ય શાસ્ત્ર દાદાનું મુખારવિંદ	Aishwarya shastra dada nu mukharvind	NNNNNNNN	nan
+MS02-026	શક્તિ પ્રગટ ૐ નમઃશિવાય	shakti pragat om namah shivay	NNNNNNNN	nan
+MS02-027	કૈવલ્ય બીજનાં ફૂટતાં અંકૂર	kevalya bij na phutta ankur	NNNNNNNN	nan
+MS02-028	મૂંઝવશે વિપરીત મતિ	munjhavse viprit mati	NNNNNNNN	nan
+MS02-030	જગત કલ્યાણના ઉદયનું નિમિત્ત	jagat kalyan na uday nu nimit	NNNNNNNN	nan
+MS02-031	કુદરતી વ્યવસ્થિત પુદગલ કરામત	kudrati vyavasthit pudgal karamat	NNNNNNNN	nan
+MS02-032	ધનથી ઘણું પાતળું પ્રવાહી પૂર છે	Dhanthi ghanu patlu pravahi pur chhe	NNNNNNNN	nan
+MS02-033	રૂપ, રસ, ગંધ, સ્પર્શ પરમાણનાં રૂપગુણ	Roop, ras, gandh, sprarsh parmanuna roopgun	NNNNNNNN	nan
+MS02-034	ભારતીય સંસ્કૃતિનું પદ્મ-ભૂષણ નથી	Bhartiya sanskruti nu padma-bhushan nathi	NNNNNNNN	nan
+MS02-035	કુદરતી 'ભંગાર'માં વીંટાયેલું રત્ન છું	kudrati "bhangar" ma vintayelu ratna chhu	NNNNNNNN	nan
+MS02-036	આંખ 'રૂપી' એક ખૂણે	Aankh Roopi Aek Khune	NNNNNNNN	nan
+MS02-037	સંયોગી વીંટણી ફફડામણ	Sanyogi vintani fafdaman	NNNNNNNN	nan
+MS02-038	કાળની વિચિત્રતા જગત આખું ઉકળાટ	Kaalni vichitratajagat aakhu ukalat	NNNNNNNN	nan
+MS02-039	કરૂણા કૃપાળુ દેવ પ્રત્યક્ષ સતપુરૂષ	Karuna krupalu dev pratyaksh sat purush	NNNNNNNN	nan
+MS02-040	ભાગીદારી કેવી શોભે?	Bhagidari kevi shobhe?	NNNNNNNN	nan
+MS02-041	ભજન નશીલું મરમ ભૂલ્યું	Bhajan nashilu maram bhulyu	NNNNNNNN	nan
+MS02-043	પાડોશીની પટલાઈ, યુગથી ભટકતી	Padoshini patalai, yug thi bhatakti	NNNNNNNN	nan
+MS02-044	ધરતીનું ફેફસું ક્ષયથી સડી ગયું	Dhartinu fefsu kshaythi sadi gayu chhe	NNNNNNNN	nan
+MS02-046	શ્વાસ આયુ ઈન્દ્રિય, પ્રાણ બળ	Swas aayu indriya, pran bal	NNNNNNNN	nan
+MS02-047	આથડી અમાસની ગુજરી જિંદગાની	Aathdi amasni gujari zindagani	NNNNNNNN	nan
+MS02-048	સમજણ વીનાની શાદી બરબાદી	Samjan vinani shaadi barbadi	NNNNNNNN	nan
+MS02-049	પ્રગટ રત્નત્રય નિશ્ચયમાં	Pragat ratnatray nischayma	NNNNNNNN	nan
+MS02-050	જગતનો સ્વભાવ છે, અપભ્રંશ અંતકડી	Jagatno swabhav chhe, apbhransh antkadi	NNNNNNNN	nan
+MS02-051	મન, વાણી, કાયા, અધિ-યાસ	Man, vani, kaya, adhi-yas	NNNNNNNN	nan
+MS02-052	ઝંડા નીચે દુકાન અહીં	Zhanda niche dukaan anhi	NNNNNNNN	nan
+MS02-053	જાળીએથી જે શ્રીકૃષ્ણ	jaaliaethi je shreekrushna	NNNNNNNN	nan
+MS02-055	અખાને ચાબખે તુલસીની દયા છું	Akhane chabkhe tulsini daya chhu	NNNNNNNN	nan
+MS02-056	કાળ જુએ આંખો ફાડી	Kaal juae aankho fadi	NNNNNNNN	nan
+page_1542	એરણ ચોરી સોયનું દાન	Aeran chori soy nu daan	NNNNNNNN	93
+MS02-060	ઊંઘ સમયે સર્જન, પ્રાપ્ત ફળ	Ungh samaye sarjan, prapta fal	NNNNNNNN	nan
+MS02-061	બિનમઝહબ હિન્દમાં ધર્મનાં રમખાણ	Binmajhab hindma dharma na ramkhan	NNNNNNNN	nan
+MS02-062	શુદ્ધ-ઉપયોગીની સ્વ-શુદ્ધ રમણા	Shuddh-upyogi swa-shuddh ramna	NNNNNNNN	nan
+MS02-063	સિદ્ધ શુદ્ધાત્માની, સ્વયં શ્રેષ્ઠ શરાફત	Siddha shuddhatmani, swayam shresth sharafat	NNNNNNNN	nan
+MS02-064	લાગે મીઠું પાણી સાકરનું મિશ્રણ	Lage mithu pani sakar nu mishran	NNNNNNNN	nan
+MS02-065	ઊંઘમાં હતો આત્મ-શુદ્ધ	Unghma hato aatma suddh	NNNNNNNN	nan
+MS02-066	અવસ્થાની અનુભૂતિ અબુધની	Avasthani anubhuti abudhni	NNNNNNNN	nan
+MS02-067	જગતભરનું ધર્મ-મૂળ, કર્મ-મૂળ	Jagatbharnu dharm-mul, karma-mul	NNNNNNNN	nan
+MS02-068	પાતાળ ફૂટ્યું છે સ્વાર્થીએ લૂંટ્યું છે	Patal phutyu chhe swarthiae luntyu chhe	NNNNNNNN	nan
+MS02-069	સાત્વિક ચિંતન પસ્તી પૂર	Satvik chintan pasti par	NNNNNNNN	nan
+MS02-070	પારસ કદી ન લોઢું બને	Paras kadi na lodhu bane	NNNNNNNN	nan
+MS02-071	પૂર્ણ ચંન્દ્ર પર તેજોદ્વેષ	Purna chandra par tejodvesh	NNNNNNNN	nan
+MS02-072	આ કોનું સ્વપ્ન છે?	Aa konu swapna chhe	NNNNNNNN	nan
+MS02-073	કાયા પત્ની, અતૃપ્ત પ્યાસ	Kaaya patni, atrupt pyas	NNNNNNNN	nan
+MS02-074	સંસારી મસ્તી કાદવમાં ખૂંચવું	Sansari masti kadavma khunchvu	NNNNNNNN	nan
+MS02-075	આત્માનો સ્વભાવ શો?	Aatmano swabhav sho?	NNNNNNNN	nan
+MS02-076	સિંહણના દૂધને સોનાનું વાસણ ઝીલે	Sinhanna dudhne sonanu vasan jhile	NNNNNNNN	nan
+MS02-079	જન્મતાં જ અંત છે, અંતે શરુઆત	Janmta j ant chhe, ante sharuaat	NNNNNNNN	nan
+MS02-080	મન માયા સાગરનું રણ	Man maya sagarnu ran	NNNNNNNN	nan
+MS02-081	મહાદેવને મૂંઝવણ થાય	Mahadevne munjavan thay	NNNNNNNN	nan
+MS02-082	અજ્ઞાન માન્યતાઓ, પરની ઉપાધિ	Agyan manyatao, par ni upadhi	NNNNNNNN	nan
+MS02-083	પિતાનો પ્રકોપ છે?	Pitano prakop chhe?	NNNNNNNN	nan
+MS02-084	બુદ્ધિ-અંધ અજ્ઞાન દીવો	Buddhi-andh agyan divo	NNNNNNNN	nan
+MS02-085	લૌકિક અધર્મનું ફૂટ્યું છે તાળવું	Laukik adharmanu phutyu chhe taalvu	NNNNNNNN	nan
+MS02-086	પંથ-જ્ઞાતિ, છૂત-અછૂત બાળ-રમત	Path-gynati, chhut-achhut baal-ramat	NNNNNNNN	nan
+MS02-087	અક્રિય કરતો નથી ક્રિયા	Akriya karto nathi kriya	NNNNNNNN	nan
+MS02-089	ત્રિમંત્ર સ્મરણે દૂર સંસાર વિઘ્ન	Trimantra smarane dur sansar vighna	NNNNNNNN	nan
+MS02-090	સદગુરૂ 'તે' શુદ્ધ ચૈતન્યના જ સ્વામી	Sadguru "te" shuddh chaitanyana j swami	NNNNNNNN	nan
+MS02-091	નવરા નથી અવકાશે, બ્રહ્મા, વિષ્ણું	Navra nathi avakashe, brahma, vishnu	NNNNNNNN	nan
+MS02-092	માનવીય બુદ્ધિ ઉપર જામી ગઈ છે	Manviya buddhi upar jaami gai chhe	NNNNNNNN	nan
+MS02-093	પ્રત્યેક સમય જ્ઞાની, વર્તે છે દિવ્યતા	Pratyek samay gyani varte chhe divyata	NNNNNNNN	nan
+MS02-094	કલમ તોડ કાનૂન જીવતું અવસાન	Kalam tod kanoon jivatu avsan	NNNNNNNN	nan
+MS02-095	સદ્ધર ધર્મ નથી, મત-મોહાંધ	Saddhar dharm nathi, mat-mohandh	NNNNNNNN	nan
+MS02-096	કવિ નથી નવનીત, ભજન છે પડઘા	Kavi nathi navnit, bhajan chhe padgha	NNNNNNNN	nan
+MS02-097	યાદ આવે સ્વપ્નોની વણથંભી વણઝાર	Yaad aave swapnoni vanthambhi vanzhar	NNNNNNNN	nan
+MS02-098	ચૌદશિયા હોય નહીં, તો કોણ ઢૂંઢે	chaudashiya hoy nahi, to kon dhundhe	NNNNNNNN	nan
+MS02-099	રંગીન રૂપની રોશની, હેઠળ માંસની	Rangin roopni roshni, hethal mansni	NNNNNNNN	nan
+MS02-100	જ્યાંથી જુઓ સૂર્યને, ત્યાંથી પ્રકાશે	Jyathi juo suryane tyathi prakashe	NNNNNNNN	nan
+MS02-101	જીવતાં જ ફરે છે મુડદાં ને દાનવ	Jivta j fare chhe muadadane danav	NNNNNNNN	nan
+MS02-102	શાસ્ત્રકાવ્ય તુંબે બે, માત વીણા ધારિણી	Shastrakavya tumbe be, maat vina dharini	NNNNNNNN	nan
+MS02-103	શુદ્ધ પ્રેમ અક અલ્પ્ય, હૈયાં હિલ્લોળે	Shuddha prem ak alpya, haiya hillole	NNNNNNNN	nan
+MS02-104	આરોપિત પીંજરામાં ન્યાયાધીશ નજરદેદ	Aaropit Pinjrama Nyayadhish Najarked	NNNNNNNN	nan
+MS02-105	શરાબીની મહેફિલે કેફ ચડે જ ચડે	Sharabini mahefile kef chade j chade	NNNNNNNN	nan
+MS02-106	ઊછળીને ઢળે છે એ ભમરડાને ભાન	Uchhline dhale chhe ae bhamardane bhaan	NNNNNNNN	nan
+MS02-107	દ્રષ્ટિનો જ ફેર છે, વાત 'તે'ની તે જ	Drashtino j fer chhe, vaat "te"ni te j	NNNNNNNN	nan
+MS02-108	ઐશ્વર્ય ઉપકાર આપ, ભગવાન અપરંપાર	Aishwarya upkar aap, bhagwan aparmpar	NNNNNNNN	nan
+MS02-110	જગત-ક્ષેત્ર રંજન, બૌદ્ધિક સત્ય	Jagat-kshetra ranjan, bauddhik satya	NNNNNNNN	nan
+MS02-111	ક્ષણિક 'નામ' સંબંધને	Kshanik "naam" sambandhne	NNNNNNNN	nan
+MS02-112	જ્ઞાનીઓ જ વર્તે અત્યંત વિરોધાભાસ	Gyanio j varte atyant virodhabhas	NNNNNNNN	nan
+MS02-114	કોટિ કોટિ જ્ઞાનીનો એક જ અભિપ્રાય	Koti koti gyanino aek j abhipray	NNNNNNNN	nan
+MS02-115	નિયાણું કર્યું છે તે વાપરે કમાણી	Niyanu karyu chhe te vapre kamani	NNNNNNNN	nan
+MS02-117	નવનીત ભજનમાં લક્ષ, 'તે' નું	Navnit bhajanma laksh, "te" nu	NNNNNNNN	nan
+MS02-118	ખુદી-રામ ખેલાડીનાં એક જ અભિપ્રાય	Khudi-ram kheladina aek j abhipray	NNNNNNNN	nan
+MS02-119	અનાદિથી ભટકેલા મૂઢાત્માનું ગાન	Anadithi bhatkela mudhatmanu gaan	NNNNNNNN	nan
+MS02-120	તન્મય દેહ-કર્મે, યુગોથી જે અવસ્થિત	Tanmay deh-karme, yugothi je avasthit	NNNNNNNN	nan
+MS02-121	ડૂબી જવાય છે, છબછબિયાં કર્યા પછી	Dubi javay chhe, chhabchhabiya karya pachhi	NNNNNNNN	nan
+MS02-122	ભગવાને કહ્યુઃ વિશ્વે પાયા ઢીલા	Bhagwane kahyu: vishwe paya dhila	NNNNNNNN	nan
+MS02-123	ધર્મને નામે ધંધા થાય	Dharma na naame dhandha thay	NNNNNNNN	nan
+MS02-124	આણી પેર ધૂળ ને પેલી મેર વરસાદ	Aani per dhul ne peli mer varsad	NNNNNNNN	nan
+MS02-125	મુક્તિમાં યે રાગ નહીં, જગતમાં યે	Muktima ye raag nahi, jagatma ye	NNNNNNNN	nan
+MS02-126	સતકામી મુમુક્ષુનું સિદ્ધ માનવ મંદિર	Satkami mumukshunu siddh manav mandir	NNNNNNNN	nan
+MS02-127	સતપુરુષની 'વ્યવહાર' તિથિ એ	Satpurushni "vyavhar"tithi ae	NNNNNNNN	nan
+MS02-128	મૈં, મૈં કરતું બકરું	Mai mai kartu bakru	NNNNNNNN	nan
+MS02-129	સર્વજ્ઞ પુરૂષના, અંગુઠે જ અમૃત	Sarvagna purushna, anguthe j amrut	NNNNNNNN	nan
+MS02-130	ભગવાન ખુદ-બખુદ, ઘૂસ્યો છે પીંડમાં	Bhagwan khud-bkhud, ghusyo chhe pind ma	NNNNNNNN	nan
+MS02-131	અનાદિથી વ્યવસ્થિત બે, સૂર્યચંદ્ર	Anadithi vyavasthit be, surya chandra	NNNNNNNN	nan
+MS02-132	નિરાકારી ક્ષેત્રાકારે કીડી, હાથી, જોઈ લે	Nirakari kshetrakare kidi, hathi joi le	NNNNNNNN	nan
+MS02-133	પ્રત્યેક જીવ સમાન, ધન્ય ધરણી કારુણ્ય	Pratyek jiv samaan, dhanya dharni karunya	NNNNNNNN	nan
+MS02-134	આજ ક્યાંય રામ છે?	Aaj Kyay Raam Chhe?	NNNNNNNN	nan
+MS02-135	કર્મ કરતાં છતાં સર્વથા જે નિર્લેપ	Karma karta chhata sarvatha je nirlep	NNNNNNNN	nan
+MS02-136	ઉદય કર્મ ચેતનાએ સકામ નિર્જરા	Uday karma chetna ae sakaam nirjara	NNNNNNNN	nan
+MS02-137	શાશ્વત ભજનમાં, આત્મા જ સ્થાયી	Shashvat bhajanma, aatma j sthayi	NNNNNNNN	nan
+MS02-138	શુદ્ધ પરમાણું, મૂર્ત, અમૂર્ત ભગવાન	Shuddh parmanu, murt, amurt bhagwan	NNNNNNNN	nan
+MS02-141	ડગમગતી અંધ-શ્રદ્ધા, અનુકૂળે	Dagmagti andh-shraddha, anukule	NNNNNNNN	nan
+MS02-142	અગિયારમું આશ્ચર્ય, મોક્ષ દાતાર છે	Agiyarmu aascharya, moksha dataar chhe	NNNNNNNN	nan
+MS02-143	પૃથ્વી જે ઊભી છે, શેષ નાગ કલ્પના	Pruthvi je ubhi chhe, shesh naag kalpana	NNNNNNNN	nan
+MS02-144	સતધર્મ કાજ લડ્યા, પૂર્વે સતયુગથી	Satdharma kaaj ladya, purve satyugthi	NNNNNNNN	nan
+MS02-145	ઝૂંપડીના કોડિયે સ્વ-પર પ્રકાશ	Jumpadina kodiye swa-par prakash	NNNNNNNN	nan
+MS02-146	ભરહાડે શેકાયાં 'બીજ' મૂઢ સંસારિયા	Bharhade shekaya 'bij' mudh sansariya	NNNNNNNN	nan
+MS02-147	જીવ'ની જગત મૃગજળે, બુઝાતી	Jivni jagat mrug jale, bujhati	NNNNNNNN	nan
+MS02-148	ત્રિકરણ સિતારે, મન, બુદ્ધિ, ચિત્ત	Trikaran sitare, man buddhi, chitt	NNNNNNNN	nan
+MS02-149	વાસ્તવિક નાટ્યમાં જન્મતાં જ કરૂણાંત	Vastavik natyama janmta j karunant	NNNNNNNN	nan
+MS02-150	શાસ્ત્રો લખે, ઘઉંમાંથી કાંકરા છૂટા કર	Shastro lakhe, ghaumathi kankra chhuta kar	NNNNNNNN	nan
+MS02-151	સંસાર સાગર તરવો છે દુષ્કર	Sansar sagar tarvo chhe dushkar	NNNNNNNN	nan
+MS02-152	મનુષ્ય યોનિમાં જ, દૈવ-ગતિ બાંધી	Manushya yonima j dev-gati bandhi	NNNNNNNN	nan
+MS02-153	ત્રિવિધ તાપથી જગત આખું અકળાય	Trividh taapthi jagat aakhu akalay	NNNNNNNN	nan
+MS02-154	અધૂરા ઘડા જ છલકે	Adhura ghada j chhalke	NNNNNNNN	nan
+MS02-158	From Birth to Death	From birth to death	NNNNNNNN	nan
+MS03-001	જ્ઞાની ચરણની રજ જો સેવો	Gyani charan raj jo sevo	NNNNNNNN	nan
+MS03-002	કર્મ નિકાલ કરવા 'વીર' જાય અનાર્ય	Karma nikal karva 'vir' jay anarya	NNNNNNNN	nan
+MS03-004	ભેદ-મતિ 'કુસંગ' એકાંત	Bhed-mati 'kusang' aekant	NNNNNNNN	nan
+MS03-005	દાદા, ચંન્દ્ર, કનુ, ત્રિમૂર્તિ	Dada, chandra, kanu, trimurti	NNNNNNNN	nan
+MS03-007	અહમ-રોગનો આદિ વૈદ, દાદા ચરણામૃત	Aham-rogno aadi ved, dada charanamrut	NNNNNNNN	nan
+MS03-008	ખા, પી, સૂઈ, ઊઠીને નિત્ય છે	Khs, pi, sui uthine nitya chhe	NNNNNNNN	nan
+MS03-010	અમાવાસી અંધારાંમાં ચાલતાં જ લાગે	Amavasiu andharama chalta j lage	NNNNNNNN	nan
+MS03-011	અંતઃસ્કરણ શુદ્ધથી નિવેદન જે કરે	Antaskaran suddhathi nivedan je kare	NNNNNNNN	nan
+MS03-012	કાગળનાં ખેતરમાં શાસ્ત્ર સૂત્ર વાવણી	Kagalna khetarma shastra sutra vavni	NNNNNNNN	nan
+MS03-013	કષાય રામી અટકણો ભવ બંધન	kashay rami atakano bhav bandhan	NNNNNNNN	nan
+MS03-014	હે અંબાલાલ 'આ' પાટીદાર	He ambalal 'aa' patidar	NNNNNNNN	nan
+MS03-015	જ્ઞાની પરમાર્થી ઊજ્જવળ ઉદયાચલ	Gyani parmarthi ujjaval udayachal	NNNNNNNN	nan
+page_1529	તન્મયતા સહ કાર્યકારણનાં, બુદ્ધિમિશ્ર	Tanmayta sah karyakaran na, buddhimishra	NNNNNNNN	92
+MS03-017	જય સચ્ચિદાનંદ, હે દાદા ભગવાન	Jay sachhidand, he dada bhagwan	NNNNNNNN	nan
+MS03-018	કલ્પાતીત મૂર્તિમાન હે મોક્ષ સ્વરૂપ	Kalpatit murtiman he moksha swaroop	NNNNNNNN	nan
+page_1507	સિદ્ધ ક્ષેત્રી પરમાનંદ કેવળ આત્મ સંજ્ઞા	Siddha kshetri parmandi keval aatma sangna	NNNNNNNN	91
+MS03-020	લાખ યુગે અસંભવ, 'લિફ્ટ-માર્ગી' જ્ઞાન	Laakh yuge asambhavk, 'lift-margi' gyan	NNNNNNNN	nan
+MS03-021	માતૃ-પિતૃ, ભાઈ-બેન, સામુહિક શુદ્ધ	Matru-pitru, bhai-ben, Samuhik suddha	NNNNNNNN	nan
+MS03-022	કેવળ આત્મા પ્રગટ સૂક્ષ્મતમ	Keval aatma pragat sukshamatam	NNNNNNNN	nan
+MS03-023	એક પણ શબ્દ વિના, શુદ્ધ કોરો કાગળ	Aek pan shabda vina, suddha koro kagal	NNNNNNNN	nan
+MS03-025	જીવતાં બફાય નહીં તો, કળીયુગ ના	Jeevta bafay nahi to, kaliyugna	NNNNNNNN	nan
+MS03-026	મૂઢાત્માનું પ્રલય-રૂપ તાંડવ-નૃત્ય	Mudhatmanu pralay-roop tandav-nrutya	NNNNNNNN	nan
+MS03-027	લાખ કરોડ શાસ્ત્રમાં મિથ્યા-બુદ્ધિ	Lakh karod shastrama mithya-buddhi	NNNNNNNN	nan
+MS03-028	કલ્પ અનંતે પામિયા અનન્ય ત્વં શરણાં	Kalpa anante pamiya ananya tvam sharna	NNNNNNNN	nan
+MS03-029	પત્ની બોલી 'વ્હાલા જુઓ' સગાં	Patni boli 'vahala" juo saga	NNNNNNNN	nan
+MS03-030	પ્રાપ્ત નિમિત્તમાં ખેંચ યા ખસેડથી	Prapta nimittma khench ya khasedthi	NNNNNNNN	nan
+MS03-031	પ્રાકૃત ગુણ 'બ્રહ્મચર્ય' ફરજિયાત	Prapta nimittma khench ya khasedthi	NNNNNNNN	nan
+MS03-032	પખાલીને ડામ દીયે પાડાનાં વાંકમાં	Pakhaline dam diye padana vankma	NNNNNNNN	nan
+MS03-033	સતકામીને બોધ, બીજ નિષ્કામ	Satkamine bodh, bij nishkam	NNNNNNNN	nan
+MS03-034	બાળ જીવો બેફામ બહેક્યા, 'બેવડો'	Bal jivo befam bahekya, 'bevdo'	NNNNNNNN	nan
+MS03-035	સંકોચ વિકાસનું ભાજન આત્મ-પદ	Sankoch vikasnu bhajan aatma-pad	NNNNNNNN	nan
+MS03-036	કુગુરૂ ભરવાડોથી ચેત વાણી બોલી	Kuguru bharvadothi chet vani boli	NNNNNNNN	nan
+MS03-037	જ્ઞાન નયન શાશ્વત શિવો	Gyan nayan shashwat shivo	NNNNNNNN	nan
+MS03-039	અનન્ય અક્રમ શરણાં હો	Ananya akram sharna ho	NNNNNNNN	nan
+MS03-040	કઠીન કળી પંચમ, દુષમ પલ પલ	Kathin kali pancham, dusham pal pal	NNNNNNNN	nan
+MS03-041	લોક લજ્જા આબરૂ, લૌકિકની લબાડી	lok lajja aabru, laukikni labadi	NNNNNNNN	nan
+MS03-042	સરળ નથી મધુવન-ગુલાબ	Saral nathi madhuvan-gulab	NNNNNNNN	nan
+MS03-044	મઝધારે ચકરાતી નાવદી ને ફાંકું	Mazdhare chakrati navdi ne faku	NNNNNNNN	nan
+MS03-045	ફરતી રંગભૂમિ જગત એ જ પાત્ર	Farti rangbhoomi jagat ae j patra	NNNNNNNN	nan
+MS03-046	પર-દેશે પાંડિત્યમ પરાર્થીનું	par-deshe pandityam pararthi	NNNNNNNN	nan
+MS03-047	ઊભું અનાદિથી સ્વયં અધિષ્ઠાન	Ubhu anadithi swayam adhisthan	NNNNNNNN	nan
+MS03-048	મુક્ત ગગન ભોમકા સ્વ વીતરાગ	mukta gagan bhomka swa vitrag	NNNNNNNN	nan
+MS03-049	અનાદિથી મિશ્રણ ઘન ને પ્રવાહી	Anathi mishran dhan ne pravahi	NNNNNNNN	nan
+MS03-050	પંચ આજ્ઞા પરમાનંદ બીજે કશે	Panch aagna parmanand bije kashe	NNNNNNNN	nan
+MS03-051	નિજ ભજન, જય સચ્ચિદાનંદ	Nij bhajan, jay sachchidanand	NNNNNNNN	nan
+MS03-052	અખંડ ધૂન, શુદ્ધાત્મા આરાધન	Akhand dhun, suddhatma aaradhan	NNNNNNNN	nan
+MS03-053	હું સાધુ ત્યાગી જતિ, મિથ્યા શરીરી	Hu sadhu tyagi jati, mithya shariri	NNNNNNNN	nan
+MS03-054	લિફ્ટ મોક્ષ અપવાદ, અક્રમિક રાજમાર્ગ	lift moksha apvad, Akram rajmarg	NNNNNNNN	nan
+MS03-056	સ્થિર અચળ હિમાલયમાં ધ્રુવ-સિંધુ	Sthir achal himalayma dhruv sindhu	NNNNNNNN	nan
+MS03-058	દાદા ભગવાન સુખધામ અનંત	Dada bhagwan sukhdham anant	NNNNNNNN	nan
+MS03-060	શુદ્ધ સંજ્ઞા વીતરાગ જ્ઞાનનેત્રી	Suddha sangna vitrag gyannetri	NNNNNNNN	nan
+MS03-061	પોતે જ પોતાની પ્રશ્નોત્તરી મૌખિક	Pote j potani prashnotari maukhik	NNNNNNNN	nan
+MS03-062	અનાદિ અનંતની ઘટમાળનો ઉજાશ	Anadi anantni ghatmal ujash	NNNNNNNN	nan
+MS03-063	બુદ્ધિનાં વ્યભિચારથી ઊભું જગત	Buddhina vyabhicharthi ubhu jagat	NNNNNNNN	nan
+MS03-064	અગિયાર ઈંચી બોલ્ટમાં બાર ઈંચી નટ	Agiyar inchi boltma bar inchi nut	NNNNNNNN	nan
+MS03-065	પ્રશંસક ને પ્રશસ્યની વણથંભી	Prashanshakne ne prashyni vanthambhi	NNNNNNNN	nan
+MS03-067	જ્ઞાન બીજથી યથારથ, પૂર્ણકરા ગુરૂપૂનમ	Gyan bijthi yatharth, purnakara gurupunam	NNNNNNNN	nan
+MS03-068	દુષમકાળી વિલાપે સરળ સીધો	Dushamkali vilape saral sidho	NNNNNNNN	nan
+MS03-069	સ્વદેશી ભજનમાં મંજીરા ને કરતાલ	swadeshi bhajanma manjira ne kartal	NNNNNNNN	nan
+MS03-070	સંસારી સાસરિયે, ક્ષેત્રાકારી ભરમી	sansari sasariye, kshetrakari	NNNNNNNN	nan
+MS03-071	કાળ સમુદ્રી સપ્તકમાં પૂર્ણ કલ્કી	Kaal samudri saptakma purna kalki	NNNNNNNN	nan
+MS03-072	હે આદિ ધરમ મંડાણ	He aadi dharma mandan	NNNNNNNN	nan
+MS03-073	પ્રેમ પ્રેમ શુદ્ધ પ્રેમ પરમાનંદી	Prem prem suddha prem parmanandi	NNNNNNNN	nan
+MS03-074	ઉપકાર ઉપસર્ગે, શુદ્ધાત્મ સમભાવ	Upakar upsarge, suddhatma sambhav	NNNNNNNN	nan
+MS03-076	આયનાની કસૂર નથી, જાણ જો વિગતને	Aaynani kasoor nathi, jan jo vigate	NNNNNNNN	nan
+MS03-077	હું શુદ્ધ આત્મા છું, વિશુદ્ધ આત્મા	Hu suddha aatma chhu, vishuddha aatma	NNNNNNNN	nan
+MS03-078	ભમરડાના ચકરાવા, વ્યવસ્થિતને	Bhamardana chakrava, vyavasthitne	NNNNNNNN	nan
+MS03-079	અક્કરમી દરિદ્રોનાં, દેહાધ્યાસ ભાંગનાર	Akkarmi daridrona, dehadhyas bhangnar	NNNNNNNN	nan
+MS03-080	કમ કેડી મુશ્કેલ પગલાં	Kram kedi mushkel pagla	NNNNNNNN	nan
+MS03-081	દ્વંદ્વવાળાં છાબડાં બુદ્ધિનાં ત્રાજવાં	Dwandhvala chhabda buddhina trajva	NNNNNNNN	nan
+MS03-082	અટપટી દશા થકી જ બાળ સહજ	Atpati dasha thaki j bal sahaj	NNNNNNNN	nan
+MS03-084	જન્મે ત્યાંથી સ્મશાન ભડકા	Janme tyathi smashan bhadka	NNNNNNNN	nan
+MS03-085	નિશ્ચય વ્યવહારે બે પાંખો ભિન્ન	Nischay vyavahare be pankho bhinna	NNNNNNNN	nan
+MS03-086	જાણે જે આત્મા તે સાચો પુરુષ	Jane je aatma te sacho purush	NNNNNNNN	nan
+MS03-087	મમતા માયા અથડાવે	Mamta maya athdave	NNNNNNNN	nan
+MS03-088	જૈન વેદાંતી ને 'ત્યાગ'નું ટોનિક	Jain vedanti ne 'tyag;nu tonik	NNNNNNNN	nan
+MS03-088	સંસારી સંપૂર્ણ ધ્યા ત આ-ધ્યાની, ધ્યેય	Sansari sampurna dhya t aa-dhyani, dhyey	NNNNNNNN	nan
+MS03-089	આરોપિત સુખનું મિથ્યાત્વ, શૈલ્ય	Aaropit Sukhnu Mithyatva Shailya	NNNNNNNN	nan
+MS03-090	અર્થનો અનર્થ કેવો થાય, ભેંસોને	Arthno anarth kevo thay, bhensone	NNNNNNNN	nan
+MS03-091	નિશ્ચય વંદો શ્રી ૐ કાર સ્વસ્તિક	Nischay vando shree omkar swastik	NNNNNNNN	nan
+MS03-093	જાણો રૂપ, રસ, ગંધ સ્પર્શ ગુણ	Jano roop, ras, gandh sparsh gun	NNNNNNNN	nan
+MS03-094	જેવાં અંદર પરમાણું, તેવું બાહેર	Jeva andar parmanu, tevu bahar	NNNNNNNN	nan
+MS03-095	સામાજીક નીતિ નિયમ કામ	Samajik niti niyam kam	NNNNNNNN	nan
+MS03-096	અગ્નિ દેવ સગડીમાં તપેલીમાં ઊકળે	Agni dev sagdima tapelima ukale	NNNNNNNN	nan
+MS03-097	મહા મહા દુર્લભ, અક્રમિક જ્ઞાન	Maha maha durlabh, akramik gyan	NNNNNNNN	nan
+MS03-099	આપ્ત સ્વજન, 'સર્વજ્ઞ' સરળ	Aapta Swajan Sarvagna Saral	NNNNNNNN	nan
+MS03-100	પ્રભુને યે કલ્પે લોકો, જગત જેવો	Prabhune ye kalpe loko, jagat jevo	NNNNNNNN	nan
+page_1510	નક્કર અજ્ઞાનનો ભાંગી ભુક્કો	Nakkar agnanno bhangi bhukko	NNNNNNNN	91
+MS03-102	સ્વ આરોપિત નિજ તબાહી	Swa aaropit nij tabahi	NNNNNNNN	nan
+page_1528	સ્વયં જાળ ઊભી કરી, લીંપી ગૂંપી	Swayam jaal ubhi kari, lipi gupi	NNNNNNNN	92
+MS03-104	કામ જણ્યા શાદી સંબંધ, બુદ્ધિ ખૂંટલ	Kaam janya shadi sambandh, buddhi khuntal	NNNNNNNN	nan
+MS03-105	કામ, ક્રોધ, લોભ, મોહ, અહંકાર	Kam, krodh, lobh, moh, ahankar	NNNNNNNN	nan
+MS03-106	પ્રેમીઓની બદતમિઝી, ચલાવી લ્યે	Premioni badtamizi, chalavi lye	NNNNNNNN	nan
+MS03-106	વિરહો જ્ઞાનીના, આવરણો તોડનાર	Virho gyanina aavrano todnar	NNNNNNNN	nan
+MS03-107	નિષ્પક્ષ વાણી વીરડો, પ્રત્યેક ઘૂંટ	Nispaksh vani virdo, pratyek ghunt	NNNNNNNN	nan
+MS03-109	નમે છે જે અનયને, તે જ નમે ખુદને	name chhe je anyane, te j name khudne	NNNNNNNN	nan
+MS03-111	ઊંધું યે દેખાડે બિલોરી કાચ	Undhu ye dekhade bilori kaach	NNNNNNNN	nan
+MS03-112	અનંત કાળે અગમ દ્રષ્ટિ	Anant kaale agam drashti	NNNNNNNN	nan
+MS03-113	દાદાનો સંગાથ નિજાનંદી સૂરતા	Dadano sangath, nijanandi surta	NNNNNNNN	nan
+MS03-114	મન, વચન, કાયાથી તદ્દન જુદો શુદ્ધ	Man, vachan, kaayathi tadan judo suddh	NNNNNNNN	nan
+MS03-115	સૌરભ ન ટપકે માંહી, કાગળનાં	Saurabh na tapke mahi, kagalna	NNNNNNNN	nan
+MS03-117	અનાદિની આંટિયુંનો ભાગાકાર	Anadithi aantiyuno bhagakar	NNNNNNNN	nan
+MS03-118	અથડામણની આલબલ પરમાણુંના	Athadamanni aalbal parmanu na	NNNNNNNN	nan
+MS03-121	અનાદિ અનંત કાળ જગત લીલા	Anadi anant kaal jagat leela	NNNNNNNN	nan
+MS03-124	નિશ્ચેતન ચેતન મડદાં જો જીવડા	Nischetan chetan madada jo jivda	NNNNNNNN	nan
+MS03-125	કુદરતી રચના જ સ્વાભાવિક	Kudrati rachna j swabhavik	NNNNNNNN	nan
+MS03-126	કર્મસ્થાને ગળાંડૂબ, ધર્મસ્થાને છીછરો	Karmasthane galadub, dharma sthane chhichhro	NNNNNNNN	nan
+MS03-127	રાત્રી ને દિનકર વણથંભ વ્યવસ્થિત	Ratri ne dinkar vanthambh vyavasthit	NNNNNNNN	nan
+MS03-128	હું સાધુ મહારાજ ભ્રાંતિથી દેહ રાગ	Hu sadhu maharaj bhranti thi dehraag	NNNNNNNN	nan
+MS03-129	એક પુદગલ પરાવર્ત કાલ વચ્ચે 'કલ્પ'	Ek pudgal paravart kaal vacche 'kalp'	NNNNNNNN	nan
+MS03-130	લાખ લાખ શાસ્ત્ર, એક શબ્દમાં નીચોડ	Laakh laakh shastra, ek shabda ma nichod	NNNNNNNN	nan
+MS03-131	જગત આખું ઊભું છે વેર વઢવાડથી	Jagat aakhu ubhu chhe ver vadhvadthi	NNNNNNNN	nan
+MS03-132	અધર્મ જાણે નહીં છે જાણે ક્યાંથી ધરમ?	Adharma jane nahi chhe jane kyathi dharam?	NNNNNNNN	nan
+MS03-133	કળિયુગની રકમું	Kaliyugni rakamu	NNNNNNNN	nan
+MS03-137	જ્યહાં આકાશી મતિ અજ્ઞાન	Jyaha aakashi mati agnan	NNNNNNNN	nan
+MS03-138	બુદ્ધિ ના દોડાવવી	Buddhi na dodavavi	NNNNNNNN	nan
+MS03-139	અગ્નિની પરીક્ષા નો'ય	Agni pariksha noy	NNNNNNNN	nan
+MS03-147	અવસ્તુમાં ભમતાં પ્રાણી	Avastuma bhamta prani	NNNNNNNN	nan
+MS03-148	ગુરૂગમ વિનાનાં શાસ્ત્ર, વાંચી આત્મા	Gurutam vinana shastra, vanchi aatma	NNNNNNNN	nan
+MS03-149	ઊપજે ન પાઈ રાતી, મડદાંની	Upaje na pai rati, madadani	NNNNNNNN	nan
+MS03-150	જગત ઘૂમતાં મણકા માળે, આદિ	Jagat ghumta manka male, aadi	NNNNNNNN	nan
+MS03-151	કળીકાળે જૂન જન, સત્યકામી મુમુક્ષુ	Kalikaale jun jan, satyakami mumukshu	NNNNNNNN	nan
+MS03-152	તપ, જપ, દૈહિક મુક્તિના ખૂની	Tap,jap,daihik muktina khuni	NNNNNNNN	nan
+MS03-153	गायो दादा भगवान (હિન્દીમાં)	Gaayo dada bhagwan	NNNNNNNN	nan
+MS03-154	हमरे जूलूसमें (હિન્દીમાં)	Hamare julusme	NNNNNNNN	nan
+MS03-156	This is Self Sunrise	This is self sunrise	NNNNNNNN	nan
+MS04-007	અંધારં કોટી વર્ષના - દેવોને આવાહન	Andhara koti varshna - devone aahvahan	NNNNNNNN	nan
+MS04-007	કલ્પયુગી કામયાબ	Kalpyugi kamyab	NNNNNNNN	nan
+MS04-008	દાદા ભગવાન - ત્રિમંત્રો	Dada bhagwan- trimantra	NNNNNNNN	nan
+MS04-009	બ્રહ્માંડી નમસ્કાર વિધિ	Bhrahmandi namaskar vidhi	NNNNNNNN	nan
+MS04-012	જગતના પથ્થરોને શૂળ	Jagatna paththarone shul	NNNNNNNN	nan
+MS05-010	માનવ અંતઃસ્કરણ - વીણ, વિચારશીલ	Manav antahskaran- vin, vicharshil	NNNNNNNN	nan
+MS05-015	પૃથ્વી જે ઊભી છે, શેષ નાગ કલ્પના	Pruthvi je ubhi chhe, shesh naag kalpana	NNNNNNNN	nan
+MS05-022	ખૂલ્લી સડક પરમાર્થની 'અક્રમ' માર્ગ	Khulli sadak paramarthni 'akram' marg	NNNNNNNN	nan
+MS05-023	જગત સામગ્રીનું સ્નેહી, અપેક્ષીત	Jagat samagrinu snehi, apekshit	NNNNNNNN	nan
+MS05-033	પરણે છતાં છૂટાછેડા ભાંગ્યા મનની	Parne chhata chhutachheda bhangya manni	NNNNNNNN	nan
+MS05-036	અતિન્દ્રીય પ્રત્યક્ષ આત્મ સ્પર્શી	Atindriya pratyaksha aatma sprashi	NNNNNNNN	nan
+MS05-037	પરમ-સંવેદની કવીતા જ ગહન ગઝલ	Param-sanvedani kavita j gahan gazhal	NNNNNNNN	nan
+MS05-038	ત્રિકાળ સત્ય ઠરે, જ્ઞાનીનાં શ્રીમુખ	Trikal satya thare. Gyani na shree mukh	NNNNNNNN	nan
+MS05-042	પરમાર્થે પ્રગટેલી વાણી, 'ગૂંચ' શબ્દમાં	Parmarthe pragateli vani, "gunch' shabda ma	NNNNNNNN	nan
+MS05-046	જગતનાં રૂપી આંદોલન, મૂઢાત્મા	Jagatna roopi aandolan, mudhatma	NNNNNNNN	nan
+MS05-049	સર્વ સમય માંગલ્ય, પ્રત્યષા ચૈતન્ય	sarva samay mangalya, pratyasha chaitanya	NNNNNNNN	nan
+MS05-052	કલ્પ સરજીતાધીન ભરમ જગત	Kalp saritadhin bharam jagat	NNNNNNNN	nan
+MS05-053	જગત-કોયડો જે છે 'તે' જ આપ	Jagat koydo je chhe "te" j aap	NNNNNNNN	nan
+MS05-054	વીલંબીત તાલમાં, વીતરાગ પ્રસરણા	Vilambit taalma, vitrag prasarna	NNNNNNNN	nan
+MS05-055	મૂર્તી યા છબીયુંની સામે પાપ નીવેદન	Murti ya chhabiyuni saane paap nivedan	NNNNNNNN	nan
+MS05-059	ધન ધન ધરા ચારૂત્તર ભૂમિ શાશ્વત	Dhan dhan dhara charutar bhooomi shashwat	NNNNNNNN	nan
+MS05-060	હીરા-જડીત 'બંધ' કમાડો તોતીંગ	Hira-jadit "bandh" kamado toting	NNNNNNNN	nan
+MS05-061	પૂર્વા-પર વંચાયેલી, માન્યતામાં	Purva-par vanchayeli, manyatama	NNNNNNNN	nan
+MS05-062	સરગમ પધની	Sargam padhani	NNNNNNNN	nan
+MS05-066	વાગોળ્યાં વીનાનું શાસ્ત્ર, પશુ છતાં	Vagolya vinanu shastra, pashu chhata	NNNNNNNN	nan
+MS05-067	જ્ઞાન-જ્ઞાન ઊપકારાય, દેહ-નૌકા	Gyan-gyan upkaray, deh-nauka	NNNNNNNN	nan
+MS05-071	ચાંદ - સૂરજ ફરજ - મરજ, સ્વયંસહજ	Chand-sooraj farj-maraj, swayamsahaj	NNNNNNNN	nan
+MS05-074	વધારે 'શાંતી'નો છમકાર, સ્વ-દેશી	Vadhare shanti no chhamkar, swadeshi	NNNNNNNN	nan
+MS05-082	ભાવે નહીં કડવી દવા, શૂરથી જગ	Bhave nahi kadvi dava, shurthi jag	NNNNNNNN	nan
+MS05-083	સાચું - ખોટું ભાન નૈ, ભરડે કલમો	Sachu-khotu bhan nai, bharde kalmo	NNNNNNNN	nan
+MS05-087	અંતઃસ્કરણનાં રૂપલાં જ્ઞેયો	Antahskaranna roopla gyneyo	NNNNNNNN	nan
+MS05-096	અ-સાધારણ નીશ્ચયે સહેજે સાધારણ	Asadharan nischaye saheje sadharan	NNNNNNNN	nan
+MS05-099	પ્રયોગ - પ્રયોગી, પ્રમાણું-બંધી	Prayog-prayogi, pramanubandhi	NNNNNNNN	nan
+MS05-76-2	ભદ્રકાળી માતાજીનાં આશરામાં	Bhadrakali matajina aashrama	NNNNNNNN	nan
+MS05-A	મૂળ દીવાથી પ્રગટો (દાદા દીવો-૧)	Mul divathi pragto(dada divo-1)	NNNNNNNN	nan
+MS05-k	જય દાદા ભગવાન (દાદા આરતી)	Jay dada bhagwan(dada aarti)	NNNNNNNN	nan
+page_0747	દીવો કરીએ ભગવન (દાદા દીવો - ૨)	Divo kariae bhagwn(dada divo-2)	NNNNNNNN	37
+MS06-016	ત્રિકરણ સિતારે, મન, બુદ્ધિ, ચિત્ત, અહમ	Trikaran sitare, man buddhi, chitt, aham	NNNNNNNN	nan
+MS06-017	સૌરભની સરગમ, નીઃશ્ચલ મુક્તારંભ	Saurabhni sargam, nischal muktarambh	NNNNNNNN	nan
+MS06-034	અટલ-અફર કુદરત કાનૂન, હીસાબી માત્ર	Atal-afar kudarat kanoon, hisabi matra	NNNNNNNN	nan
+MS06-036	વાંચી દેખી ઘાલી ઘૈડ, માન્યતાથી મગજમાં	Vanchi dekhi ghali ghaid, manyata thi magajma	NNNNNNNN	nan
+MS06-038	કોઈને કોઈનો ઉપદેશ લાગતો જ નૈય	Koine koino updesh lagto j nai	NNNNNNNN	nan
+MS06-039	મફતમાં દેહ મળીયો છે, ગીચો-ગીચ ગાંસડાં કરમે	Mafatma deh maliyo chhe, gicho gich gansda karme	NNNNNNNN	nan
+MS06-040	અપ્રાપ્તની ચીંતાગ્નીમાં, વરતમાને સળગશે	Apraptni chintagnima, vartmane salagshe	NNNNNNNN	nan
+MS06-041	દાદાનાં ભક્તિ-કિર્તન, સીધું જ આતમ-રંજન	Dadana bhakti-kirtan sidhu j aatam-ranjan	NNNNNNNN	nan
+MS06-046	પૂર્વગ્રહોથી ભરેલો માલ મસ્તકે, તેથી ચાલી	purvagrahothi bharelo maal mastake, tethi chali	NNNNNNNN	nan
+MS06-048	આતમરામની હાજરી છે તો કાયાનાં દશરથ	Aatamramni hajri chhe to kaayana dashrath	NNNNNNNN	nan
+MS06-049	અંતરનાં સુખને આવરી નાંખે પર-લક્ષી ઘા	Antarna sukhne aavri nakhe parlakshi gha	NNNNNNNN	nan
+MS06-050	મન, વચ, કાયનો વિરોધાભાસ જ બે-સૂરોને	man,vach,kayno virodhabhas j be-surone	NNNNNNNN	nan
+MS06-052	પૂર્વે સૂણેલું કે ઈશ્વર છે અંતર્યામિ	Purve sunelu ke ishwar chhe antaryami	NNNNNNNN	nan
+MS06-055	બાળક ઝંખે છે જે ગોદ તે સૌમ્યતા જ માતાની	Balak zankhe chhe je god te saumyata j matani	NNNNNNNN	nan
+MS06-057	કૈક જનમોનાં ગોટાવાળી, ગૂંચવ્યાં હીસાબ	Kaik janmona gotavali, guchvya hisab	NNNNNNNN	nan
+MS06-058	દાદાની ગુપ્ત વીચરણાં કોઈ સમજી શકે નહીં	Dada ni gupta vichrna koi samji shake nahi	NNNNNNNN	nan
+MS06-059	દાદા ભગવાન ગમ્મે ત્યાં વીચરે પણ અમને	Dada bhagwan gamme tya vichre pan amane	NNNNNNNN	nan
+MS06-061	સત બોધ મોક્ષગામી ચોખ્ખું જ અમરત	Sat bodh mokshagami chokkhu j amarat	NNNNNNNN	nan
+MS06-062	ઊદ્વેગકારી, અહીતકારી, અશુદ્ધ-ચિત્ત ને બુદ્ધિ	Udvegkari,ahitkari,ashuddh chitt ne buddhi	NNNNNNNN	nan
+MS06-065	નીતી પરાયણ કર્તવ્યે ખંત પ્રાપ્ત ઘરમાં સંનીષ્ઠા	Niti parayan kartavye khant prapta gharma sanistha	NNNNNNNN	nan
+MS06-066	લોકોથી અણદીઠ સહજાત્મ-મૂર્તિ, તેમાં વળી	Lokothi andith sahjatma-murti, tema vali	NNNNNNNN	nan
+MS06-067	કોમલતમ આ કરૂણા-મૂર્તિ પ્રેમપૂર્ણ સાર છે	Komaltam aa karuna-murti prempurna sar chhe	NNNNNNNN	nan
+MS06-071	કાયદેસર વસ્તુમાં ન્હોયે વિરોધાભાસ	Kaydesar vastuma nhoye virodhabhas	NNNNNNNN	nan
+MS06-074	જય સચ્ચિદાનંદ, સત કેવળ હે નીરુપમ	Jay sachchidanand, sat keval he nirupam	NNNNNNNN	nan
+MS06-076	વાણીની ખૂલ્લી અથડામણ તીર-છૂટેલાં	Vanini khulli athadaman tir-chhutela	NNNNNNNN	nan
+MS06-077	હો દાદા, સૂણજો અમારી સ્તુતિ, કરૂણાસાગર	Ho dada, sunjo amari stuti, karunasagar	NNNNNNNN	nan
+MS06-080	અહંકાર આથડે, ને સુખ-દુઃખ લાગણી, ગમો	Ahankar aathde, ne sukh-dukh lagni, gamo	NNNNNNNN	nan
+MS06-083	આંગળી કાપવી હોય તો ઘાલજો આંગળી યંત્રમાં	Aangli Kapvi Hoy to Ghaljo Aangli yantra ma	NNNNNNNN	nan
+MS06-084	નકલી માલ કાળું બજાર વાણીયે જ્યાં છળ ભરી	nakli maal, kalu bajar, vani ye jyan chhal	NNNNNNNN	nan
+MS06-088	કોઈ વાત લીધી મન પર ખોલે ભીતર કંઈક સ્તર	Koi vat lidhi man par khole bhitar kaik star	NNNNNNNN	nan
+MS06-089	જેને ક્યાંય પડે નહીં 'ગૂંચ' એ સાચાં-દ્રષ્ટા	Jene kyay pade nahi "gunch" ae sacha drashta	NNNNNNNN	nan
+MS06-090	સૂરજની સાખે હાથ ઝાલ્યાં પછી છોડે નહીં	soorajni sankhe hath jhalya pachhi chhode nahi	NNNNNNNN	nan
+MS06-091	અજ્ઞાનો આલમમાં, મૂર્તા-મૂર્ત મશલયો, અંધારૂં	Agnano aalamma, murta-murt mashlayo,andharu	NNNNNNNN	nan
+MS06-092	હે નીત્ય સમરણ વંદના, શ્રી મુખ વાણી સોહીણી	He nitya samaran vandna, shree mukh vani sohini	NNNNNNNN	nan
+MS06-094	રોગ, ભય, વિકાર-મુક્ત નીજ શુદ્ધજ્ઞાન	Rog, bhay, vikar-mukta nij shuddhgyan	NNNNNNNN	nan
+MS06-098	जो द्रश्योंका है 'द्रष्टा', ओर 'ज्ञेयों' का है	Jo drashyoka hain drashta, aur gyneyo ka hain	NNNNNNNN	nan
+MS06-100	અક્ક્લવાળા કોથળાનાં ઊપજે ન ચાર આના	Akkalvala kothlana upaje na char aaana	NNNNNNNN	nan
+MS06-104	જગત-વીગત છે કારાગાર, વીશેષ લક્ષ જ ચિત્રાકાર	Jagat-vigat chhe karagar, Vishesh laksh j chitrakar	NNNNNNNN	nan
+page_1502	રસ્તો પાર કરવામાં તો લોક રાખે છે	Rasto paar karvama to lok rakhe chhe	NNNNNNNN	91
+page_1521	સર્વ કાળમાં એ અનુપમા મોક્ષ-મૂર્તિમાન	Sarva kaalma ae anupama moksha-murtimaan	NNNNNNNN	92
+MS07-004	ગધેડાએ તો બેભાને, હલાવીને ઊલાળી	Gadhedaae to bhebhane, halavine ulali	NNNNNNNN	nan
+MS07-006	મનોવાણી ને કાયાનાં, દુષમ વ્યાપાર	Manovani ne kayana, dusham vyapar	NNNNNNNN	nan
+MS07-010	સુરભીત આત્માના દીલથી સ્વાગત થાય	Surbhit aatmana dilthi swagat thay	NNNNNNNN	nan
+MS07-019	રોગ, ભય, વિકાર-મુક્ત નીજ શુદ્ધજ્ઞાન	Rog, bhay, vikar-mukta nij shuddhgyan	NNNNNNNN	nan
+MS07-026	માનવ સેવા સુશ્રુષાનું 'કાર્ય' દીપાવે	Manav seva sushrushanu "karya" dipave	NNNNNNNN	nan
+MS07-027	દાદા ભગવાન, સુખધામ અનંત હે	Dada bhagwan, sukhdham anant he	NNNNNNNN	nan
+MS07-029	કોણ જાણે? ક્યારે, પડી હશે સૂતર	Kon jaane? Kyare, padi hshe sutar	NNNNNNNN	nan
+MS07-030	આપણો સ્વ-પ્રકાશ જ વીસ્તરે	Aapno Swa-prakash j Vistare	NNNNNNNN	nan
+MS07-031	ભડકાં લાગ્યાં, ને દાઝ્યાં, જગ-મોહો	Bhadka lagya, ne dajhya, jag moho	NNNNNNNN	nan
+MS07-032	જે ધ્યાન, ચિંત્વનાથી, તણખો પડે	Je dhyan, chintvanathi tankho pade	NNNNNNNN	nan
+MS07-033	જરૂર વગરનાં પરિગ્રહોથી લુંટાળી	Jaroor vagarna parigrahothi luntali	NNNNNNNN	nan
+MS07-034	અવળું કંઈ લાગી, ખૂંચે, ત્યાં જ ઊભી	Avalu kai lagi, khunche tya j ubhi	NNNNNNNN	nan
+MS07-035	મૂઢ-છંદી ગ્રહથી "અપદ" ઊકળતું	Mudh-chhandi grahthi "apad" ukaltu	NNNNNNNN	nan
+page_1540	આધિ, વ્યાધિ, ઊપાધિમાં, ભોગવટો	Aadhi, vyadhi, upadhima, bhogvato	NNNNNNNN	93
+page_1504	અહંકાર છે તે જગે બાંધે મમત-કુંડાળું	Ahankar chhe te jage bandhe mamat-kundalu	NNNNNNNN	91
+page_1520	પ્રગટ પુરૂષનું શરણું, પરમાશ્ચર્યકારી	Pragat purushnu sharnu, paramaschryakari	NNNNNNNN	92
+MS07-042	કર્તા' પરમાણું ને તેમાં, જીવ, શોધે	Karta parmanune tema, jiv, shodhe	NNNNNNNN	nan
+MS07-044	મનો, બુદ્ધિ, અહંકાર ચીત્ત ચાલે	Mano, buddhi, ahankar chitt chale	NNNNNNNN	nan
+MS07-045	અહંકાર છે ત્યાં મમતા સૂક્ષ્મ જાળું	Ahankar chhe tya mamta sikshma jaalu	NNNNNNNN	nan
+MS07-046	ત્રૈકાલ્ય વંદનીય ગુણીયલ માત પવિતર	Trekalya vandniy guniyal mat pavitar	NNNNNNNN	nan
+MS07-049	કાયાને બેઠક માનીને 'જીવ' ખૂંચે	Kayane bethak manine "jiv" khunche	NNNNNNNN	nan
+MS07-050	જ્ઞાની પુરૂષનાં દાખલામાં ચારેય	Gyani purushna dakhlama charey	NNNNNNNN	nan
+page_1525	પરમાર્થી પગલાં પાવન, ત્યાં સ્વાર્પણે	Paramarthi pagla pawan, tya swaparne	NNNNNNNN	92
+MS07-052	જેણે કાયાની બેઠકને સાચી કાયમી	Jene kayani behakni sachi kayam	NNNNNNNN	nan
+MS07-053	મનો-બુદ્ધિ, ચીત્ત-અહમ, ખાટલાનાં	Mano buddhi Ne Chitt-aham, khatlana	NNNNNNNN	nan
+MS07-054	દાદા, દાદા, દાદાનાં કીર્તન કરતાં કવી	Dada, dada, dadana kirtan karta kavi	NNNNNNNN	nan
+MS07-056	અખંડ લગની, પ્રગટ પ્રભુની, સહુને	Akhand lagni, pragat prabhuni, sahune	NNNNNNNN	nan
+MS07-057	અહદ ભવોથી કુટ્યું મીથ્યાત્વ	Ahad bhavothi phutyu mithyatva	NNNNNNNN	nan
+MS07-058	તાંતાત્મા ગ-મન તુફાન, ભેળી	Tantatma ga-man tufan,bheli	NNNNNNNN	nan
+MS07-059	અહમ ને ભેદ-વીનાશી, હ્રદય-સંજીવી	Ahamne bhed-vinashi, hriday-sanjivi	NNNNNNNN	nan
+MS07-061	દુનિયા સંચાલક નીઃશ્ચેતન	Duniya sanchalak Nihschetan	NNNNNNNN	nan
+MS07-062	આપમેળે ચલતી મન-મોટર	Aapmele Chalti Man-Motor	NNNNNNNN	nan
+MS07-063	મનખા રૂપ ઘડૂલામાં પાંચ પાંચ કાણાં	Mankha roop ghadulama panch panch kana	NNNNNNNN	nan
+MS07-064	કોઈ કાળે આવી દેશના સાંભળી નો'તી	Koi kaale aavi deshna sambhali noti	NNNNNNNN	nan
+MS07-065	નકલી માલ, કાળું બજાર, વાણી મેં	Nakli maal, kalu bajar, vani me	NNNNNNNN	nan
+MS07-066	કદા-મતા-સત્યાગ્રહ વીશ્વમાર્ગી	Kada-mata-satyagrah vishwamargi	NNNNNNNN	nan
+MS07-068	જય સચ્ચિદાનંદ, સતયુગ લાવશે	Jay sachchidanand, satyug lavse	NNNNNNNN	nan
+MS07-070	લાખો યુગો સુધી કલ્યાણે છે	Laakho loko sudhi kalyane chhe	NNNNNNNN	nan
+MS07-071	આપણાં સ્વ-પદ એવાં સમો લાગે લેખે	Aapna Swa-pad Aeva samo lage lekhe	NNNNNNNN	nan
+MS07-073	પ્રાપ્ત પ્રકૃતિ છે હીસાબીત પ્રયોગ	Prapta prakruti chhe hisabit prayog	NNNNNNNN	nan
+MS07-076	લોભ-લક્ષ્મી-વીષય કાજ, હેતુ-લક્ષી	Lobh-lakshmi-vishay kaaj, hetu-lakshi	NNNNNNNN	nan
+MS07-077	અતિન્દ્રિય ચેતના દાદા, ઝગાવી આપે	Atindriya chetna dada, jagavi aape	NNNNNNNN	nan
+MS07-078	પોતે જ આરોપ કરી ખીલવેલ	Pote j aarop kari khilvel	NNNNNNNN	nan
+MS07-081	હીતા-હીતને વીસરાવે ગ્રંથિ આવરણ	Hit-hitne visrave granthi aavran	NNNNNNNN	nan
+MS07-082	મેળ વિનાનાં છંદો લયને, વાંચી સૂણતાં	Mel vinana chhando layne, vanchi sunta	NNNNNNNN	nan
+MS07-083	મીથ્યા મોહીની ચીત્ત ડગાવે, હલબલ	Mithya mohini chitt dagave, halbal	NNNNNNNN	nan
+MS07-084	તેજી-મંદી જે વેપારે, તેને કહીયે રાગ	Teji-mandi je vepare, tene kahiye raag	NNNNNNNN	nan
+MS07-086	પૂર્ણ ત્રિયોગે અંતઃસ્કરણ, વર્તો વર્તો	Purna triyoge antahskaran, varto varto	NNNNNNNN	nan
+MS07-087	There is no worry in 'Real' 'I'	There is no worry in "Real" "I"	NNNNNNNN	nan
+MS07-088	શાસ્ત્રાધારે, બુદ્ધિવાદે, થાય છે પરોક્ષ	Shastradhare, buddhivade thay chhe paroksh	NNNNNNNN	nan
+MS07-090	અંતરનાં સુખને આવરી નાંખે પરલક્ષી	Antarna sukhne aavri nakhe parlakshi	NNNNNNNN	nan
+MS07-091	ગદર્ભ સે ગદર્ભ મીલે, હોતી લાતમ લાત	Gadarbh se gadarbh mile, hoti latam laat	NNNNNNNN	nan
+MS07-092	ત્રેષણાં, ત્રેખડનાં તાંતાં, પાતાળે પૂગીયાં	Treshna, trekhadna tanta, patale pugiya	NNNNNNNN	nan
+MS07-093	વહી પોઠ 'જીવ' વણઝાર ભવરણ ફાફલા	Vahi poth jiv vanzar bhavran fafla	NNNNNNNN	nan
+MS07-094	મરવા જન્મે તેને કાયમ ઊકાળા	Marva janme tene kayam ukala	NNNNNNNN	nan
+MS07-095	જ્ઞાની પરમાર્થી ઊજ્જવળ ઉદયાચલ	Gyani parmarthi ujjaval udayachal	NNNNNNNN	nan
+MS07-096	હે નીત્ય સમરણ વંદના, શ્રી મુખ વાણી સોહીણી	He nitya samaran vandna, shree mukh vani sohini	NNNNNNNN	nan
+MS07-097	અહંકાર આથડે, ને સુખ-દુઃખ લાગણી	Ahankar aathde, ne sukh-dukh lagni	NNNNNNNN	nan
+MS07-102	પ્રતીષ્ઠિત અહંકાર, અધિષ્ઠાને વીશ્વ	Pratisthit ahankar, adhisthane vishwa	NNNNNNNN	nan
+MS07-103	સાંકળીયું કારણ, કાર્ય, આઘાતોનાં	Sankaliyu karan, karya, aaghatona	NNNNNNNN	nan
+MS07-104	વીશ્વ રૂપી સંયોગોના વીયોગો યે	Vishwa roopi sanyogona viyogo ye	NNNNNNNN	nan
+MS07-105	પાંપણની પેલી પાર, કેવાં હોય રૂપ-રંગ	Panpanni peli par, keva hoy roop-rang	NNNNNNNN	nan
+MS07-108	જ્યાંથી જુઓ સૂર્યને ત્યાંથી પ્રકાશે	Jyathi juo suryane tyathi prakashe	NNNNNNNN	nan
+MS08-001	અક્રિય સક્રિયનું સંયોજન, માયા મોહે મમતા	Akriya sakriyanu sanyojan, maya mohe mamta	NNNNNNNN	nan
+MS08-002	અખૂટાનંદ પ્રેમાનંદ, અક્ષર-ધામી અવનીપર	Akhutanand premanand, akshar-dhami avani par	NNNNNNNN	nan
+MS08-003	અનંત શક્તિ પ્રગટ પ્રેરક, સ્વયં સચ્ચિદાનંદ	Anant shakti pragat prerak, sawayam sachchidanand	NNNNNNNN	nan
+MS08-004	અનંતા જન્મ ઓગાળી, મળે છે દેહ માનવનો	Ananta janma ogali, male chhe deh manavno	NNNNNNNN	nan
+MS08-005	અનાદિથી દોડધામ, અનીશ્ચીત મુકામો	Anadithi doddhan, anischit mukamo	NNNNNNNN	nan
+MS08-007	અવકાશે અ-ક્ષર નીબંધ-બંદીશ	Avkashe akshar nibandh-bandhish	NNNNNNNN	nan
+MS08-008	અશુદ્ધ ચીત્તરમણ, ને બુદ્ધિજૈન્ય ચૂંથાચૂંથ	Ashuddh chittraman, ne buddhijanya chunthachunth	NNNNNNNN	nan
+MS08-009	અહમથી માંડી પાયો મનનો, મમત-મહાલે	Ahamthi mandi payo man no, mamat-mahale	NNNNNNNN	nan
+MS08-011	અજ્ઞાને ભારેલી ગ્રંથીઓ મનની, લખ્ખણ દેખાડે	agnane bhareli granthio manni, lakhkhan dekhade	NNNNNNNN	nan
+MS08-014	આડા અહંકારે ઊભી, કીધલ જગ-પીડા	Aada ahankare ubhi, kidhal jag-pida	NNNNNNNN	nan
+MS08-015	આત્મા કબુલે, 'ઈ' વીતરાગ વાણી	Aatma kabule,"e" vitragi vani	NNNNNNNN	nan
+MS08-016	આશા સંગે ક્રમ-ફૂલ ખીલતાં, ધીરે ધીરે	Aasha Sange Kram-ful Khilta Dhire Dhire	NNNNNNNN	nan
+MS08-017	આંખ સામે જન્મ મોત, વચ્ચે અવસ્થાની દોડ	Aankh Saame Janma Maut, vachche avasthani daud	NNNNNNNN	nan
+MS08-018	ઈચ્છા, અગનીને વાસનાનું ઘાસ પાથરીયું	ichchha, aganine vasnanu ghas pathariyu	NNNNNNNN	nan
+MS08-019	કરણ છે ત્યાં સુધી અંતઃસ્કરણ ભય, કરણથી	karan chhe tya sudhi antahskaran bhay karanthi	NNNNNNNN	nan
+MS08-020	કર્તાપદું રૂપ વ્યવહારે, ચોખ્ખી છે ભ્રાંતી	kartapadu roop vyavhare, chokhkhi chhe bhranti	NNNNNNNN	nan
+MS08-022	કરવા યોગ્ય છે, પરમાર્થે-સિદ્ધ, 'સજીવન મૂર્તીની	karva yogya chhe, parmarthe-siddh, "sajivanmurtini"	NNNNNNNN	nan
+MS08-023	કાયાવી દુઃખ-રોદણાં, ગમ્મે ત્યાં જઈ ગાય	kayavi dukh-rodna, gamme tya jai gaay	NNNNNNNN	nan
+MS08-024	કાષ્ટ-કઠ પુતળી, ભમરડાં જો રમકડાં	kashta-kath putali, bhamarda jo ramakda	NNNNNNNN	nan
+MS08-025	કાળાક્ષર ને કુહાડે માર્યા, પુસ્તક વાંચી, કંઠે	kalakshar ne kuhade marya, pustak vanchi, kanthe	NNNNNNNN	nan
+MS08-029	ક્રમા ક્રમને ચડતી પડતી, બેઊ નાટ્યરૂપી ખેલ	krama kramne chadti padti, beu natyaroopi khel	NNNNNNNN	nan
+MS08-034	છાપેલ ચોપડીનાં, પૂર્વે છપેલ પ્રકરણ	chhapel chopdina, purve chhapel prakaran	NNNNNNNN	nan
+MS08-037	જગતમાં જીવવા લોકે પીધાં છે ઝેર ખૂબ વીપરીત	jagat ma jivva loke pidha chhe zher khub viprit	NNNNNNNN	nan
+MS08-038	જન્મ, ખીલી, કરમાવાનું, તેવી સર્વે અવસ્થામાં	janma,khili,karmavanu,tevi sarve avasthama	NNNNNNNN	nan
+MS08-041	જેનાં હ્ર્દયમાં વીદ્યાઓ સાડી બ્યાશી લાખ	jena hriday ma vidhyao saadi byashi lakh	NNNNNNNN	nan
+MS08-042	જેને જોતાં વેંત ઠરે દીલ ને આંખો બોલે હાશ	jene jota vent thare dil ne aankho bole hash	NNNNNNNN	nan
+MS08-044	દર્શન મોહીનીથી દુનિયા, નહીં ટકવાની ચીજ	Darshan mohinithi duniya, nahi takvani cheej	NNNNNNNN	nan
+MS08-047	દીવો દાદાનો ધરખમ, પ્રકાશમાન બ્રહ્માંડ આખું	Divo dadano dharkham, prakashman bramhand aakhu	NNNNNNNN	nan
+MS08-050	ધોબી આંખ, કાળી કીકી, સ્વભાવીક સમંવય	Dhobi aankh,kali kiki, swabhavik samanvay	NNNNNNNN	nan
+MS08-052	નઝર ઝેર રાગ-દ્વેષ, સાંસારીક ભાવ-ચોંટ	najar zher raag-dwesh,sansarik bhav-chont	NNNNNNNN	nan
+MS08-055	પરગટ - સાંન્નિધ્યે, અપૂર્વ-ભક્તિ	pargat-sanidhye,apurva-bhakti	NNNNNNNN	nan
+MS08-056	પરમ સમય આશ્ચર્યા, જ્ઞાન જ્ઞાન નીર્ગ્રંથી	param samay aashcharya,gyan gyan nirgranthi	NNNNNNNN	nan
+MS08-057	પહેલેથી શંકીત પોતાની જાતનો, કુશંકા-શંકીનું	pahelethi shankit potani jaat no, kushanka-shankinu	NNNNNNNN	nan
+MS08-058	પંચેન્દ્રીયનું જ્ઞાન-પ્રદર્શન, સંજોગી અસરે ચીટકે	panchendriyanu gyan-pradarshan, sanjogi asare chitke	NNNNNNNN	nan
+MS08-059	પાંચ ઈન્દ્રીયોની વ્યાકુલતે, વીશ્વે છે ઊભેલ	panch indriyoni vyakulte, vishwe chhe ubhel	NNNNNNNN	nan
+MS08-060	પુદગલ ખાણો, પુદગલ પીણો, પુદગલ રમણો	pudgal khano,pudgal pino,pudgal ramno	NNNNNNNN	nan
+MS08-061	પૂર્વગ્રહોનાં પાનીયાં વીભાવી રસ પીંજણ	purvagrahona paniya vibhavi ras pinjan	NNNNNNNN	nan
+MS08-062	પ્રતીષ્ઠિત આતમાને તંત ખેંચ, તાંતો ચોંટ	pratisthit Aatamane tant khench, tanto chont	NNNNNNNN	nan
+MS08-063	પ્રેમમાં ડૂબ્યાં તે પ્રથમ દેહભાન ભૂલે છે	prem ma dubya te pratham dehbhan bhule chhe	NNNNNNNN	nan
+MS08-064	બડભાગી લોકે સૂણી, પરગટ સર્વજ્ઞ વાણી	badbhagi loke suni, pargat sarvagna vani	NNNNNNNN	nan
+MS08-065	બુદ્ધિની ઔલાદ તુફાની, અંદર બાંધે તાંતા-વેર	buddhini olad tufani, andar bandhe tanta ver	NNNNNNNN	nan
+MS08-067	ભર્યો ભોટવામાં આખોયે સંસાર સાગર	bharyo bhogvatama aakhoye sansar sagar	NNNNNNNN	nan
+MS08-071	ભીંતની સામે માથાં પછાડો ફૂટશે માથું તુર્તે	bhintni saame matha pachhado phutse mathu turte	NNNNNNNN	nan
+MS08-072	ભોગો-પભોગ દૈહીક, કલ્પીત બાજી શતરંજ	Bhogo-pbhog daihik, kalpit baaji shatranj	NNNNNNNN	nan
+MS08-074	ભ્રાંતી-ભડક, જગત-દવે, શક્તિ-સ્ત્રોત શીતળ-જપ	Bhranti-bhadak,jagat-dave,shakti-strot shital	NNNNNNNN	nan
+MS08-075	ભ્રાંતીવાળાં દોષનાં, જતન થયાંથી પતન	Bhrantivala doshna, jatan thayathi patan	NNNNNNNN	nan
+MS08-076	મનખાંનું લક્ષણ, ચિંતન વીચારણ	Mankhanu lakshan, chintan vicharan	NNNNNNNN	nan
+MS08-077	મહા મુક્તિમય ખુમારી, સાદાઈનો અલંકાર	Maha muktimay khumari, sadai no alankar	NNNNNNNN	nan
+MS08-079	માત્ર પુરણ-ગલન અવસ્થાને 'અહમ'નું ભ્રમણ	Matra puran-galan avasthane "aham" nu bhraman	NNNNNNNN	nan
+MS08-080	માત્ર વિચારો ડાકીયા, ટપાલ પણ વીતરાગ	Matra vicharo dakiya, tapal pan vitrag	NNNNNNNN	nan
+MS08-082	માલીકીનાં ભાવથીજ, અવગાઢ દેહ-મમત	Malikina bhaav thi j, avagadh deh- mamat	NNNNNNNN	nan
+MS08-083	મુક્તી-મંદીર દેખો, અહીં આ હાજર	Mukti-mandir dekho, ahin aa hajar	NNNNNNNN	nan
+page_1496	મોક્ષ પ્રભાવક-મૂર્તિમાન, જય જય જય દાદા ભગવાન	moksha prabhavak-murtimaan, jay jay jay dada bhagwan	NNNNNNNN	91
+MS08-087	વીશ્વ-અધિષ્ઠાને પ્રતીષ્ઠીત-આત્મા છે	vishwa- adhisthane pratisthit aatma chhe	NNNNNNNN	nan
+MS08-088	વ્યવહારમાં યે હીતા-હીતનું ભાન રાખવું	vyavhar ma ye hita-hit nu bhan rakhvu	NNNNNNNN	nan
+MS08-091	સર્વ સહિષ્ણું વીતરાગ, જ્ઞાનાંતર પામી	Sarva sahishnu vitrag. Gyanantar pami	NNNNNNNN	nan
+MS08-092	સર્વાત્માય હીતારથ કેવળ, રૂપ દર્શન 'આ'	sarvatmay hitarath keval, roop darshan "aa"	NNNNNNNN	nan
+MS08-093	સંસારાભિમુખતા દેહ ક્રીયામાં કાર્યરત	sansarabhimukhta deh kriyama karyarat	NNNNNNNN	nan
+MS08-094	સાંયોગીક પૂરાવાની કુદરતી કચેરીમાં	sanyogik puravani kudarati kacheri ma	NNNNNNNN	nan
+MS08-095	સ્વયં પ્રકાશીત જ્યોતી મૂળ અમર	Swayam prakashit jyoti mul amar	NNNNNNNN	nan
+MS08-097	હતો કડવો બીજમાંથી, 'આડાઈ'નો લીમડો	hato kadvo bij mathi, "aadai" no limdo	NNNNNNNN	nan
+MS08-098	હાથે કર્યા અડપલાંથી, વળગેલી જો જંજાળ	haathe  karya adaplathi valgeli jo janjaal	NNNNNNNN	nan
+MS08-099	હીમાલયની તળેટીમાં, સદાયે ઠંડીની લહેરું	himalayni taleti ma, sadaye thandini laheru	NNNNNNNN	nan
+MS08-100	હો .... દાદા રે, આપ વીના લાગે સુનું	ho…dada re, aap vina lage sunu	NNNNNNNN	nan
+MS08-101	હું જાણું છું એ શબ્દ-કેફી, ભ્રાંત શાસ્ત્રાજાળ	Hu janu chhu ae shabda- kefi, bhrant shastra jaal	NNNNNNNN	nan
+MS08-103	ક્ષેત્ર પંદરનો મૂળ 'આ' સત્તાધીશ	kshetra pandar mul "aa" satadhish	NNNNNNNN	nan
+MS08-105	જ્ઞાની પુરૂષનાં મંદીરે બ્રહ્માંડી-સાર	gyani purush na bramhandi-sar	NNNNNNNN	nan
+MS08-106	માનવીને માનવીની લાગી રે માયા	Manvine manvini lagi re maya	NNNNNNNN	nan
+page_1527	અજ્ઞાભાવે 'અવ્યવસ્થિત' રૂપ પ્રયોગસા	Agnabhave "Avyavasthit" roop prayogsa	NNNNNNNN	92
+MS09-005	અકર્તાની શક્તિ અનંત આત્મા તત્વોને	Akarta ni shakti anant aatma tatvone	NNNNNNNN	nan
+page_1517	અનાદિથી અધ્યાસ છે, 'જીવ'ને દેહાધ્યાસ	Anadithi adhyas chhe,"jiv" ne dehadhyas	NNNNNNNN	92
+MS09-011	અનાદિથી જે બંધાયેલ, પ્રતીષ્ઠિત	Anadithi je bandhayel, pratisthit	NNNNNNNN	nan
+page_1537	આર્તધ્યાન, રૌદ્રધ્યાન, સર્વાંશે ના હોય	Aartadhyan Raudradhyan Ssarvanshe Na Hoy	NNNNNNNN	93
+MS09-016	આત્મા બગાડવાનું સાધન છે શંકા	Aatma bagadvanu sadhan chhe shanka	NNNNNNNN	nan
+page_1548	આખું જગત 'ઈફેક્ટ' ને માની	Aakhu Jagat Efffect ne Maani	NNNNNNNN	93
+page_1523	આ સંસાર તો જેવો છે એવો	Aa sansaar to jevo chhe aevo	NNNNNNNN	92
+MS09-023	એકવાર (૩) આવો ભાદરણવાળા દાદા રે	Ek vaar(3) aavo bhadranwala dada re	NNNNNNNN	nan
+MS09-024	ઊદયકાળ પહેલાં પકવી દ્યો, દાદા	udaykaal pahela pakvi dhyo, dada	NNNNNNNN	nan
+MS09-025	ઊંઘનું સપનું, અજ્ઞાન રાતનું, જાગૃત સપનું	ungh nu sapnu, agnan raat nu jagrut sapnu	NNNNNNNN	nan
+MS09-027	કદી અણગમતું આવ્યું કોઈ, તો માનવ	kadi angamtu aavyu koi, to manav	NNNNNNNN	nan
+MS09-028	કોઈ પણ સ્થૂલ દેહ ચેષ્ટા, કરમફળ-ચેતના	koi pan sthul deh chesta, karamfal-chetna	NNNNNNNN	nan
+MS09-029	કેવી તન્મય દશામાં ઊભી પ્રકૃતિ, ભેળી	kevi tanmay dashama ubhi prakruti, bheli	NNNNNNNN	nan
+MS09-031	ક્રીયેચરની મહીં બેઠા, અવ્યક્ત રૂપથી	creature ni mahi betha, avyakta roop thi	NNNNNNNN	nan
+page_1539	ખપે નહીં 'માન' ને 'આવો' છતાં જાતે	Khape nahi "maan" ne "aavo" chhata jaate	NNNNNNNN	93
+MS09-033	ખપે છે પૂર્ણ શુદ્ધ વ્યવહાર, રહીને આત્મ	Khape Chhe Purna Shuddha Vyavhar, rahine aatma	NNNNNNNN	nan
+page_1546	ઘર્ષણ થાતાં, આત્માની શક્તિ થાય	Gharshan Thata Aatmani Shakti Thay	NNNNNNNN	93
+MS09-035	ઘડાઈ ગઈ છે યોજના, મન જથ્થે ગ્રંથી	Ghadai Gai Chhe Yojana Man Jatthe	NNNNNNNN	nan
+MS09-037	ચાલુ ગાડી આખી રોકાઈને, બે-ભાની	Chalu Gadi Aakhi Rokaine Be-Bhani	NNNNNNNN	nan
+MS09-038	છે ક્યાં ક્યાં હીત ને અહીત? ન જાણે	Chhe Kya Kya Hit ne Ahit?	NNNNNNNN	nan
+page_1544	જગત બંધ થાય એવું નથી, સ્વગત કારણ	Jagat Bandh Thay Aevu Nathi Swagat	NNNNNNNN	93
+MS09-051	જો નાટક જાવછો જોવા, ન ઊઠે જ્યાં સુધી	Jo Nataka Javachho Jova Na Uthe	NNNNNNNN	nan
+MS09-053	જે છે 'તે' વીરાટ સ્વરૂપ, જ્ઞાની પુરુષ દાદા	Je Chhe Te Virat Swarup Gnani Purush	NNNNNNNN	nan
+page_1531	દાદા ભગવાનકી જય જય જય બોલો	Dada Bhagavanki Jay Jay Jay Bolo	NNNNNNNN	92
+MS09-063	ન દીઠાં ખૂદનાં દોષો,  રે માયા, અહમનો	Na Ditha Khudna Dosho Re Maya	NNNNNNNN	nan
+MS09-066	નીશ્ચેતન - ચેતન પ્રકૃતિ સંકળાયા	Nischetan-Chetan Prakruti Sankadaya	NNNNNNNN	nan
+MS09-067	નદી યા ડેમ ઊપરથી, જો પાણી જોઈએ	Nadi Ya Dem Uparthi Jo Pani Joiae	NNNNNNNN	nan
+MS09-069	પરમાર્થ પ્રેમનું, અલૌકિક ઝરણું	Paramarth Premnu Alauki Zaranu	NNNNNNNN	nan
+MS09-070	પર અવલંબીત સુખ-દુઃખ, સઘળું છે	Par Avalambit Sukh-Dukha Saghalu	NNNNNNNN	nan
+MS09-072	પોતાને બંધાયેલું લાગે છે	Potane Bandhayelu Lage Chhe	NNNNNNNN	nan
+page_1535	પરસ્પર સ્વ-બંધ્યા જગનાં રીહર્ષલ	Paraspar Swa-Bandhya Jagana Riharshal	NNNNNNNN	93
+MS09-074	પ્રતીષ્ઠિત આતમા ચીંતવે, કરે જે ભાવ	Pratisthit Aatama Chintave Kare Je	NNNNNNNN	nan
+MS09-075	પહેલાંનાં દેવાં ચૂકવાતાં જાતાં, પછી જ	Pahelana Deva Chukavata Jata Pachhij	NNNNNNNN	nan
+MS09-076	પરમાણું થીયરી, નીજબોધુએ સુધરે	Paramanu Thiyari Nijbodhue Sudhare	NNNNNNNN	nan
+MS09-078	પુદગલ - સ્વભાવે અસર થાય જ	Pudgal Swabhave Asar Thayaj	NNNNNNNN	nan
+MS09-082	બાહુલ્યતા કરમની, વીકરાળ કાળ	Bahulyata KaramanI Vikaral Kal	NNNNNNNN	nan
+MS09-084	બુદ્ધિનાં આશયમાં ભર્યું છે જેવું	Buddhina Aashayma Bharyu Chhe	NNNNNNNN	nan
+MS09-087	મનો, વાણીને કાયાનાં, જે ધર્મો છે તે	Mano Vanine Kayana Je Dharmo Chhe	NNNNNNNN	nan
+MS09-088	મનો બુદ્ધિ ને ચીત્ત - ચારો, ક્રીયાવંતા	Mano Buddhi Ne Chitt-Charo Kriyavant	NNNNNNNN	nan
+MS09-091	મૂઢનો છે આક્ષેપ, જીવ તો છે સાપેક્ષ	Mudhano Chhe Aaxep Jiv  to Chhe	NNNNNNNN	nan
+MS09-093	વશ કરવું મનને, અશક્ય કઠીન છે	Vash Karavu Manne Ashakya Kathin	NNNNNNNN	nan
+MS09-096	શ્રુત જ્ઞાન યોગ નહીં, સત્સંગ હોય ભલે	Shrut Gnan Yog Nahi Satsang Hoy	NNNNNNNN	nan
+MS09-098	સંસાર તરફી વેપાર કરીને, થાકે છે	Sansar Tarafi Vepar Karine Thake Chhe	NNNNNNNN	nan
+MS09-100	સર્વજ્ઞ' પ્રગટ સ્વરૂપ, હે કરૂણા-નીધી	Sarvagna Pragat Swarup He Karuna-Nidhi	NNNNNNNN	nan
+MS09-102	સંસર્ગ - દોષે ભાવ - સાંયોગીક અશુદ્ધિ	Sansarg-Doshe Bhav-Sanyogik	NNNNNNNN	nan
+MS09-106	હોય મોહ ત્યાં જ રહે મનમાં એકાગ્રતા	Hoy Moh Tyanj Rahe Manma Aekagrata	NNNNNNNN	nan
+MS09-108	આ તે શા ઝંકાર હ્રદયમાં, ઉઠતા વારંવાર	Aa te Sha Zankar Hradayma Uthata	NNNNNNNN	nan
+MS09-109	ધન્ય રે! દિવસ અહો!  જાગી રે શાંતિ	Dhanya re Divas Aho Jagi re Shanti	NNNNNNNN	nan
+MS09-110	એક જ્યોતિ જલે મુજ નૈનનમાં	Aek Jyoti Jale Muj Nainanma	NNNNNNNN	nan
+MS010-004	આપ્તપુત્રો જ્ઞાનીના સિદ્ધિવંતા	Aaptaputro Gnanina Siddhivanta	NNNNNNNN	nan
+MS010-011	શાસ્ત્રો યા પુસ્તક વાંચીને	Shastro Ya Pustak Vanchine	NNNNNNNN	nan
+MS010-013	બિલીફો રોંગ તોડીને	Bilifo Rong Todine	NNNNNNNN	nan
+MS010-014	જગત ભોગવતા ગ્યા મોક્ષે	Jagat Bhogavata Gya Mokshe	NNNNNNNN	nan
+MS010-026	રસ્તા પરનાં વાહનો	Rasta Parana Vahano	NNNNNNNN	nan
+MS010-031	દુનિયાભરના જીવાત્મા	Duniyabharna Jivatma	NNNNNNNN	nan
+MS010-032	જે કાર્ય ખુલ્લું કરવાથી	Je Kary Khullu Karavathi	NNNNNNNN	nan
+MS010-033	આત્માને બાજુએ રાખી	Aatmane Bajue Rakhi	NNNNNNNN	nan
+MS010-038	કળિયુગ બહાર ક્યાંય નથી	Kaliyug Bahara Kyay Nathi	NNNNNNNN	nan
+MS010-041	જ્યાં શંકા ત્યાં જ ભય	Jya Shanka Tyanj Bhay	NNNNNNNN	nan
+MS010-042	પડાવે વાંધા ને વચકા	Padave Vandha ne Vachaka	NNNNNNNN	nan
+MS010-045	કરમનો કર્તા પોતે હું	Karamno Karta Pote Hu	NNNNNNNN	nan
+MS010-048	કરતાં જાય કરોળિયો	Karata Jay Karodiyo	NNNNNNNN	nan
+MS010-049	મન તો બજાવે મન-ધરમ	Man to Bajave Man-Dharam	NNNNNNNN	nan
+MS010-050	રહે અંતઃસ્કરણમાં શાંતિ	Rahe Antahskaranma Shanti	NNNNNNNN	nan
+MS010-054	તું જે જ એ કરીશ તે	Tu Je Je Karish te	NNNNNNNN	nan
+MS010-055	અહંકારે ભરી રેકર્ડ	Ahankare Bhari Rekard	NNNNNNNN	nan
+MS010-063	ગર્વ કે ગારવતા નથી	Garva Ke Garavata Nathi	NNNNNNNN	nan
+MS010-066	જગતમાં ફર્યા છતાંય	Jagatama Pharya Chhatay	NNNNNNNN	nan
+MS010-067	દાદા તમારાં ઈતિહાસ ભૂગોળ	Dada Tamara Itihas Bhugol	NNNNNNNN	nan
+MS010-068	ઉતારી આખુંયે આકાશ	Utari Aakhuye Aakash	NNNNNNNN	nan
+MS010-087	પ્રગટ પુરૂષ તે નિત નાવીન્યા	Pragat Purush Te Nit Navinya	NNNNNNNN	nan
+MS010-090	અસીમ જય જયકાર હો	Asim Jay Jaykar Ho	NNNNNNNN	nan
+MS010-091	ગુરૂપૂર્ણિમા છે દાદાની	Gurupurnima Chhe Dadani	NNNNNNNN	nan
+MS010-093	અજન્મા જન્મોત્સવ, અલૌકિક વહેવાર	Ajanma Janmotsav Aloikik Vahevar	NNNNNNNN	nan
+MS010-096	દાદાના જયકારા ગુંજવતા	Dadana Jaykar Gunjavata	NNNNNNNN	nan
+MS010-100	દાદા ભગવાન મારા	Dada Bhagavan Mara	NNNNNNNN	nan
+MS010-108	શિલારોપણ મોક્ષાર્થે	Shilaropan Moksharthe	NNNNNNNN	nan
+page_1516	ૐ સ્વરૂપ અય ખુદાએ આમ	Om Swarup Ay Khudae Aam	NNNNNNNN	92
+MS011-040	ગં ગુરૂપૂર્ણિમા સહિયારી	Gam Gurupurnima Sahiyari	NNNNNNNN	nan
+MS011-066	દાદા'! અમેરિકા ગજવીને	Dada America Gajavine	NNNNNNNN	nan
+MS011-074	દાદા'ના જયકાર હો	Dadana Jaykar Ho	NNNNNNNN	nan
+MS011-078	દુઝે છે સ્મૃતિ	Duze Chhe Smruti	NNNNNNNN	nan
+MS011-080	નવલાં વરસ	Navala Varas	NNNNNNNN	nan
+MS011-082	નમો અરિહંતાણં .....	Namo Aarihantanam	NNNNNNNN	6
+MS011-101	વંદના આનંદ ઉર્ભર	Vandana Aanand Urbhar	NNNNNNNN	nan
+MS011-110	શંકરપુરમાં 'દાદા'ની ધૂન	Shankarpurma Dadani Dhun	NNNNNNNN	nan
+MS011-124	સૂરજ, ચંદર ને તારા'દિ	Suraj Chandar Ne Taradi	NNNNNNNN	nan
+MS099-010	જે બુદ્ધિ વ્હેતી વ્હેવારે, તે	Je buddhi vaheti vyavahare, te	NNNNNNNN	nan
+page_1509	દાદા ભગવાનકો નમસ્કાર કરતે હૈ	Dada bhagwan ko namaskar karte he	NNNNNNNN	91
+MS098-004	આપ્તપુત્રોનું જોશીલું જુલુસ	Aaptaputronu Joshilu Julus	NNNNNNNN	nan
+MS098-006	આપ્તપિતાનાં સિદ્ધાંત સૂત્રો	Aaptapitana Siddhant Sutro	NNNNNNNN	nan
+page_1493	સીમંધર સ્વામી, ચેતન વિહારી	Simandhar Swami Chetan Vihari	NNNNNNYN	91
+page_1494	નમો વીતરાગ અરિહંતાણં	Namo Vitarag Aarihantanam	NNNNNNNN	91
+page_1497	મિચ્છા મિ માંગલિક - બે હાથ જોડી, ઝુકાવ્યું	Micchami Mangalik - Be Hath Jodi	NNNNNNNN	91
+page_1498	અંબા માતાજીની આરતી - જય આદ્યશક્તિ	Amba Matajini Aarati - Jay Aadyashakti	NNNNNNNN	91
+page_1499	જુદા જુદા ગામો છે, પણ ચાંદો તો એક જ છે	Juda Juda Gamo Chhe pan Chando To Aek	NNNNNNNN	91
+page_1500	કિયા પ્રસંગથી કરું શરૂઆત	Kiya Prasangthi Karu Sharuaat	NNNYNNNN	91
+page_1501	કિર્તનભક્તિ બોલી દિલ દરવાજો ખોલી	Kirtan Bhakti Boli Dil Daravajo Kholi	NNNNNNNN	91
+page_1506	અંધારે ઘન અંધારે, અજવાળાં શાં	Andhare Ghan Andhare Ajavara Sha	NNNNNNNN	91
+MS12-001	અક્રમ સામાયિક પ્રતિક્રમણાં, સર્વોત્કૃષ્ટ છે	Akram Samayik Pratikramna	NNNNNNNN	nan
+MS12-002	હથોડા મારશો તો યે નહિં બદલાય	Hathoda Marsho to ye nahi Badalay	NNNNNNNN	nan
+MS12-003	સ્વ-ભરથાર થકી સંતોષિત, એક જ પત્નીવ્રત	Swabharthar Thaki Santoshit Aekaj	NNNNNNNN	nan
+MS12-004	અનાદિથી અનાત્માને બહિરીન્દ્રી પરિચિત	Anadithi Anatmane Bahirindri	NNNNNNNN	nan
+MS12-005	જન્મોત્સવ મંગલ જન્મ દિવસ ભૂગોળ	Janmotsav Mangal Janma Divas Bugol	NNNNNNNN	nan
+MS12-006	મને સિમંધરનું નામ લેતાં સહેજે આનંદ થાય	Mane Simandharnu Nam Leta Saheje	NNNNNNNN	nan
+MS12-007	આ કોનું સ્વપ્ન છે? એ ઈમારત શું જાણે?	Aa Konu Swapna Chhe	NNNNNNNN	nan
+MS12-008	મહાવિદેહે ધ્વજાયે બદલે, અંદર	Mahavidehe Dhvajaye Badale	NNNNNNNN	nan
+MS12-009	ત્રિમંદિરની 'સિલ્વર જ્યુબિલી'	Trimandirni Silver Jubili	NNNNNNNN	nan
+MS12-009	ત્રિમંદિરની 'સિલ્વર જ્યુબિલી'	Trimandirni Silver Jubili	NNNNNNNN	nan
+MS12-009	ત્રિમંદિરની 'સિલ્વર જ્યુબિલી'	Trimandirni Silver Jubili	NNNNNNNN	nan
+MS12-009	ત્રિમંદિરની 'સિલ્વર જ્યુબિલી'	Trimandirni Silver Jubili	NNNNNNNN	nan
+MS12-009	ત્રિમંદિરની 'સિલ્વર જ્યુબિલી'	Trimandirni Silver Jubili	NNNNNNNN	nan
+MS12-009	ત્રિમંદિરની 'સિલ્વર જ્યુબિલી'	Trimandirni Silver Jubili	NNNNNNNN	nan
+MS12-009	ત્રિમંદિરની 'સિલ્વર જ્યુબિલી'	Trimandirni Silver Jubili	NNNNNNNN	nan
+MS12-009	ત્રિમંદિરની 'સિલ્વર જ્યુબિલી'	Trimandirni Silver Jubili	NNNNNNNN	nan
+MS12-009	ત્રિમંદિરની 'સિલ્વર જ્યુબિલી'	Trimandirni Silver Jubili	NNNNNNNN	nan
+MS12-009	ત્રિમંદિરની 'સિલ્વર જ્યુબિલી'	Trimandirni Silver Jubili	NNNNNNNN	nan
+MS12-009	ત્રિમંદિરની 'સિલ્વર જ્યુબિલી'	Trimandirni Silver Jubili	NNNNNNNN	nan
+MS12-009	ત્રિમંદિરની 'સિલ્વર જ્યુબિલી'	Trimandirni Silver Jubili	NNNNNNNN	nan
+MS12-009	ત્રિમંદિરની 'સિલ્વર જ્યુબિલી'	Trimandirni Silver Jubili	NNNNNNNN	nan
+MS12-009	ત્રિમંદિરની 'સિલ્વર જ્યુબિલી'	Trimandirni Silver Jubili	NNNNNNNN	nan
